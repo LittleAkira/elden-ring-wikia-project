@@ -15,9 +15,13 @@ body{
     background-attachment:fixed;
 }
 
-h3{
+h1, h2, h3{
     color: #b4b2b0;
     text-transform: uppercase;
+}
+
+td, th, p{
+    color: #ffffff;
 }
 
 a {
@@ -110,7 +114,91 @@ a {
     height: 13px;
 }
 
+/*info page*/
+.page-title{
+    margin: 10px 40px 40px 40px;
+}
 
+.page-title h1{
+
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+    padding-left: 30px;
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+.title-divider{
+    background-color: #ab966f;
+    height: 3px;
+}
+
+.info-box{
+    display: flex;
+    margin: 0px 80px;
+}
+
+.info-text{
+    margin-right: 80px;
+}
+
+.pc-specs{
+    border-spacing: 0;
+    background-color: #1a1a1ae0;
+}
+
+.pc-specs th{
+    border: solid 2px #282828;
+    padding: 10px 20px;
+}
+
+.pc-specs td{
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.info-table{
+    padding: 5px 10px;
+    width: 300px;
+    border-image-source: url('./assetts/image/border-table.png');
+    border-image-width: 20px 40px;
+    border-image-repeat: round;
+    border-image-slice: 30 50 fill;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.info-table tbody{
+    background-image: url('./assetts/image/background-table.png');
+}
+
+.table-title{
+    text-align: center;
+}
+.table-title h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px 0px 10px 0px;
+}
+
+.table-title img{
+    width: 300px;
+    height: 169px;
+    margin-bottom: 10px;
+}
+
+.info-table th{
+    text-align: center;
+    padding: 10px;
+}
+
+.info-table td{
+    padding-left: 10px;
+}
+
+.info-table th, td{
+    border: solid 2px #282828;
+}
 
 /*footer*/
 .footer{
