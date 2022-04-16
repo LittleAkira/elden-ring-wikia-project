@@ -1,20 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@200;300;400;500;600;700&display=swap');
+
 html, body{
     margin: 0px;
     padding: 0px;
+    font-family: 'Spectral', serif;
     background-image: url('./assetts/image/background-body.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /*stile header page*/
 
 .nav-header{
-    background-color: rgb(34, 34, 34);
+    background-color: #222222;
+    max-height: 340px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .nav-link{
     text-decoration: none;
-    color: rgb(157, 157, 157);
+    color: #9d9d9d;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 10px;
+    flex-grow: 1;
+    align-items: baseline;
+}
+
+.logo-page{
+    margin-left: 130px;
+    margin-top: 50px;
 }
 
 .logo-page img{
     width: 300px;
 }
+
+/*stile body page*/
+
+.body-page{
+    background-color: #000000c5 !important;
+    margin: 0px 100px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.start-body-page{
+    height: 10px;
+    border: 2px solid #ab966f;
+    border-bottom: none;
+}
+
+.page-card-row{
+    display: flex;
+    text-align: center;
+    margin: 0px 50px;
+}
+
+.title-card{
+    border: solid 2px #ab966f;
+    border-left: none;
+    border-right: none;
+    padding: 5px 0px;
+}
+
+.page-card-row a{
+    text-decoration: none;
+    color: #aaaaaa;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+
+.end-body-page{
+    height: 10px;
+    border: 2px solid #ab966f;
+    border-top: none;
+}
+
