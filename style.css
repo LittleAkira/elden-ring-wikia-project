@@ -1,0 +1,20 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('./assetts/image/background-body.jpg');
+}
+
+/*stile header page*/
+
+.nav-header{
+    background-color: rgb(34, 34, 34);
+}
+
+.nav-link{
+    text-decoration: none;
+    color: rgb(157, 157, 157);
+}
+
+.logo-page img{
+    width: 300px;
+}
