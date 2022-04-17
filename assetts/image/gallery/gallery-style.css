@@ -1,0 +1,12 @@
+/*style gallery*/
+
+img{
+    max-width: 540px;
+}
+
+.gallery-row{
+    margin: 50px 40px 50px 40px;
+    width: 96%;
+    display: flex;
+    justify-content: space-evenly;
+}
