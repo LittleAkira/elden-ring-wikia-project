@@ -106,14 +106,16 @@ a {
 }
 
 .row-title{
-    width: 600px;
+    width: 968px;
     margin: 10px 80px;
 
 }
 
 .deco-title{
     background-image: url("./assetts/image/deco.png");
-    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 13px;
 }
 
