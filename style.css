@@ -41,6 +41,7 @@ a {
     position: fixed;
     top: 0px;
     display: flex;
+    align-items: center;
 }
 
 .header-nav a{
@@ -48,6 +49,9 @@ a {
     padding: 20px 16px;
 }
 
+.nav-search{
+    flex-grow: 1;
+}
 
 .header-logo img{
     max-width: 270px;
