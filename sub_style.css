@@ -9,6 +9,11 @@
     padding-left: 10px;
 }
 
+.active{
+    background-color:#ab966f !important;
+    color: #343434 !important;
+    font-weight: bolder;
+}
 
 /*style gallery*/
 
@@ -52,4 +57,15 @@ img{
 .header-nav a:hover{
     background: #4c4c4c;
     color: #b18f50;
+}
+
+/*template grid*/
+.template-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.template {
+    width: 180px;
+    max-height: 420px;
 }

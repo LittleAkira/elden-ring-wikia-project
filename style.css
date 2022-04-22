@@ -35,7 +35,7 @@ a {
     font-size: 16px;
     background-color: #343434;
     text-transform: uppercase;
-    max-height: 340px;
+    max-height: 200px;
     width: 100%;
     text-align: center;
     position: fixed;
@@ -46,7 +46,7 @@ a {
 
 .header-nav a{
     flex-grow: 1;
-    padding: 20px 16px;
+    padding: 16px 16px;
 }
 
 .nav-search{
@@ -100,6 +100,8 @@ a {
 }
 
 
+
+
 /*element page*/
 .page-row{
     margin: 40px 0px;
@@ -114,7 +116,13 @@ a {
 .row-title{
     width: 968px;
     margin: 10px 80px;
+}
 
+.row-title a{
+    margin: 20px auto;
+    text-transform:uppercase;
+    font-size: 24px;
+    display: inline-block;
 }
 
 .deco-title{
