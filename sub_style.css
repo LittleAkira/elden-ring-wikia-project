@@ -59,13 +59,27 @@ img{
     color: #b18f50;
 }
 
-/*template grid*/
-.template-grid{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+
+tr:hover{
+    background-color: #474747e0;
 }
 
-.template {
+/*template grid*/
+.template-grid{
+    
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.template{
     width: 180px;
     max-height: 420px;
+    text-align: center;
+    margin: 40px 20px;
+}
+
+.template img{
+    width: 180px;
+    max-height: 420px;
+    margin-bottom: 20px;
 }
