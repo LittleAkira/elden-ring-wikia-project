@@ -1,14 +1,4 @@
-/*nav search*/
-
-#search-site {
-    border: solid #999999 1px;
-    border-radius: 10%;
-    background-color: #343434;
-    color: #999999;
-    height: 34px;
-    padding-left: 10px;
-}
-
+/*active nav-link*/
 .active{
     background-color:#ab966f !important;
     color: #343434 !important;
@@ -24,8 +14,11 @@ img{
 .gallery-row{
     margin: 50px 40px 50px 40px;
     width: 96%;
-    display: flex;
-    justify-content: space-evenly;
+    /* display: flex;
+    justify-content: space-evenly; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 20px;
 }
 
 
@@ -53,12 +46,10 @@ img{
 }
 
 /*decoration*/
-
 .header-nav a:hover{
     background: #4c4c4c;
     color: #b18f50;
 }
-
 
 tr:hover{
     background-color: #474747e0;

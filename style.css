@@ -9,10 +9,8 @@ html, body{
 }
 
 body{
-    background-image: url("./assetts/image/background-body.jpg");
-    background-repeat: no-repeat;
+    background: url("./assetts/image/background-body.jpg") no-repeat fixed;
     background-size: cover;
-    background-attachment:fixed;
 }
 
 h1, h2, h3{
@@ -30,7 +28,6 @@ a {
 }
 
 /*header*/
-
 .header-nav{
     font-size: 16px;
     background-color: #343434;
@@ -44,7 +41,7 @@ a {
     align-items: center;
 }
 
-.header-nav a{
+.nav-link {
     flex-grow: 1;
     padding: 16px 16px;
 }
@@ -53,34 +50,37 @@ a {
     flex-grow: 1;
 }
 
+#search-site {
+    border: solid #999999 1px;
+    border-radius: 10%;
+    background-color: #343434;
+    color: #999999;
+    height: 34px;
+    padding-left: 10px;
+}
+
 .header-logo img{
     max-width: 270px;
     margin: 100px 0px 20px 200px;
 }
 
 /*body*/
-
 .body-page{
     background-color: #000000d9;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
     display: flex;
     flex-direction: column;
 }
 
-.body-start{
+.body-start, .body-end{
     height: 4px;
     border: solid #ab966f 4px;
     border-bottom: none;
 }
 
-.body-end{
-    height: 4px;
-    border: solid #ab966f 4px;
-    border-top: none;
-}
-
-/*element index*/
+/*index element*/
 .body-row{
     display: flex;
     align-content: center;
@@ -99,10 +99,7 @@ a {
     border-right: none;
 }
 
-
-
-
-/*element page*/
+/*body-page element*/
 .page-row{
     margin: 40px 0px;
     font-size: 24px;
@@ -201,6 +198,7 @@ a {
 .table-title{
     text-align: center;
 }
+
 .table-title h2{
     font-size: 30px;
     font-weight: 600;
