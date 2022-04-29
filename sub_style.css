@@ -1,6 +1,15 @@
-/*nav search*/
+/*nav bar*/
 
 #search-site {
+    border: solid #999999 1px;
+    border-radius: 10%;
+    background-color: #343434;
+    color: #999999;
+    height: 34px;
+    padding-left: 10px;
+}
+
+#search-site:hover {
     border: solid #999999 1px;
     border-radius: 10%;
     background-color: #343434;
@@ -14,6 +23,13 @@
     color: #343434 !important;
     font-weight: bolder;
 }
+
+/*body home*/
+
+.link-title:hover{
+    text-shadow: 0 0 15px #ffffff;
+}
+
 
 /*style gallery*/
 
