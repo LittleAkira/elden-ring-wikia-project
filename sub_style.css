@@ -102,19 +102,13 @@ tr:hover{
 
 /*template grid*/
 .template-grid{
+    width: 100%;
+    margin: 30px;
+    gap: 20px;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap: 15px;
-}
+    grid-template-rows: repeat(2,1fr);
+    align-items: space-evenly;
+    justify-items: center;
 
-.template{
-    width: 180px;
-    max-height: 420px;
-    text-align: center;
-    margin: 40px auto;
-}
-
-.template-grid img{
-    height: 350px;
-    margin-bottom: 20px;
 }

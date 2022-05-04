@@ -1,18 +1,12 @@
 class Equipment {
-    constructor(img, name, stat, scaling){
+    constructor(img, name, stat, scaling, weight){
         this.img = img;
         this.name = name;
         this.stat = stat;
         this.scaling = scaling;
+        this.weight = weight;
     }
 }
-
-const dagger1 = new Equipment ("img","Pugnale", 23, 28);
-const dagger2 = new Equipment ("img", "Pugnale corto", 24, 30);
-
-
-const daggerArray = [dagger1, dagger2];
-
 
 function writeTable (array){
     const container = document.getElementById("menu-table");
@@ -21,6 +15,7 @@ function writeTable (array){
 
         const col1 = document.createElement("td");
         const data1 = document.createElement("img");
+        
         col1.appendChild(data1);
         row.appendChild(col1);
 
@@ -39,10 +34,12 @@ function writeTable (array){
         col4.appendChild(data4);
         row.appendChild(col4);
 
+        const col5 = document.createElement("td");
+        const data5 = document.createTextNode(element.weight);
+        col5.appendChild(data5);
+        row.appendChild(col5);
+
 
         container.appendChild(row);
     }
 }
-
-
-writeTable(daggerArray);

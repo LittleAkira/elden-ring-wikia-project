@@ -15,7 +15,7 @@ body{
     background-attachment:fixed;
 }
 
-h1, h2, h3{
+h1, h2, h3, h4{
     color: #b4b2b0;
     text-transform: uppercase;
 }
@@ -86,31 +86,39 @@ img{
     border-top: none;
 }
 
-/*element index*/
+/*INDEX*/
 .body-row{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 40px;
+    gap: 60px;
     align-content: center;
     justify-content: space-evenly;
-    margin: 10px 40px;
-}
-
-.row-card{
-    text-align: center;
-    width: auto;
-    height: 100%;
+    margin: 60px;
 }
 
 .title-card h3{
+    text-align: center;
     border: solid 2px #ab966f;
     border-left: none;
     border-right: none;
 }
 
-iframe{
+.iframe-container{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
     height: 100%;
-    width: 80%;
+    border: none;
 }
 
 
@@ -165,15 +173,11 @@ iframe{
 }
 
 .info-box{
-    display: flex;
-    margin: 0px 80px 40px 80px;
+    padding: 20px 80px 40px;
 }
 
-.info-text{
-    margin-right: 80px;
-}
 
-.info-text h3{
+.info-box h3{
     padding-left: 24px;
     font-size: 24px;
     font-weight: 600;
@@ -194,8 +198,12 @@ iframe{
     padding: 10px 20px;
 }
 
+/*INFORMATIVE TABLE*/
 
 .info-table{
+    float: right;
+    margin-left: 40px;
+    margin-bottom: 40px;
     padding: 5px 10px;
     width: 300px;
     border-image-source: url('./assetts/image/border-table.png');
@@ -238,7 +246,7 @@ iframe{
     border: solid 2px #282828;
 }
 
-/*footer*/
+/*FOOTER*/
 .footer{
     color: #fff;
     display: flex;
