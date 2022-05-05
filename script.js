@@ -15,7 +15,6 @@ function writeTable (array){
 
         const col1 = document.createElement("td");
         const data1 = document.createElement("img");
-        
         col1.appendChild(data1);
         row.appendChild(col1);
 
@@ -24,15 +23,20 @@ function writeTable (array){
         col2.appendChild(data2);
         row.appendChild(col2);
 
-        const col3 = document.createElement("td");
-        const data3 = document.createTextNode(element.stat);
-        col3.appendChild(data3);
-        row.appendChild(col3);
+        for (const stat of element.stat){
+            const col3 = document.createElement("td");
+            const data3 = document.createTextNode(stat);
+            col3.appendChild(data3);
+            row.appendChild(col3);
+        }
 
-        const col4 = document.createElement("td");
-        const data4 = document.createTextNode(element.scaling);
-        col4.appendChild(data4);
-        row.appendChild(col4);
+        for (const scal of element.scaling){
+            const col4 = document.createElement("td");
+            const data4 = document.createTextNode(scal);
+            col4.appendChild(data4);
+            row.appendChild(col4);
+        }
+        
 
         const col5 = document.createElement("td");
         const data5 = document.createTextNode(element.weight);

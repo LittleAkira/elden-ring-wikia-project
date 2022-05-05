@@ -75,8 +75,14 @@
 }
 
 .illustrate-menu table{
-    width: 100%;
+    height: auto;
+    width: auto;
     border-collapse: collapse;
+}
+
+#menu-table th{
+    border: solid 2px #282828;;
+    padding: 10px;
 }
 
 #menu-table td{
