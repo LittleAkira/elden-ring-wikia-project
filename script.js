@@ -6,6 +6,7 @@ class Equipment {
         this.scaling = scaling;
         this.weight = weight;
     }
+    
 }
 
 function writeTable (array){
@@ -13,8 +14,11 @@ function writeTable (array){
     for (const element of array) {
         const row = document.createElement("tr");
 
+
+        /// RISOLVERE INSERIMENTO IMMAGINI
         const col1 = document.createElement("td");
         const data1 = document.createElement("img");
+        data1.innerHTML = "<img src = '"+ this.img+"'/>";
         col1.appendChild(data1);
         row.appendChild(col1);
 

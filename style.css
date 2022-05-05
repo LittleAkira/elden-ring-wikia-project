@@ -9,7 +9,8 @@ html, body{
 }
 
 body{
-    background-image: url("./assetts/image/background-body.jpg");
+    background-color: #343434;
+    background-image: url("./assetts/image/background-body.jpg")!important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment:fixed;
