@@ -1,0 +1,266 @@
+[
+  {
+    "id": "",
+    "name": "Passo veloce",
+    "unique": false,
+    "desc": "Abilità per guerrieri agili e scaltri.\nEsegue un veloce scatto consentendo di girare intorno ai bersagli agganciati."
+  },
+  {
+    "id": "",
+    "name": "Affondo ripetuto",
+    "unique": false,
+    "desc": "Esegue una torsione per prendere slancio, quindi libera una raffica di affondi."
+  },
+  {
+    "id": "",
+    "name": "Dardo di scintipietra",
+    "unique": true,
+    "desc": "Abilità che imita la stregoneria Ciottolo di scintipietra.\nCarica l'attacco per trasformarlo in Dardo di scintipietra.\nSe seguita da un attacco potente, esegue un affondo perforante."
+  },
+  {
+    "id": "",
+    "name": "Lama di sangue Reduvia",
+    "unique": true,
+    "desc": "Attacca con il pugnale maledetto, trasformando il sangue che gronda eternamente dalla lama in proiettili taglienti che causano sanguinamento.\nÈ possibile lanciare raffiche in rapida successione."
+  },
+  {
+    "id": "",
+    "name": "Lama dorata",
+    "unique": true,
+    "desc": "Spiccato un salto, l'esecutore infonde di fiamme dorate l'armamento, scagliando contro il nemico un singolo, aggilato.\nInfligge danni sacri."
+  },
+  {
+    "id": "",
+    "name": "Lama della morte",
+    "unique": true,
+    "desc": "Scatena il potere della runa della morte per lanciare proiettili affilati. Oltre alle ferite iniziali, le lame riducono i PV massimi dell'avversario e continuano a infliggere danni per un periodo."
+  },
+  {
+    "id": "",
+    "name": "Calcio",
+    "unique": false,
+    "desc": "Spingi via il nemico con un calcio alto.\nUtile contro gli avversari chiusi in difesa, poiché permette di sbilanciarli.\nGli strumenti più semplici possono rivelarsi i più efficaci."
+  },
+  {
+    "id": "",
+    "name": "Posizionamento",
+    "unique": false,
+    "desc": "Abilità che ha inizio con la spada in posizione orizzontale.\nCon un attacco normale ti incunei nella difesa nemica colpendo dal basso, con un attacco potente corri e ti lanci in affondo."
+  },
+  {
+    "id": "",
+    "name": "Taglio rotante",
+    "unique": false,
+    "desc": "Abilità prediletta dai guerrieri più abili.\nFa roteare il corpo, infliggendo fendenti al nemico. Premi di nuovo per eseguire un attacco supplementare."
+  },
+  {
+    "id": "",
+    "name": "Ciottolo di scintipietra",
+    "unique": false,
+    "desc": "Abilità che imita la stregoneria scintipietra dello stesso nome.\nSeguita da un attacco potente, sfrutta il potere della scintipietra per colpire con un affondo perforante."
+  },
+  {
+    "id": "",
+    "name": "Fasti cariani",
+    "unique": false,
+    "desc": "Abilità che incarna il prestigio dei reali di Caria.\nTrasforma l'arma in uno spadone magico e sferra un fendente.\nÈ possibile caricare l'abilità fino a due volte, aumentandone l'efficacia."
+  },
+  {
+    "id": "",
+    "name": "Tempra aurea",
+    "unique": true,
+    "desc": "Incrocia le spade per infondere essenza sacra nei loro attacchi. Finché è attiva, gli attacchi potenti scateneranno combinazioni di colpi a due mani."
+  },
+  {
+    "id": "",
+    "name": "Legge della morte / Ultimi rituali",
+    "unique": true,
+    "desc": "Solleva l'epitggio per infondere l'effetto del Sacro ordine all'esecutore e agli alleati vicini.\nPArticolarmente efficace per donare l'eterno riposo a coloro che vivono nella morte."
+  },
+  {
+    "id": "",
+    "name": "Foschie del sonno",
+    "unique": true,
+    "desc": "Rilascia davanti all'esecutore un'impercettibile foschia violacea. La nube induce al sonno chiunque la attraversi."
+  },
+  {
+    "id": "",
+    "name": "Lama danzante di Eochaid",
+    "unique": true,
+    "desc": "Infonde la spada di energia poi la lancia contro i nemici in un attacco roteante. La spada infligge danni mentre rotea con forza. Carica l'attacco per incrementare il raggio e la durata della rotazione."
+  },
+  {
+    "id": "",
+    "name": "Lama a scatto / Lama ineluttabile",
+    "unique": true,
+    "desc": "Infonde la lama cifrata di luce, incrementandone la lunghezza, per poi eseguire un ampio e rapido fendente.\nQuesto attacco è impossibile da bloccare."
+  },
+  {
+    "id": "",
+    "name": "Postura notte e fiamma",
+    "unique": true,
+    "desc": "Tieni la spada in posizione orizzontale e preparati a lanciare una stregoneria.\nL'attacco normale lancia la stregoneria Cometa notturna, quello potente genera un'esplosione di fiamme davanti all'esecutore."
+  },
+  {
+    "id": "",
+    "name": "Lama di adipocera",
+    "unique": true,
+    "desc": "Abilità perduta di antichi eroi.\nPunta la spada al cielo per liberare il potere dell'adipocera, per poi scargliarla in avanti come un proiettile affilato."
+  },
+  {
+    "id": "",
+    "name": "Grido di Milos",
+    "unique": true,
+    "desc": "Emette un orrido urlo maledetto che limita tutte le riduzioni dei danni e le resistenze di stato dei nemici vicini.\nFinché è attiva, gli attacchi potenti diventano combinazioni di colpi."
+  },
+  {
+    "id": "",
+    "name": "Vortice di Ordovis",
+    "unique": true,
+    "desc": "Attingi al potere del Crogiolo per consentire alla spada di mulinare a mezz'aria, percuotendo alla fine il terreno.\nAccumula potenza se caricata."
+  },
+  {
+    "id": "",
+    "name": "Prese del campione di alabastro",
+    "unique": true,
+    "desc": "Conficca l'armamento nel terreno per creare un pozzo gravitazionale. Oltre a infliggere danni, attira i nemici verso l'esecutore."
+  },
+  {
+    "id": "",
+    "name": " Fiamma spettrale",
+    "unique": true,
+    "desc": "Esegue un affondo con la punta della clava avvolta di fiamme spettrali.\nSeguita da un attacco normale, incendia il terreno di fronte all'utilizzatore.\nL'attacco potente genra una devastante esplosione."
+  },
+  {
+    "id": "",
+    "name": " Spadone della luna",
+    "unique": true,
+    "desc": "Solleva la spada per attingere al bagliore della luna nera.\nPotenzia gli attacchi magici per un periodo e infonde la lama di gelo.\nI colpi caricati generano esplosioni di luce lunare."
+  },
+  {
+    "id": "",
+    "name": " Furia della fiamma spettrale",
+    "unique": true,
+    "desc": "Agita la spada per infondervi la fiamma spettrale, aggiungendo danni magici agli attacchi e rendendo gelida la lama."
+  },
+  {
+    "id": "",
+    "name": " Assalto del lupo",
+    "unique": true,
+    "desc": "Dopo aver infuso il potere del ghiaccio nello spadone, spicca un salto e conficca la lama nel terreno, infine estraila per causare una gelida esplosione."
+  },
+  {
+    "id": "",
+    "name": " Voto di vendetta",
+    "unique": true,
+    "desc": "Giura sul tuo spadone di vendicare l'intero clan, incrementando tutti gli attributi per un periodo. Accresce anche la stabilità per la durata del giuramento."
+  },
+  {
+    "id": "",
+    "name": " Ondata distruttiva",
+    "unique": true,
+    "desc": "Solleva in alto la spada per poi percuotere il terreno, lanciando un'ondata di forza di gravità."
+  },
+  {
+    "id": "",
+    "name": " Nera fiamma della regina",
+    "unique": true,
+    "desc": "Ricopre la lama della nera fiamma deicida e sferra un colpo ad ampio raggio. Premi di nuovo per eseguire un attacco supplementare. Le fiamme nere continuano a infliggere danni per un periodo."
+  },
+  {
+    "id": "",
+    "name": " Destrezza dinastica",
+    "unique": true,
+    "desc": "Schiva agilmente un attacco distanziandoti dal nemico. Seguita da un attacco potente, sferra un rapido affondo. Un ulteriore attacco potente permette di eseguire un colpo ad ampio raggio."
+  },
+  {
+    "id": "",
+    "name": " Forma fluente",
+    "unique": true,
+    "desc": "L'armamento assume forma liquida per un periodo.\nUtilizzandolo come una frusta, è possibile attaccare con colpi ad ampio raggio."
+  },
+  {
+    "id": "",
+    "name": " Nube di stelle",
+    "unique": true,
+    "desc": "Infonde di magia le ali della progenie per emettere una nube di stelle oscure che esplode dopo un breve periodo."
+  },
+  {
+    "id": "",
+    "name": " Respinta del campione di onice / Repulsione del campione di onice",
+    "unique": true,
+    "desc": "Conficca l'armamento nel terreno per creare un pozzo gravitazionale. Oltre a infliggere danni, attira i nemici lontano dall'esecutore."
+  },
+  {
+    "id": "",
+    "name": " Ghigliottina di magma",
+    "unique": true,
+    "desc": "Impugna la scaglialama con entrambe le mani, in una posizione che ricorda le fauci di un drago. Spiccato un salto, percuoti il terreno causando un'esplosione di magma. Premi di nuovo per eseguire un attacco dall'alto."
+  },
+  {
+    "id": "",
+    "name": " Destrezza del limiere",
+    "unique": true,
+    "desc": "Colpisce verso l'alto con la Zanna del limiere, sfruttando lo slancio per eseguire una capriola all'indietro e allontanarsi dal nemico. Seguita da un attacco potente, attiva l'abilità Passo del limiere."
+  },
+  {
+    "id": "",
+    "name": " Vampa mortale",
+    "unique": true,
+    "desc": "Incendia il sole spento con le fiamme del Principe della morte, infliggegndo ai nemici l'alterazione di stato morbo mortale.\n Premi di nuovo per abbassare l'armamento, generando un'esplosione."
+  },
+  {
+    "id": "",
+    "name": "Impronta (montante)",
+    "unique": false,
+    "desc": "Stringe l'armamento e abbassa il baricentro per meglio attutire l'impatto dei colpi.\nSe seguito da un attacco potente, permette di sferrare un fendente verso l'alto."
+  },
+  {
+    "id": "",
+    "name": "Sfoderamento",
+    "unique": false,
+    "desc": "Abilità impiegata dagli spadaccini della terra dei giunchi.\nRinfodera l'arma, tenendola sul fianco con compostezza.\nSeguita da un attacco normale o potente, permette di sferrare un rapido fendente."
+  },
+  {
+    "id": "",
+    "name": "Impalamento",
+    "unique": false,
+    "desc": "Abilità elaborata per superare gli scudi con gli armamenti perforanti. Chiamate a raccolta le energie, esegue un attacco che si incunea nella difesa nemica."
+  },
+  {
+    "id": "",
+    "name": "Falange di scintilama",
+    "unique": false,
+    "desc": "Abilità usata dai cavalieri incantati di Caria. Genera un arco di piccole scintispade ad attacco automatico. Con un secondo attacco, colpisce in affondo."
+  },
+  {
+    "id": "",
+    "name": "Artiglio leonino",
+    "unique": false,
+    "desc": "Abilità dei Mantorosso che combatterono al fianco del generale Radahn.\nEsegue una capriola in avanti e colpisce i nemici con l'armamento."
+  },
+  {
+    "id": "",
+    "name": "Squarcio dell'oblio",
+    "unique": false,
+    "desc": "Abilità perduta appartenuta a eroi di tempi antichi.\nSolleva l'armamento per ammantarlo di un vuoto dilaniante, poi scaglialo in avanti come un affilato proiettile."
+  },
+  {
+    "id": "",
+    "name": "Passo del limiere",
+    "unique": false,
+    "desc": "Abilità che permette di schivare con estrema rapidità, rendendosi temporaneamente invisibili. Più scattante di un normale passo, veloce, copre una maggiore distanza.\nConsente di girare intorno ai bersagli agganciati."
+  },
+  {
+    "id": "",
+    "name": "Ruggito del troll",
+    "unique": false,
+    "desc": "Fissa l'orizzonte e ruggisci intensamente, travolgendo i nemici con devastanti onde d'urto\nSe seguita da un attacco potente, esegue uno schianto discendente."
+  },
+  {
+    "id": "",
+    "name": "Lama sacra",
+    "unique": false,
+    "desc": "L'armamento può sferrare attacchi sacri e proiettare una lama dorata.\nL'armamento conserva l'essenza sacra per un periodo."
+  }
+]

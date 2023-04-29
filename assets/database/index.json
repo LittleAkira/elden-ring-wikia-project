@@ -1,0 +1,18 @@
+{
+    "it": {
+        "evocazioni": "./evocazioni.json",
+        "multigiocatore": "./multiplayer.json",
+        "strumenti": "./strumenti.json",
+        "armamento": "./armamento.json",
+        "grazia": "./sito_grazia.json"
+    },
+    "en": {
+        "evocation": "./evocation.json",
+        "multiplayer": "./multiplayer.json",
+        "item": "./strumenti.json",
+        "weapons": "./weapons.json",
+        "grace": "./site_grace.json",
+        "hidden": "./hidden_passage.json",
+        "dungeon": "./dungeon.json"
+    }
+}

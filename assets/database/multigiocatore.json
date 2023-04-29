@@ -1,0 +1,127 @@
+[
+  {
+    "id": "23432423",
+    "name": "Rimedio del Dito torto invocatore",
+    "desc": "Rivela i segni multigiocatore cooperativi e competitivi. I segni cooperativi sono di colore dorato, mentre quelli competitivi sono rossi.\nIl multigiocatore ha inizio quando evochi un giocatore da un altro mondo attraverso il suo segno.",
+    "img": "",
+    "reusable": false,
+    "craftable": true,
+    "price": 0,
+    "position": [
+      {
+        "lat": 230.53499417248372,
+        "lng": 422.5960494492608,
+        "event": "dropped"
+      },
+      {
+        "lat": 292.41228616592,
+        "lng": 373.1002696974007,
+        "event": "dropped"
+      },
+      {
+        "lat": 309.9712694431666,
+        "lng": 483.90725330801456,
+        "event": "dropped"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "name": "Dito torto di Senzaluce",
+    "desc": "Crea un segno di evocazione per il multigiocatore cooperativo. Presentati come alleato (Dito torto) con l'obiettivo di sconfiggere il boss dell'area in cui sei stato evocato.\nDito di adipocera, torto come un uncino. È una reliquia lasciata da chi venne prima per aiutare chi verrà dopo.",
+    "img": "",
+    "reusable": false,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Effide d'oro piccola",
+    "desc": "Invia un segno di evocazione cooperativo a numerosi bacini di evocazione (solo bacini attivati).\nNel multigiocatore cooperativo, il tuo obiettivo è sconfigger il boss del mondo in cui sei stato evocato.",
+    "img": "",
+    "reusable": false,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Effige rossa piccola",
+    "desc": "Invia un segno di evocazione competitivo a numerosi bacini di evocazione (solo bacini attivi).\nNel multigiocatore competitivo, il tuo obiettivo è sconfiggere l'ospite di Dita del mondo in cui sei stato evocato.",
+    "img": "",
+    "reusable": true,
+    "craftable": true,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Dito torto di duellante",
+    "desc": "Crea un segno di evocazione per il multigiocatore competitivo Presentati come avversario (Duellante) con l'obiettivo di sconfigere l'ospite di Dita del mondo in cui sei stato evocato.\nDito di adipocera, torto come un uncino. Le decorazioni in bronzo sono il marchio dei veri duellanti.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Dito sanguinante",
+    "desc": "Tenta l'invasione del mondo di un altro giocatore. In caso di successo, ti presenterai come invasore (Dito sanguinante) con l'obiettivo di sconfiggere l'ospite di Dita del mondo sotto attacco.\nL'unghia del dito gronda di sangue fresco e luccicante. La pelle biancastra e nauseabonda non avverte più alcuna sensazione, ma l'unghia continua a soffrire in una dolce agonia.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Dito del dissidente",
+    "desc": "Tenta l'invasione del mondo di un altro giocatore. In caso di successo, ti presenterati come invasore (Dissidente) con l'obiettivo di sconfiggere l'ospite di Dita del mondo sotto attacco.\nQuesto dito torto è coperto di scaglie di serpente. Cimelio del lord di Villa Vulcano, donato allo spirito Senzaluce diveuto parte della famiglia.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Anello inciso bianco",
+    "desc": "Permette di evocare automaticamente un cacciatore di un altro mondo per ottenere aiuto in caso di invasione. In alcune circostanze, l'evocazione potrebbe essere preclusa.\nÈ uno dei codici mistici perduti che le leggende dipingono come dono delle Due Dita.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Anello inciso blu",
+    "desc": "Chi lo indossa è in condizione di rispondere alle richieste di aiuto provenienti da altri mondi. Una volta evocato, ti presenterai in soccorso come cacciatore.\nNel multigiocatore di caccia, il tuo obiettivo è sconfiggere l'invasore del mondo in cui vieni evocato.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Lingua di provocatore",
+    "desc": "Attira gli invastori. Consente di essere invasi anche quando non è stato evocato alcun alleato Dito torto e riduce l'intervallo tra le finestre di opportunità per le invasioni.\nInoltre, questo oggetto permette l'arrivo di un secondo invasore quando è presente un alleato. Quando sono presenti due invasori, il numero massimo di alleati è limitato a uno.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Tranciadita",
+    "desc": "Utilizzabile dall'ospite di Dita per riportare nel mondo di origine un giocatore evocato.\nUtilizzabile dal giocatore evocato per tornare nel suo mondo.\nQuesta lama fantasma può recidere il legame generato da un Dito torto, ma le vergini non apprezzano chi ne abusa.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  },
+  {
+    "id": "",
+    "name": "Dito avvizzito di Senzaluce",
+    "desc": "Consente di scrivere messaggi che saranno recapitati in mondi remoti, dove potranno leggerli altri giocatori.\nDito di adipocera emaciato al punto da lasciar intravedere l'osso. È una reliquia lasciata da chi venne prima per aiutare chi verrà dopo.",
+    "img": "",
+    "reusable": true,
+    "craftable": false,
+    "price": 0
+  }
+]

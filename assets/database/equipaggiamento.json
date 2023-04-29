@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Armamenti",
+        "url": "/armamenti.json"
+    },
+    {
+        "id": "Evocazioni",
+        "url":"/evocazioni.json"
+    },
+    {
+        "id": "Scudi",
+        "url":"/scudi.json"
+    }
+]

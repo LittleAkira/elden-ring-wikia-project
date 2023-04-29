@@ -1,0 +1,988 @@
+[
+  {
+    "id": "",
+    "name": "Cura urgente",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nCura una ridotta quantità di PV.\nIncantesimo lanciabile in movimento.\n\nLe Due Dita ripongono grandi aspettative nei Senzaluce. Nessuna ferita, nemmeno la morte, impedirà loro di compiere il proprio dovere.",
+    "req": {
+      "int": 0,
+      "fai": 8,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Cura una ridotta quantità di PV.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "16 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cura",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nRipristina i PV all'esecutore e agli alleati vicini.\nTieni premuto per continuare a pregare e ritardare l'attivazione.\n\nLe Due Dita ripongono grandi aspettative nei Senzaluce. Anche se feriti, o persino in caso di morte, essi continueranno a combattere per compiere il loro dovere.",
+    "req": {
+      "int": 0,
+      "fai": 12,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Restituisce PV all'esecutore e ai suoi alleati.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "32 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cura maggiore",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nRipristina una notevole quantità di PV all'esecutore e agli alleati vicini.\nTieni premuto per continuaer a pregare e ritardare l'attivazione.\n\nLe Due Dita ripongono grandi aspettative nei Senzaluce. Anche se feriti, o persino in caso di morte, essi continueranno a combattere per compiere il loro dovere.",
+    "req": {
+      "int": 0,
+      "fai": 15,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Restituisce una notevole quantità di PV all'esecutore e ai suoi alleati.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "45 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cura del Lord",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nRipristina un'enorme quantità di PV all'esecutore e agli alleati vicini.\nTieni premuto per continuare a pregare e ritardare l'attivazione.\n\nSenzaluce... O, Senzaluce! Cerca l'Albero Madre e mostrati a Marika, sua regina. Divieni Lord ancestrale!",
+    "req": {
+      "int": 0,
+      "fai": 20,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Restituisce un'enorme quantità di PV all'esecutore e ai suoi alleati.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "55 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cura veleno",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nRiduce l'accumulo di veleno e cura l'avvelenamento.\nIncantesimo lanciabile in movimento.\n\nLe Due Dita ripongono grandi aspettative nei Senzaluce. Nessuna ferita, nemmeno la morte, impedirà loro di compiere il proprio dovere.",
+    "req": {
+      "int": 0,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Riduce l'accumulo di veleno e cura l'avvelenamento.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "7 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Ausilio del Lord",
+    "desc": "Incantesimo concesso dalle Due Dita ai Senzaluce ritenuti degni di divenire Lord.\n\nRiduce l'accumolo di veleno, sanguinamento e sonno per l'esecutore e gli alleati vicini. Inoltre, cura gli effetti del veleno.\n\nTieni premuto per continuare a pregare e ritardare l'attivazione.",
+    "req": {
+      "int": 0,
+      "fai": 12,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Riduce l'accumulo di veleno, sanguinamento e sonno per l'esecutore e i suoi alleati.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fortificazione magica",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nIncrementa la resistenza ai danni magici.\nQuesto incantesimo può essere lanciato in movimento.\n\nSegui la via che il destino ha scelto per te, e tutti ti saranno ostili: i monaci, gli stregoni, gli antichi cavalieri del drago e i rampolli aurei. Ascolta le mie parole... L'Interregno non accoglie di buon grado i Senzaluce.",
+    "req": {
+      "int": 0,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incrementa la resistenza ai danni magici.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fortificazione della fiamma",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nIncrementa la resistenza ai danni da fuoco.\nQuesto incantesimo può essere lanciato in movimento.\n\nSegui la via che il destino ha scelto per te, e tutti ti saranno ostili: i monaci, gli stregoni, gli antichi cavalieri del drago e i rampolli aurei. Ascolta le mie parole... L'Interregno non accoglie di buon grado i Senzaluce.",
+    "req": {
+      "int": 0,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incrementa la resistenza ai danni da fuoco.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fortificazione del fulmine",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nIncrementa la resistenza ai danni da fulmine.\nQuesto incantesimo può essere lanciato in movimento.\n\nSegui la via che il destino ha scelto per te, e tutti ti saranno ostili: i monaci, gli stregoni, gli antichi cavalieri del drago e i rampolli aurei. Ascolta le mie parole... L'Interregno non accoglie di buon grado i Senzaluce.",
+    "req": {
+      "int": 0,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incrementa la resistenza ai danni da fulmine.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Rifiuto",
+    "desc": "Incantesimo dei fedeli delle Due Dita.\n\nGenera un'onda d'urto che respinge i nemici vicini.\nLa carica incrementa l'estensione dell'are d'effetto.\n\nRicorda, Senzaluce! Se vuoi seguire il cammino della fede, devi rinunciare a tutto il resto!",
+    "req": {
+      "int": 0,
+      "fai": 12,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Produce un'onda d'urto che respinge i nemici.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "9 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Esca delle ombre",
+    "desc": "Incantesimo dei servitori delle Due Dita che un tempo svolgevano il ruolo di assassini per la Rocca della Tavola rotonda.\n\nGenera una pallida ombra dorata al cospetto dell'esecutore.\nL'ombra attira su di sé l'ostilità dei nemici umanoidi.\nQuesto incantesimo puù essere lanciato in movimento o da accovacciati. Ha effetto anche sui nemici impegnati in combattimento.\n\nSi dice che chi cede all'inganno dell'ombra scorga in essa le sembianze di un acerrimo nemico.",
+    "req": {
+      "int": 0,
+      "fai": 13,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Genera un'ombra che attira l'ostilità dei nemici umanoidi.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "15 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Tenebre",
+    "desc": "Incantesimo dei servitori delle Due Dita che un tempo svolgevano il ruolo di assassini per la Rocca della Tavola rotonda.\n\nEvoca un velo di oscurità che nasconde l'esecutore.\nQuesto incantesimo può essere lanciato in movimento o da accovacciati.\n\nGli assassini erano Senzaluce smarriti, lontani dalla vera guida, che tentavano di assolvere al loro compito nelle tenebre prive di grazia.",
+    "req": {
+      "int": 0,
+      "fai": 18,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Genera un'area di tenebra che occulta l'esecutore.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "24 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Tattica dell'assassino",
+    "desc": "Incantesimo dei servitori delle Due Dita che un tempo svolgevano il ruolo di assassini per la Rocca della Tavola rotonda.\n\nRende silenziosi i passi dell'esecutore. Inoltre, riduce i danni e il rumore provocati dalle cadute.\nQuesto incantesimo può essere lanciato in movimento o da accovacciati.\n\nIl compito degli assassini era eliminare i Senzaluce che avevano smarrito la guida.",
+    "req": {
+      "int": 0,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Attutisce il suono dei passi e riduce i danni e il rumore delle cadute.",
+    "type": "Incanstesimo delle Due Dita",
+    "fp_cost": "15 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Voto aureo",
+    "desc": "Incantesimo del culto dell'Albero Madre.\n\nIncrementa la potenza d'attacco e la difesa dell'esecutore e degli alleati vicini.\nTieni premuto per continuare a pregare e ritardare l'attivazione.\n\nI cavalieri della capitale reale si tramandano questo incantesimo da generazioni, e ne traggono coraggio al momento di affrontare missioni nei luoghi più remoti.",
+    "req": {
+      "int": 0,
+      "fai": 25,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incrementa attacco e difesa dell'esecutore e dei suoi alleati.",
+    "type": "Incanstesimo dell'Albero Madre",
+    "fp_cost": "47 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Barriera dorata",
+    "desc": "Incantesimo del culto dell'Albero Madre.\n\nIncrementa notevolmente la resistenza ai danni magici dell'esecutore e degli alleati vicini.\nTieni premuto per continuare a pregare e ritardare l'attivazione.\n\nQuesto incantesimo fu usato dai campioni dell'Albero Madre tra la prima e la seconda guerra di Liurnia, quando Radagon dai rossi capelli si unì alla schiera degli eroi.",
+    "req": {
+      "int": 0,
+      "fai": 24,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incrementa notevolmente la resistenza ai danni magici dall'esecutore e dei suoi alleati.",
+    "type": "Incanstesimo dell'Albero Madre",
+    "fp_cost": "30 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Protezione dell'Albero Madre",
+    "desc": "Sommo incantesimo del culto dell'Albero Madre.\n\nIncrementa la resistenza ai danni per tutte le affinità eccetto quelle fisiche, sia nell'esecutore che negli alleati vicini.\nTieni premuto per continuare a pregare e ritardare l'attivazione.\n\nIn principio, tutto era opposto all'Albero Madre. Ma attraverso innumerevoli vittorie in guerra, esso divenne l'incarnazione dell'Ordine.",
+    "req": {
+      "int": 0,
+      "fai": 35,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incrementa la resistenza ai danni da affinità dell'esecutore e dei suoi alleati.",
+    "type": "Incanstesimo dell'Albero Madre",
+    "fp_cost": "30 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Ira dorata",
+    "desc": "Sommo incantesimo del culto dell'Albero Madre.\n\nGenera un'onda d'urto dorata che respinge i nemici vicini.\nLa carica incrementa l'estensione dell'area d'effetto.\n\nQuesto incantesimo fu scoperto quando l'Anello ancestrale venne distrutto, e ovunque suscitò terrore in quanto simbolo dell'ira dell'Albero Madre.",
+    "req": {
+      "int": 0,
+      "fai": 32,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Genera un'onda d'urto che respinge i nemici.",
+    "type": "Incanstesimo dell'Albero Madre",
+    "fp_cost": "40 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Benedizione dell'Albero Madre",
+    "desc": "Uno degli incantesimi antichi dell'Albero Madre.\n\nConferisce una benedizione maggiore all'esecutore e agli alleati vicini, ripristinando gradualmente una grande quantità di PV.\nTieni premuto per continuare a pregare e posticipare l'attivazione.\n\nUn tempo, l'Albero Madre era prospero e abbondante, seppur per un breve attimo. Questo è il corso della vita.",
+    "req": {
+      "int": 0,
+      "fai": 38,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Evoca una benidizione maggiore che abbraccia l'esecutore e gli alleati vicini.",
+    "type": "Incanstesimo dell'Albero Madre",
+    "fp_cost": "60 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Forma del Crogiolo: coda",
+    "desc": "Uno degli antichi incantesimi dell'Albero Madre.\n\nCrea una coda flessibile per scaraventare via i nemici davanti all'esecutore.\nAumenta di potenza se caricato.\n\nÈ una manifestazione delle energie primigenie dell'Albero Madre, retaggio del Crogiolo primordiale in cui era fuso ogni aspetto vitale.",
+    "req": {
+      "int": 0,
+      "fai": 27,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea una coda flessibile per sferzare l'area davanti all'esecutore.",
+    "type": "Incanstesimo dell'Albero Madre",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Forma del Crogiolo: corna",
+    "desc": "Uno degli antichi incantesimi dell'Albero Madre.\n\nGenera un possente corno sulla spalla dell'esecutore, per dilaniare i nemici con un attacco portato dal basso.\nSe caricato, consente di fiondarsi sui bersagli prima di infliggere il colpo finale.\n\nÈ una manifestazione delle energie primigenie dell'Albero Madre, retaggio del Crogiolo primordiale in cui era fuso ogni aspetto vitale.",
+    "req": {
+      "int": 0,
+      "fai": 27,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea un corno sulla spada per straziare i nemici con un colpo portato dal basso.",
+    "type": "Incanstesimo dell'Albero Madre",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Disco di luce",
+    "desc": "Incantesimo dei fondamentalisti dell'Ordine aureo.\n\nGenera un anello di luce che si proietta in avanti e poi torna vicino all'esecutore prima di dissolversi.\nQuesto incantesimo può essere lanciato ripetutamente.\n\nDono del giovane Miquella a suo padre Radagon.",
+    "req": {
+      "int": 13,
+      "fai": 13,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia un anello di luce davanti all'esecutore.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "3 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Anelli di luce di Radagon",
+    "desc": "Incantesimo dei fondamentalisti dell'Ordine aureo.\nSegno di gratitudine offerto in dono a Miquella da suo padre Radagon.\n\nGenera un anello di luce dorata e lo proietta su un'ampia area.\nLa carica incrementa la portata.\n\nE tuttavia, il giovane Miquella abbandonò la via del fondamentalismo, poiché nulla poteva contro Malenia e la sua marcescenza maledetta. Fu questo a segnare la nascita dell'oro puro.",
+    "req": {
+      "int": 31,
+      "fai": 31,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea un cerchio dorato che colpisce un'area estesa.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "21 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Litania della legittima morte",
+    "desc": "Incantesimo dei fondamentalisti dell'Ordine aureo.\nUsato per la caccia di coloro che vivono nella morte.\n\nGenera un'immagine dell'Ordine, infliggendo danni sacri ai nemici vicini. L'effetto è incrementato contro coloro che vivono nella morte. Le vittime di questo incantesimo non possono essere rianimate.\n\nI cacciatori hanno il compito di estirpare ogni seme di corruzione dalla logica universale, in modo da rende perfetto l'Ordine aureo.",
+    "req": {
+      "int": 17,
+      "fai": 17,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea un simulacro dell'Ordine per infliggere danni sacri.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "17 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cura dell'ordine",
+    "desc": "Uno degli incantesimi dei fondamentalisti dell'Ordine aureo.\nUsato dai cacciatori di coloro che vivono nella morte.\n\nRiduce l'accumulo del morbo mortale.\n\nIl nobile Maschera d'oro si dispiacque di ciò che i cacciatori erano divenuti. Quanto è facile per la conoscenza e l'erudizione divenire i deliri dei fanatici.\nNella loro follia, tutto ciò che i buoni e i grandi desideravano era un male da contrastare.\n\nEsiste una tale nozione nei fondamentalismi dell'Ordine?.",
+    "req": {
+      "int": 11,
+      "fai": 11,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Riduce l'accumulo del morbo mortale.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "15 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lama dell'ordine",
+    "desc": "Incantesimo dei fondamentalisti dell'Ordine aureo.\nUsato per la caccia di coloro che vivono nella morte.\n\nIncanta l'armamento nella mano destra e infonde affinità sacra ai suoi attacchi. L'effetto è incrementato contro coloro che vivono nella morte. Le vittime di questo incantesimo non possono essere rianimate.\n\nI cacciatori hanno il compito di estirpare ogni seme di corruzione dalla logica universale, in modo da rendere perfetto l'Ordine aureo.",
+    "req": {
+      "int": 13,
+      "fai": 13,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Conferisce danni sacri all'armamento nella mano destra.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "22 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Legge del regresso",
+    "desc": "Incantesimo dei fondamentalisti dell'Ordine aureo.\nUno dei principi chiave.\n\nCura le alterazioni di stato, annulla gli effetti speciali e svela ogni forma di imitazione.\n\nI fondamentalisti descrivono l'Ordine aureo attraverso i concetti di regresso e causalità. Il regresso è il richiamo del significato, verso cui ogni cosa ambisce eternamente di convergere.",
+    "req": {
+      "int": 37,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Cura le alterazioni di stato e annulla gli effetti speciali.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "55 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lancia folgorante",
+    "desc": "Incantesimo degli adepti del drago antico della capitale.\n\nEvoca una lancia folgorante e la scaglia davanti all'esecutore.\nLa carica genera un fulmine che investe il punto d'impatto.\n\nMolto tempo fa, Godwyn l'Aureo sconfisse il drago antico Fortissax, ma sviluppà nei suoi confronti un affetto fraterno, giungendo persino ad alimentare il culto del drago antico nella capitale.",
+    "req": {
+      "int": 0,
+      "fai": 17,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una lancia folgorante davanti all'esecutore.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fulmine perforante",
+    "desc": "Incantesimo degli adepti del drago antico della capitale.\n\nEvoca una folgore che colpisce i nemici dall'alto.\nQuesto incantesimo può essere lanciato ripetutamente.\n\nMolto tempo fa, Godwyn l'Aureo sconfisse il drago antico Fortissax, ma sviluppò nei suoi confronti un affetto fraterno, giungendo persino ad alimentare il culto del drago antico nella capitale.",
+    "req": {
+      "int": 0,
+      "fai": 24,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Un fulmine si abbatte sul nemico.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lancia folgorante congelata",
+    "desc": "Incantesimo che attinge al potere dei soldati draconidi.\n\nCrea una lancia di ghiaccio folgorante che si conficca al suolo.\nAll'impatto, la lancia prorompe in saette che si propagano in avanti.\n\nI draconidi nacquero nella Città Eterna, ove non poterono conoscere nè ilv ero cielo, nè il vero fulmine. Il ghiaccio folgorante divenne quindi la loro arma d'elezione.",
+    "req": {
+      "int": 0,
+      "fai": 34,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Una lancia di ghiaccio folgorante si abbatte sul bersaglio.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "29 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Armamento elettrificato",
+    "desc": "Incantesimo degli adepti del drago antico della capitale.\n\nConferisce l'affinità fulmine all'armamento nella mano destra.\n\nMolto tempo fa, Godwyn l'Aureo sconfisse il drago antico Fortissax, ma sviluppò nei suoi confronti un affetto fraterno, giungendo persino ad alimentare il culto del drago antico nella capitale.",
+    "req": {
+      "int": 0,
+      "fai": 15,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Conferisce danni da fulmine all'armamento nella mano destra.",
+    "type": "Incanstesimo dell'Ordine aureo",
+    "fp_cost": "27 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fiamma fugace",
+    "desc": "Incantesimo scaturito da una sinistra profezia.\n\nGenera una fugace lingua di fuoco dalla mano dell'esecutore.\nL'incantesimo può essere lanciato istantaneamente dopo aver eseguito un'altra azione.\n\nLa fiamma della rovina è un anatema per l'Albero Madre. Eppure, ai profeti può capitare di scorgerla tra le pieghe della fede. Per costoro, purtroppo, l'unica ricopensa e l'esilio.",
+    "req": {
+      "int": 0,
+      "fai": 8,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Fa scaturire una fugace fiamma dalla mano.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "10 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "O, fiamma!",
+    "desc": "Incantesimo dei monaci del fuoco.\n\nGenera una fiamma viva ma fugace nella mano dell'esecutore. Aumenta di potenza se caricato.\n\nLa fiamma dei giganti continua ad ardere nelle remote vette del nord. I monaci del fuoco sono i suoi custodi.",
+    "req": {
+      "int": 0,
+      "fai": 16,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Fa scaturire una fugace fiamma ruggente dalla mano.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "16 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Proiezione infuocata",
+    "desc": "Incantesimo scaturito da una sinistra profezia.\n\nScaglia una sfera di fuoco rovente.\nLa carica accresce la potenza dell'incantesimo e innesca l'esplosione della sfera.\n\nLa fiamma della rovina è un anatema per l'Albero Madre. Eppure, ai profeti può capitar di scorgerla tra le pieghe delle fede. Per costoro, purtroppo, l'unica ricompensa è l'esilio.",
+    "req": {
+      "int": 0,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una sfera di fuoco rovente.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "11 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fiamma del dio caduto",
+    "desc": "Leggendario incantesimo che trae energia dal potere dei giganti di fuoco.\n\nLibera una sfera di fuoco ardente che, secondi alcuni, conterrebbe lo spirito di un dio caduto. Il nucleo fluttua verso i nemici ed esplode, incendiando l'area circostante.\n\nArghanthy, gran custode della fiamma, tenrò di tenere segreto questo incantesimo, ma Adan riuscì a rubarne il potere. Il dio caduto si annida ancora oggi tra i giganti di fuoco.",
+    "req": {
+      "int": 0,
+      "fai": 41,
+      "arc": 0
+    },
+    "slot": 2,
+    "effect": "Evoca una palla di fuoco che incendia l'area circostante con un'esplosione.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "34 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Alzati, o fiamma!",
+    "desc": "Sommo incantesimo die monaci del fuoco.\n\nGenera un flusso infuocato che incendia l'area davanti all'esecutore.\nQuesto incantesimo può essere lanciato in movimento. Tieni premuto per mantenere attivo l'effetto.\n\nLa fiamma dei giganti è il fuoco della rovina in grado di ardere l'Albero Madre. Per questo, al termine della Guerra dei giganti, il suo letale potere fu confinato in un luogo sicuro e affidato al controllo di custodi designati.",
+    "req": {
+      "int": 0,
+      "fai": 9,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incenerisce l'area davanti all'esecutore con lingue di fuoco.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "1 ( 1)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Turbina, o fiamma!",
+    "desc": "Sommo incantesimo dei monaci del fuoco.\n\nGenera una spirale di fuoco che incendia l'area davanti all'esecutore.\nLa carica intensifica l'incantesimo in termini di potenza e portata.\n\nLa vista del fuoco è in grado di sedurre chiunque. Per questo i custodi della fiamma giungono a venerarla con ardore.",
+    "req": {
+      "int": 0,
+      "fai": 13,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Sferza l'area davanti all'esecutore con lingue di fuoco.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "19 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fiamma, donami forza",
+    "desc": "Sommo incantesimo dei monaci del fuoco.\n\nInfonde il potere rinvigorente della fiamma, incrementando la potenza degli attacchi fisici e dell'affinità fuoco.\n\nNon brucia l'esecutore, e per questo motivo è considerato un incantesimo proibito dai custodi della Fiamma.",
+    "req": {
+      "int": 0,
+      "fai": 15,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Incrementa la potenza d'attacco fisico e l'affinità fuoco.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "28 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Nera fiamma",
+    "desc": "Incantesimo della nera fiamma impiegato dagli apostoli Sacriderma.\n\nProietta una sfera di fuoco nero.\nLa carica accresce la potenza della magia e innesca l'esplosione della sfera.\n\nLa nera fiamma è gravosa. Dopo aver inflitto danni, continua a ridurre i PV dei nemici per qualche istante.",
+    "req": {
+      "int": 0,
+      "fai": 20,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una sfera di fuoco rovente.",
+    "type": "Incanstesimo dei monaci del fuoco",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Nera fiamma funesta",
+    "desc": "Incantesimo di nera fiamma degli apostoli Sacriderma.\n\nSi abbatte con una nera fiamma su un'ampia area di fronte all'esecutore.\nIl raggio d'azione aumenta se caricato.\n\nLa nera fiamma era un tempo in grado di uccidere gli dei.\nTuttavia, il potere della nera fiamma andò perduto quando Maliketh sigillò la morte fatidica.",
+    "req": {
+      "int": 0,
+      "fai": 28,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Sferza l'area davanti all'esecutore con la nera fiamma.",
+    "type": "Incanstesimo degli apostoli Sacriderma / della nera fiamma",
+    "fp_cost": "21 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lama della nera fiamma",
+    "desc": "Incantesimo di nera fiamma degli apostoli Sacriderma.\n\nAvvolge con fiamme oscure l'armamento nella mano destra.\nQuesto incantesimo può essere lanciato subito dopo aver eseguito un'altra azione.\n\nLa nera fiamma è gravosa. Dopo aver inflitto danni, continua ad assorbire PV per qualche istante.",
+    "req": {
+      "int": 0,
+      "fai": 17,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Infonde di nera fiamma l'armamento nella mano destra.",
+    "type": "Incanstesimo degli apostoli Sacriderma / della nera fiamma",
+    "fp_cost": "15 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Nobile presenza",
+    "desc": "Antico potere dei nobili Sacriderma.\n\nSpinge in fuori la pancia con entusiasmo, respingendo i nemici con un'onda d'urto.\nLa carica accresce la potenza della magia, scagliando in aria i bersagli.\n\nUn tempo segno dell'ira divina, questo incantesimo è diventato un trofeo della nobiliare caccia agli dei.",
+    "req": {
+      "int": 0,
+      "fai": 26,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Spinge in fuori la pancia gnenerando un'onda d'urto che respinge i nemici.",
+    "type": "Incanstesimo degli apostoli Sacriderma / della nera fiamma",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Artiglio ferino",
+    "desc": "Incantesimo insegnato da Gurranq la Belva ecclesiastica.\n\nEvoca artigli bestiali che squarciano il terreno con onde d'urto.\nLa carica accresce la potenza.\n\nQuesto incantesimo rappresenta la furia di Gurranq e il risveglio della sua natura bestiale, al pari della sua perpetua agitazione.",
+    "req": {
+      "int": 0,
+      "fai": 8,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Genera artigli bestiali che squarciano la terra.",
+    "type": "Incanstesimo bestiale",
+    "fp_cost": "10 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Proiezione bestiale",
+    "desc": "Incantesimo insegnato da Gurranq la Belva ecclesiastica.\n\nScaglia rapidamente una raffica di rocce acuminate.\nL'incantesimo può essere lanciato istantaneamente dopo aver eseguito un'altra azione.\n\nNell'era antecedente all'Albero Madre, le pietre furono le prime armi impiegate dalle bestie che avevano ottenuto il dono dell'intelletto.",
+    "req": {
+      "int": 0,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia velocemente una salva di sassi acuminati.",
+    "type": "Incanstesimo bestiale",
+    "fp_cost": "7 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Pietro di Gurranq",
+    "desc": "Sommo incantesimo insegnato da Gurranq la Belva ecclesiastica.\n\nScaraventa un macigno davanti all'esecutore.\nQuesto incantesimo può essere lanciato ripetutamente.\n\nIn un lontano passato, Gurranq era una belva feroce al punto da meritare l'appellativo di \"morte dei semidei\".",
+    "req": {
+      "int": 0,
+      "fai": 13,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia un macigno davanti all'esecutore.",
+    "type": "Incanstesimo bestiale",
+    "fp_cost": "15 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Vitalità ferina",
+    "desc": "Incantesimo insegnato da Gurranq la Belva ecclesiastica.\n\nInfonde una vitalità ferina, ripristinando PV nel tempo.\n\nGrazie al dono dell'intelletto, le bestie hanno compreso che la civiltà rappresenta una minaccia per la loro natura selvaggia.",
+    "req": {
+      "int": 0,
+      "fai": 12,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Cura i PV nel tempo.",
+    "type": "Incanstesimo bestiale",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Artigli della fiamma sanguinaria",
+    "desc": "Un incantesimo del Voto di sangue, donato dal Signore del sangue.\n\nCrea lacerazione di fiamma sanguinaria di fronte all'esecutore, che esplodono in un istante.\nQuesto incantesimo può essere lanciato ripetutamente.\n\nLa fiamma sanguinaria continua a causa danni da sanguinamento per un breve periodo dopo aver inflitto danni.",
+    "req": {
+      "int": 0,
+      "fai": 13,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea lacerazioni di fiamma sanguinaria che successivamente esplodono.",
+    "type": "Incanstesimo del signore del sangue",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lama della fiamma sanguinaria",
+    "desc": "Incantesimo del Voto del sangue, conferito dal Signore del sangue.\n\nAvvolge di fiamma sanguinaria l'armamento nella mano destra.\nQuesto incantesimo può essere lanciato in movimento.\n\nDopo ever inflitto danni, la fiamma sanguinaria causa progressivamente sanguinamento per un breve periodo.",
+    "req": {
+      "int": 0,
+      "fai": 12,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Infonde di fiamma sanguinaria l'armamento nella mano destra.",
+    "type": "Incanstesimo del signore del sangue",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Foschia velenosa",
+    "desc": "Incantesimo dei servitori della marcescenza.\n\nDiffonde una foschia velenosa davanti all'esecutore.\nQuesto incantesimo può essere lanciato in movimento.\n\nColoro che albergano nel veleno conoscono sin troppo bene la marcescenza. La morte che genera la vita, in totale eguaglianza. Vale a dire: l'applicazione pratica della legge naturale della rinascita.",
+    "req": {
+      "int": 0,
+      "fai": 12,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Diffonde una foschia velenosa davanti all'esecutore.",
+    "type": "Incanstesimo del signore del sangue",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fiamma della frenesia",
+    "desc": "Incantesimo creato dalle folli Tre Dita.\n\nL'esecutore sprigiona dagli occhi la Fiamma gialla della frenesia. La carica incrementa la portata.\n\nLa Fiamma della frenesia infligge danni e provoca accumulo di follia, anche nell'esecutore. L'incantesimo è efficace solo contro i Senzaluce.",
+    "req": {
+      "int": 0,
+      "fai": 16,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Proietta dagli occhi una scaricata di Fiamma gialla della frenesia.",
+    "type": "Incanstesimo delle Tre Dita",
+    "fp_cost": "16 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Esplosione frenetica",
+    "desc": "Incantesimo creato dalle folli Tre Dita.\n\nL'esecutore proietta dagli occhi getti concentrati di Fiamma gialla della frenesia.\nLa carica accresce la potenza dell'incantesimo, consentendo di superare le difese nemiche.\n\nIn passato, chiunque abbia provato a controllare la Fiamma della frenesia ha finito per soccombere alla follia al culmine di una disperata lotta interiore. Questo incantesimo è testimonianza di un vano trionfo.",
+    "req": {
+      "int": 0,
+      "fai": 22,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Proietta dagli occhi una scarica concentrata di Fiamma gialla della frenesia.",
+    "type": "Incanstesimo delle Tre Dita",
+    "fp_cost": "24 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Ululato di Shabriri",
+    "desc": "Incantesimo creato dalle folli Tre Dita.\n\nEmette un grido straziante che causa progressivamente follia ai nemici vicini.\nL'incantesimo provoca accumulo di follia anche nell'esecutore, e amplifica l'ostilità dei nemici nei suoi confronti.\n\nSi dice che il contagio della Fiamma della frenesia abbia avuto origine da Shabriri, l'uomo più detestato di tutti i tempi.",
+    "req": {
+      "int": 0,
+      "fai": 33,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Emette un grido che causa follia ai nemici vicini.",
+    "type": "Incanstesimo delle Tre Dita",
+    "fp_cost": "21 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Frenesia ineluttabile",
+    "desc": "Incantesimo creato dalle folli Tre Dita.\n\nL'esecutore sprigiona dagli occhi la Fiamma gialla della frenesia, per poi ghermire i nemici e contagiarli con la sua follia.\nL'incantesimo provoca accumulo di follia nell'esecutore, ed è efficace solo contro i Senzaluce.\n\nFissare il prossimo negli occhi è la forma più intima di contatto umano.",
+    "req": {
+      "int": 0,
+      "fai": 21,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Si stringe sui nemici per seminare follia.",
+    "type": "Incanstesimo delle Tre Dita",
+    "fp_cost": "22 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fuoco di drago",
+    "desc": "Incantesimo della comunione draconica.\n\nTramuta l'esecutore in un drago che emette un soffio infuocato.\nLa carica estende la durata della magia.\n\nIncantesimo dei prodi che hanno cacciato draghi e banchettato con i loro cuori, ottenendo in cambio un potere assoluto e devastante.",
+    "req": {
+      "int": 0,
+      "fai": 15,
+      "arc": 12
+    },
+    "slot": 1,
+    "effect": "Attinge al potere dei draghi per espellere un soffio di fiamma.",
+    "type": "Incanstesimo draconici",
+    "fp_cost": "28 ( 4)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Respiro di scintipietra",
+    "desc": "Incantesimo della comunione draconica.\n\nTramuta l'esecutore in un drago che emette un soffio magico.\nLa carica estende la durata della magia.\n\nGli straordinari individui che perpetuano la comunione draconica sono chiamati \"cuor di drago\".",
+    "req": {
+      "int": 0,
+      "fai": 15,
+      "arc": 12
+    },
+    "slot": 1,
+    "effect": "Attinge al potere dei draghi per espellere un soffio di magia.",
+    "type": "Incanstesimo draconici",
+    "fp_cost": "28 ( 4)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Respiro marcescente",
+    "desc": "Incantesimo della comunione draconica.\n\nTramuta l'esecutore in un drago che emette un soffio do ,arcescenza scarlatta.\nLa carica estende la durata della magia.\n\nGli straordinari individui che perpetuano la comunione draconica sono chiamati \"cuor di drago\".",
+    "req": {
+      "int": 0,
+      "fai": 15,
+      "arc": 12
+    },
+    "slot": 1,
+    "effect": "Attinge al potere dei draghi per espellere un soffio di marcescenza scarlatta.",
+    "type": "Incanstesimo draconici",
+    "fp_cost": "36 ( 4)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Gelo draconico",
+    "desc": "Uno degli incantesimi della comunione draconica.\n\nL'esecutore viene trasformato in un drago che sputa un alito gelido. Caricare accresce la durata.\n\nGli straordinari individui che perpetuano la comunione draconica si dice abbiano il cuore di un drago.",
+    "req": {
+      "int": 0,
+      "fai": 15,
+      "arc": 12
+    },
+    "slot": 1,
+    "effect": "Attinge al potere dei draghi per espellere un soffio gelido.",
+    "type": "Incanstesimo draconici",
+    "fp_cost": "36 ( 4)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Artiglio di drago",
+    "desc": "Incantesimo della comunione draconica.\n\nTramuta l'esecutore in un drago che squarcia i nemici con artigli ferini.\nPermette di eseguire un attacco supplementare.\n\nIncantesimo dei prodi che hanno cacciato draghi e banchettato con i loro cuori, ottenendo in cambio un potere assoluto e devastante.",
+    "req": {
+      "int": 0,
+      "fai": 17,
+      "arc": 13
+    },
+    "slot": 1,
+    "effect": "Attinge al potere dei draghi per dilaniare i nemici con possenti artigli.",
+    "type": "Incanstesimo draconici",
+    "fp_cost": "24 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Fauci di drago",
+    "desc": "Incantesimo della comunione draconica.\n\nTramuta l'esecutore in un drago che azzanna i nemici di fronte a sé.\n\nIncantesimo dei prodi che hanno cacciato draghi e banchettato con i loro cuori, ottenendo in cambio un potere assoluto e devastante.",
+    "req": {
+      "int": 0,
+      "fai": 24,
+      "arc": 16
+    },
+    "slot": 1,
+    "effect": "Attinge al potere dei draghi per azzannare i nemici al cospetto dell'esecutore.",
+    "type": "Incanstesimo draconici",
+    "fp_cost": "34 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  }
+]

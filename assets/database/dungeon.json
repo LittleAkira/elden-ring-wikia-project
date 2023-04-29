@@ -1,0 +1,410 @@
+[
+    {
+        "name": "War-Dead Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 321.90625,
+            "lng": 671.4042890998808
+        }
+    },
+    {
+        "name": "Dragonbarrow Cave",
+        "position": {
+            "marker": "point",
+            "lat": 319,
+            "lng": 638.9419945046352
+        }
+    },
+    {
+        "name": "Sellia Hideaway",
+        "position": {
+            "marker": "point",
+            "lat": 284.5,
+            "lng": 624.9481071445352
+        }
+    },
+    {
+        "name": "Sellia Crystal Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 290.4375,
+            "lng": 586.0795815917816
+        }
+    },
+    {
+        "name": "Abandoned Cave",
+        "position": {
+            "marker": "point",
+            "lat": 281.78125,
+            "lng": 573.4622747585095
+        }
+    },
+    {
+        "name": "Caelid Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 197.4375,
+            "lng": 567.120924112489
+        }
+    },
+    {
+        "name": "Gaol Cave",
+        "position": {
+            "marker": "point",
+            "lat": 248.75,
+            "lng": 524.6294373771594
+        }
+    },
+    {
+        "name": "Minor Erdtree Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 312.71875,
+            "lng": 524.848282589619
+        }
+    },
+    {
+        "name": "Gael Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 282.6875,
+            "lng": 508.88006577939217
+        }
+    },
+    {
+        "name": "Highroad Cave",
+        "position": {
+            "marker": "point",
+            "lat": 288.125,
+            "lng": 427.0808764812308
+        }
+    },
+    {
+        "name": "Deathtouched Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 279.5625,
+            "lng": 411.2155500671164
+        }
+    },
+    {
+        "name": "Murkwater Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 254.96875,
+            "lng": 429.43151986329883
+        }
+    },
+    {
+        "name": "Murkwater Cave",
+        "position": {
+            "marker": "point",
+            "lat": 227,
+            "lng": 428.08790316074214
+        }
+    },
+    {
+        "name": "Limgrave Tunnels",
+        "position": {
+            "marker": "point",
+            "lat": 215.96875,
+            "lng": 406.09963460654393
+        }
+    },
+    {
+        "name": "Fringefolk Hero's Grave",
+        "position": {
+            "marker": "point",
+            "lat": 185.5,
+            "lng": 397.3171087595866
+        }
+    },
+    {
+        "name": "Stranded Graveyard",
+        "position": {
+            "marker": "point",
+            "lat": 178.1875,
+            "lng": 398.28526844233767
+        }
+    },
+    {
+        "name": "Coastal Cave",
+        "position": {
+            "marker": "point",
+            "lat": 186.15625,
+            "lng": 369.6777113649187
+        }
+    },
+    {
+        "name": "Earthbore Cave",
+        "position": {
+            "marker": "point",
+            "lat": 126.625,
+            "lng": 437.6011960908798
+        }
+    },
+    {
+        "name": "Impaler's Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 124.875,
+            "lng": 472.65516505450825
+        }
+    },
+    {
+        "name": "Morne Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 93.65625,
+            "lng": 423.91302960366323
+        }
+    },
+    {
+        "name": "Tombsward Cave",
+        "position": {
+            "marker": "point",
+            "lat": 104.375,
+            "lng": 381.4223794671865
+        }
+    },
+    {
+        "name": "Tombsward Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 114.3125,
+            "lng": 406.3446835586497
+        }
+    },
+    {
+        "name": "Groveside Cave",
+        "position": {
+            "marker": "point",
+            "lat": 215.25,
+            "lng": 384.01015012472965
+        }
+    },
+    {
+        "name": "Stormfoot Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 218.03125,
+            "lng": 370.0499121186093
+        }
+    },
+    {
+        "name": "Stillwater Cave",
+        "position": {
+            "marker": "point",
+            "lat": 304.03125,
+            "lng": 309.7222352525644
+        }
+    },
+    {
+        "name": "Cliffbottom Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 342.5,
+            "lng": 319.125495581336
+        }
+    },
+    {
+        "name": "Lakeside Crystal Cave",
+        "position": {
+            "marker": "point",
+            "lat": 340.84375,
+            "lng": 242.82803914993758
+        }
+    },
+    {
+        "name": "Road's End Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 396.15625,
+            "lng": 141.2187885615304
+        }
+    },
+    {
+        "name": "Academy Crystal Cave",
+        "position": {
+            "marker": "point",
+            "lat": 467.15625,
+            "lng": 175.52428092451092
+        }
+    },
+    {
+        "name": "Raya Lucaria Crystal Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 512.5,
+            "lng": 240.25489439696508
+        }
+    },
+    {
+        "name": "Black Knife Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 550.5,
+            "lng": 300.7765469810471
+        }
+    },
+    {
+        "name": "Ruin-Strewn Precipice",
+        "position": {
+            "marker": "point",
+            "lat": 608.875,
+            "lng": 270.6916903013113
+        }
+    },
+    {
+        "name": "Unsightly Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 641.75,
+            "lng": 223.66236311644673
+        }
+    },
+    {
+        "name": "Lux Ruins",
+        "position": {
+            "marker": "point",
+            "lat": 628.25,
+            "lng": 278.432054323863
+        }
+    },
+    {
+        "name": "Sage's Cave",
+        "position": {
+            "marker": "point",
+            "lat": 660.65625,
+            "lng": 259.8100439950914
+        }
+    },
+    {
+        "name": "Volcano Cave",
+        "position": {
+            "marker": "point",
+            "lat": 737.03125,
+            "lng": 245.94121376246724
+        }
+    },
+    {
+        "name": "Seethewater Cave",
+        "position": {
+            "marker": "point",
+            "lat": 702.6875,
+            "lng": 253.1594877001697
+        }
+    },
+    {
+        "name": "Gelmir Hero's Grave",
+        "position": {
+            "marker": "point",
+            "lat": 688.3125,
+            "lng": 268.71568463535056
+        }
+    },
+    {
+        "name": "Wyndham Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 671.40625,
+            "lng": 271.5264708110795
+        }
+    },
+    {
+        "name": "Old Altus Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 673.28125,
+            "lng": 292.7322909590789
+        }
+    },
+    {
+        "name": "Altus Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 664.0625,
+            "lng": 359.1667822453586
+        }
+    },
+    {
+        "name": "Perfumer's Grotto",
+        "position": {
+            "marker": "point",
+            "lat": 631.40625,
+            "lng": 369.8490823742788
+        }
+    },
+    {
+        "name": "Sealed Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 605,
+            "lng": 412.2804887768706
+        }
+    },
+    {
+        "name": "Auriza Hero's Grave",
+        "position": {
+            "marker": "point",
+            "lat": 640.5625,
+            "lng": 481.3328581711794
+        }
+    },
+    {
+        "name": "Auriza Side Tomb",
+        "position": {
+            "marker": "point",
+            "lat": 659.84375,
+            "lng": 486.70458286257247
+        }
+    },
+    {
+        "name": "Yelough Anix Tunnel",
+        "position": {
+            "marker": "point",
+            "lat": 736.4375,
+            "lng": 534.8560531971054
+        }
+    },
+    {
+        "name": "Consecrated Snowfield Catacombs",
+        "position": {
+            "marker": "point",
+            "lat": 753.78125,
+            "lng": 612.0949704668192
+        }
+    },
+    {
+        "name": "Hidden Path to the Haligtree",
+        "position": {
+            "marker": "point",
+            "lat": 702.90625,
+            "lng": 573.6993829914926
+        }
+    },
+    {
+        "name": "Giant-Conquering Hero's Grave",
+        "position": {
+            "marker": "point",
+            "lat": 700.25,
+            "lng": 602.2925426742437
+        }
+    },
+    {
+        "name": "Cave of the Forlorn",
+        "position": {
+            "marker": "point",
+            "lat": 778.03125,
+            "lng": 604.8125195190385
+        }
+    },
+    {
+        "name": "Spiritcaller's Cave",
+        "position": {
+            "marker": "point",
+            "lat": 787.96875,
+            "lng": 690.7741666695595
+        }
+    }
+]

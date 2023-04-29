@@ -1,0 +1,3119 @@
+[
+  {
+    "id": "fdc6eca3-b012-4b5f-81df-3d3f5b5f441b",
+    "name": "Pugnale",
+    "desc": "Pugnale comune a lama dritta.\n\nHa una portata ridotta e scarsa potenza, ma il peso contenuto permette di colpire più volte in rapida successione e infliggere danni critici devastanti.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "req": {
+      "str": 5,
+      "dex": 9
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "bee02475-d15f-4961-b075-05f6e0c007ad",
+    "name": "",
+    "desc": "",
+    "scaling": {},
+    "req": {},
+    "type": "",
+    "dmg_type": [],
+    "fp_cost": null,
+    "wgt": null,
+    "passive": null,
+    "sell_value": null,
+    "cost": null,
+    "position": {},
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": ""
+  },
+  {
+    "id": "93d79be1-a7f5-470c-aa3a-997d2fcb3cf0",
+    "name": "Misericordia",
+    "desc": "Pugnale prediletto dei medici militari in abito bianco.\nLa lama, robusta e affilata, permette di sferrare colpi critici di enorme potenza.\n\nLa medicina è un atto di misericordia e la misericordia in battaglia si tinge di ferocia. Fa' attenzione agli assassini che si nascondono sotto abiti da uomini di pietà.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "req": {
+      "str": 7,
+      "dex": 12
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 261.4688024883993,
+      "lng": 324.99052228367634,
+      "info": ""
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "315bce4f-2e6a-4618-984e-42cbea514b65",
+    "name": "Coltello gigante",
+    "desc": "Imponente coltello dotato di un'ampia lama curva.\n\nÈ un'arma progettata per squartare le carni delle vittime, causando sanguinamento.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "req": {
+      "str": 6,
+      "dex": 12
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 1.5,
+    "passive": "Causa sanguinamento (38)",
+    "sell_value": 100,
+    "cost": null,
+    "position": [
+      {
+        "lat": 659.2473580839016,
+        "lng": 238.99339329253078,
+        "marker": "circle",
+        "color": "red",
+        "info": "Drop from Demi-human (4) hidden in a flock of sheep."
+      },
+      {
+        "lat": 340.42479780736835,
+        "lng": 242.76955461200933,
+        "marker": "point",
+        "info": "Drop from Demi-human (1) hidden in a bush at the start of the dungeon."
+      }
+    ],
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "b078fe77-bf91-4672-b051-acf316855165",
+    "name": "Pugnale insanguinato",
+    "desc": "Pugnale ricoperto di macchie.\nInfligge sanguinamento.\n\nÈ annerito dal sangue delle innumerevoli vittime a cui ha dilaniato le carni.\nColpo dopo colpo, è diventato più resistente e affilato.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "req": {
+      "str": 9,
+      "dex": 12
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 2.0,
+    "passive": "Causa sanguinamento (38)",
+    "sell_value": 100,
+    "cost": null,
+    "position": [
+      {
+        "lat": 110.28271967518053,
+        "lng": 430.2740106973595,
+        "marker": "point",
+        "info": "Drop from Chief Demi-human (1) before the wooden bridge."
+      },
+      {
+        "lat": 669.2487227822836,
+        "lng": 251.7395855562111,
+        "marker": "circle",
+        "color": "red",
+        "info": "Drop from Chief Demi-Human (2) sleeping, close to each other"
+      }
+    ],
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "afb29d74-c8a0-48a7-a3fb-ac0e825cc9d0",
+    "name": "Pugnale d'acciaio madre",
+    "desc": "Pugnale di acciaio madre con un'incisione di steli.\nI reali dell'Albero Madre lo portavano con sé come strumento di difesa personale in tempo di pace.\n\nNonostante la pregevole fattura, non è semplice da maneggiare. La sua potenza d'attacco è determinata dalla fede.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 7,
+      "dex": 12,
+      "fai": 14
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": {
+      "lat": 245.13764970423236,
+      "lng": 465.99360010249063,
+      "marker": "point",
+      "info": "Given as reward from Kenneth Haight, after clearing out Fort Haight."
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "a0f93151-681f-4b20-98f0-30a55c6d31ee",
+    "name": "Wakizashi",
+    "desc": "Spada corta con una peculiare linea di tempra sulla lama.\nArma tipica dei guerrieri della terra dei giunchi.\nInfligge sanguinamento.\n\nDi norma è usata come spada ausiliaria, ma pare che uno spadaccino demoniaco, noto con il semplice appellativo di Okina, la brandisca con la mano sinistra affiancandola a una katana.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 9,
+      "dex": 13
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 3.0,
+    "passive": "Causa sanguinamento (38)",
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 248.76081261025672,
+      "lng": 524.4677758226139,
+      "info": "Found inside the Gaol Cave.",
+      "marker": "point"
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "34f829fe-e721-43d9-bdc6-753d70dccdbb",
+    "name": "Falcetto del celebrante",
+    "desc": "Falcetto decorato con fiori e stoffe multicolori.\nOggetto cerimoniale usato dai danzatori di Dominula, villaggio dei mulini, durante la festività.\nI suoi attacchi possono eludere la guardia del nemico.\nRicavato da ossa umane.\nGarantisce una ridotta quantità di rune mettendo a segno un attacco.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "req": {
+      "str": 6,
+      "dex": 11
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 728.6798716859678,
+      "lng": 384.7345238407949,
+      "marker": "circle",
+      "color": "red",
+      "info": "Drop from Celebrants (2) wielding it."
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "c5ebcb33-6f1f-49f4-9a2d-6fa8be37ce9e",
+    "name": "Falcetto d'avorio",
+    "desc": "Falcetto in avorio.\nArma brandita dagli albinauri anziani.\n\nQueste armi dimostrano quanto siano devoti al Sacro Albero. sebbene non abbiano mai presenziato al suo cospetto.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "int": "D"
+    },
+    "req": {
+      "str": 6,
+      "dex": 11,
+      "int": 13
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "1d480a05-6f77-429e-9aa7-5a6c86878a7f",
+    "name": "Coltello di cristallo",
+    "desc": "Coltello originario dall'affilatura di un robusto cristallo.\nArma caratteristica dei minatori di scintipietra.\n\nEssendo usato per estrarre scintipietra dalle rocce in frantumi, la lama si permea in eterno di una flebile magia.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "C"
+    },
+    "req": {
+      "str": 8,
+      "dex": 12,
+      "int": 9
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 512.5134020379558,
+      "lng": 240.17047980278744,
+      "marker": "point",
+      "info": "Found in a chest inside the Raya Lucaria Crytal Tunnel."
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "6a8f2b2f-da02-4758-939d-06c22d802f91",
+    "name": "Aculeo dello scorpione",
+    "desc": "Pugnale ottenuto da una coda di scoprione gigante, impegnato di marcescenza scarlatta.\n\nStrumento cerimoniale usato dagli eretici e ricavato dalla reliquia di una divinità esterna in esilio.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "req": {
+      "str": 6,
+      "dex": 12
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "7",
+    "wgt": 2.5,
+    "passive": "Causa marcescenza scarlatta (50)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Affondo ripetuto"
+  },
+  {
+    "id": "a73039c5-3d91-412b-a2b5-d6c24db9c2b6",
+    "name": "Cinquedea",
+    "desc": "Spada corta concessa solo ai più eminenti prelati di Farum Azula. Accresce la potenza degli incantesimi bestiali.\n\nLa foggia celebra le cinque dita di una bestia, simbolo dell'intelligenza un tempo donata alla sua specie.",
+    "scaling": {
+      "str": "D",
+      "dex": "E"
+    },
+    "req": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "3 ( - -)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo veloce"
+  },
+  {
+    "id": "225b93c0-2214-4687-86b8-5424b5877414",
+    "name": "Kriss di scintipietra",
+    "desc": "Lama rituale offerta a Leyndell dall'Accademia di Raya Lucaria per celebrare la pace.\n\nSebbene l'arma sia arricchita da scintipietre e presenti gli ornamenti dell'Albero Madre, la lama ondulata palesa gli antichi scopi rituali.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "int": "D"
+    },
+    "req": {
+      "str": 5,
+      "dex": 12,
+      "int": 16
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "8 ( - 3)",
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Dardo di scintipietra"
+  },
+  {
+    "id": "7669cf14-1f81-4667-8149-a7b272e275c4",
+    "name": "Reduvia",
+    "desc": "Pugnale seghettato dall'inconfondibile lama curva.\nArma utilizzata dai nobili seguaci del Signore del sangue.\n\nLa sua crudele conformazione permette di dilaniare la carne.\nDel resto, lo spesso strato di sangue che lo ricopre congerma la sua efficacia nel provocare sanguinamento.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "arc": "C"
+    },
+    "req": {
+      "str": 5,
+      "dex": 13,
+      "arc": 13
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "5 ( - 5)",
+    "wgt": 2.5,
+    "passive": "Causa sanguinamento (52)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama di sangue Reduvia"
+  },
+  {
+    "id": "8843abf2-4577-4fba-a2e5-fe287e76f206",
+    "name": "Lama dell'evocazione",
+    "desc": "Pugnale concesso a colei che intraprese un lungo viaggio per assolvere al suo dovere.\nIl potere della sua precedente padrona, la vergine della giamma, è ancora infuso al suo interno.\n\nChi cammina accanto alla fiamma un giorno troverà la via della morte fatidica.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "C"
+    },
+    "req": {
+      "str": 6,
+      "dex": 13,
+      "fai": 15
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "13 ( - -)",
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama dorata"
+  },
+  {
+    "id": "f1ddb72e-f1e4-444b-acf6-12f1a53353ad",
+    "name": "Coltello nero",
+    "desc": "Pugnale appartenuto a uno degli assassini che uccisero Godwyn l'Aureo nella Notte dei Neri Coltelli.\n\nIn seguito a un antico rituale, la bizzarra lama deforme è intrisa di un potere legato alla perduta runa della morte.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 8,
+      "dex": 12,
+      "fai": 18
+    },
+    "type": "Pugnale",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": "19 ( - -)",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama della morte"
+  },
+  {
+    "id": "",
+    "name": "Spada corta",
+    "desc": "Spada dritta a lama corta. Consente di infliggere danni da perforazione con la stessa facilità di quelli normali.\n\nIl suo peso ridotto la rende una delle spade corte più maneggevoli, anche in virtù dei suoi scarsi requisiti in termini di attributi.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 8,
+      "dex": 10
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- ( - -)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 600,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Calcio"
+  },
+  {
+    "id": "",
+    "name": "Spada lunga",
+    "desc": "Spada dritta a doppio taglio.\n\nConsente di infliggere danni da perforazione con la stessa facilità di quelli normali. È un'arma dal bilanciamento ineguagliabile.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- (6 8)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 1000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Posizionamento"
+  },
+  {
+    "id": "",
+    "name": "Spada a lama larga",
+    "desc": "Spada dritta a lama larga, efficace per infliggere danni da taglio.\n\nConsente di sferrare ampi fendenti orizzontali, raggiungendo anche i bersagli distanti.",
+    "scaling": {
+      "str": "D",
+      "dex": "E"
+    },
+    "req": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- (5 6)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 1800,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Posizionamento"
+  },
+  {
+    "id": "",
+    "name": "Spada dritta logora",
+    "desc": "Spada dritta dalla lama corta e larga.\nMolto maneggevole, era considerata l'arma del popolo.\n\nSebbene il richiamo all'Albero Madre sia ancora visibile, il tempo non è stato clemente con quest'arma, ormai ridotta all'ombra di se stessa.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 7,
+      "dex": 10
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- ( 5 6)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Posizionamento"
+  },
+  {
+    "id": "",
+    "name": "Spada dritta del vassallo",
+    "desc": "Spada dritta di nobile foggia ed eccelsa qualità. È sovente brandita dai fanti al servizio dei signori.\n\nPresenta macchie e scheggiature dovute all'uso, ma nel complesso appare conservata in buone condizioni, sebbene i soldati che la brandiscono siano ormai preda di una cieca follia.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- ( 5 6)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Posizionamento"
+  },
+  {
+    "id": "",
+    "name": "Spada da lato nobiliare",
+    "desc": "Lama stretta brandita dai nobili viandanti. Progettata all'insegna della manegevolezza.\n\nInteramente placcata d'oro, dovrebbe valere una discreta somma.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "req": {
+      "str": 8,
+      "dex": 11
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- ( 5 6)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Posizionamento"
+  },
+  {
+    "id": "",
+    "name": "Spada da passeggio",
+    "desc": "Preziosa spada di un cavaliere ritiratosi dalle scene da molto tempo, adattata a bastone da passeggio.\nLa punta è alquanto consumata.\n\nSeppur ingobbito e troppo debole per brandire l'arma, intende morire con la spada in pugno.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "req": {
+      "str": 8,
+      "dex": 11
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- ( 5 6)",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Posizionamento"
+  },
+  {
+    "id": "",
+    "name": "Grinfia di falco da guerra",
+    "desc": "Lama generalmente fissata agli artigli dei falchi da guerra di Grantempesta, adattata per essere usata da un umano.\n\nSottile e leggera, è pensata per non limitare la libertà di volo del rapace.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "req": {
+      "str": 10,
+      "dex": 16
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Spada di scintipietra di Lazuli",
+    "desc": "Spada con una scintipietra incastonata nel paramano.\n\nEra brandita dagli eruditi dell'epitome di Lazuli, che studiano la stregoneria cariana. Infligge danni magici.\n\nÈ di legno, e sembra che un tempo venisse usata come bastone per le stregonerie.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "req": {
+      "str": 8,
+      "dex": 9,
+      "int": 13
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "6 ( - 3)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Ciottolo di scintipietra"
+  },
+  {
+    "id": "",
+    "name": "Spada da cavaliere cariano",
+    "desc": "Spada dritta su cui è incastonata una scintipietra blu.\nEra conferita ai cavalieri di Caria.\n\nQueste spade fungevano da catalizzatori, consentendo l'uso di abilità belliche arcane. Per questo motivo, i cavalieri, sebbene fossero meno di una ventina, erano in grado di tenere testa persino ai campioni aurei.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 10,
+      "int": 18
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "20 ( - -)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Fasti cariani"
+  },
+  {
+    "id": "",
+    "name": "Spada di cristallo",
+    "desc": "Spada di cristallo purissimo, creata con tecniche inaccessibili agli esseri umani. È ammantata di una potente magia e il suo attacco cresce in proporzione all'intelligenza.\nGli imperscrutabili cristalliani perseguono un unico scopo: salvaguardare gino all'ultimo i loro cristalli.\nQualcuno ha ipotizzato che attendano il ritorno del proprio creatore, che scolpirà per loro nuovi compagni.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "req": {
+      "str": 13,
+      "dex": 10,
+      "int": 15
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 4.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {},
+    "req": {},
+    "type": "",
+    "dmg_type": [],
+    "fp_cost": "",
+    "wgt": null,
+    "passive": "",
+    "sell_value": null,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": ""
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {},
+    "req": {},
+    "type": "",
+    "dmg_type": [],
+    "fp_cost": "",
+    "wgt": null,
+    "passive": null,
+    "sell_value": null,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": ""
+  },
+  {
+    "id": "",
+    "name": "Spada dritta ornamentale",
+    "desc": "Spada dritta e sottile ispirata a un antico cerimoniale.\nGli spadaccini più abili ne impugnano una per mano.\n\nDopo la caduta, i discendenti della stirpe aurea cercarono scopo e potere nel passato.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 14
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "18 ( - -)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Tempra aurea"
+  },
+  {
+    "id": "",
+    "name": "Epitaffio dorato",
+    "desc": "Spada forgiata per commemorare la morte di Godwyn l'Aureo, primo semidio a conoscere la morte.\n\nVi è infusa l'umile preghiera di un giovane: \"Fratello, fratello mio, che la tua sia una vera morte\".",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 12,
+      "dex": 10,
+      "fai": 14
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "19 ( - -)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Legge della morte / Ultimi rituali"
+  },
+  {
+    "id": "",
+    "name": "Spada di Santa Trina",
+    "desc": "Spada d'argento brandita dai chierici di Santa Trina.\nImpone il sonno sui nemici.\n\nSanta Trina è una figura enigmatica. Qualcuno sostiene che sia una giovane avvenente, altri assicurano che si tratta di un ragazzo. L'unica certezza è che la sua apparizione fu repentina, così come la sua scomparsa.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "E"
+    },
+    "req": {
+      "str": 10,
+      "dex": 12,
+      "int": 14
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "15 ( - -)",
+    "wgt": 3.0,
+    "passive": "Causa sonno (66)",
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Foschie del sonno"
+  },
+  {
+    "id": "",
+    "name": "Regalia di Eochaid",
+    "desc": "Preziosa spada di Eochaid, piccola nazione ormai scomparsa. Il colore ramato non è ruggine. Al contrario, permette a chi la brandisce di raggiungere il suo intento.\n\nLe spade di Eochaid volteggiano nel cielo.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "arc": "D"
+    },
+    "req": {
+      "str": 12,
+      "dex": 18,
+      "arc": 15
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "12 ( - -)",
+    "wgt": 5.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama danzante di Eochaid"
+  },
+  {
+    "id": "",
+    "name": "Spada cifrata",
+    "desc": "Spada nascosta conferita dalle Due Dita ai Senzaluce della Tavola rotonda. La lama è costituita da una sequenza amorfa di simboli, e in quanto tale infligge danni sacri in grado di superare qualsiasi difesa.\nIn tempi ormai remoti, i campioni si ritrovavano nella Rocca della Tavola rotonda. All'epoca, le Due Dita vantavano ancora eccelse doti oratorie e un corpo pieno di vigore.",
+    "scaling": {
+      "fai": "B"
+    },
+    "req": {
+      "fai": 20
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "14 ( - -)",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama a scatto / Lama ineluttabile"
+  },
+  {
+    "id": "",
+    "name": "Spada della notte ardente",
+    "desc": "Mitica spada, tesoro del maniero cariano.\nUno degli armamenti leggendari.\n\nGli astrologi, antesignani degli stregoni, presero dimora su vette montane tanto alte da sfiorare il cielo, e consideravano i giganti di fuoco come loro vicini.",
+    "scaling": {
+      "str": "E",
+      "dex": "E",
+      "int": "C",
+      "fai": "C"
+    },
+    "req": {
+      "str": 12,
+      "dex": 12,
+      "int": 24,
+      "fai": 24
+    },
+    "type": "Spada dritta",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "- ( 20 24)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Postura notte e fiamme"
+  },
+  {
+    "id": "",
+    "name": "Spada bastarda",
+    "desc": "Spadone a lama dritta. Arma pesante da impugnare a due mani, a meno di vantare una forza straordinaria.\n\nLa grossa lama può falciare più nemici con un solo colpo ad ampio raggio, una tecnica utile per farsi largo tra gruppi di avversari.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 16,
+      "dex": 10
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "4 ( - 6)",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 3000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Claymore",
+    "desc": "Spadone a lama lunga e dritta. Arma pesante da impugnare a due mani, a meno di vantare una forza straordinaria.\n\nOltre sfruttare la grossa lama con ampi attacchi in spazzata, è possibile eseguire violenti affondi perforanti, caratteristica che la rende un'arma piuttosto versatile.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 16,
+      "dex": 13
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "15 ( - -)",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Artiglio leonino"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {},
+    "req": {},
+    "type": "Spadone",
+    "dmg_type": [],
+    "fp_cost": "",
+    "wgt": 12.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Spadone del vassallo",
+    "desc": "Spada dritta di nobile foggia ed eccelsa qualità. È sovente brandita dai fanti al servizio dei signori.\n\nPresenta macchie e scheggiature dovute all'uso, ma nel complesso appare conservata in buone condizioni, sebbene i soldati che la brandiscono siano ormai preda di una cieca follia.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 16,
+      "dex": 10
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "4 ( - 6)",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Spadone da cavaliere",
+    "desc": "Spadone conferito ai più meritevoli tra i cavalieri al servizio dei semidei, che ancora non possedevano rango né titolo.\n\nL'arma fu chiaramente concepita per tenere testa agli avversari di grossa stazza, come dimostra la lunga impugnatura per l'uso a due mani. Brandirla doveva rappresentare un grande onore.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 16,
+      "dex": 12
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "4 ( - 6)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Spadone del cavaliere esule",
+    "desc": "Spadone di pregevole fattura, finemente decorato con un antico motivo.\nEra conferito ai cacalieri che, per colpa o sventura, erano condannati ad abbandonare le proprie terre.\nMolti di questi guerrieri venivano mandati al confino, dov'erano costretti a ricominciare da capo, soli nella loro disperazione.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 17,
+      "dex": 9
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "4 ( - 6)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Spadone biforcuto",
+    "desc": "Spadone di forma anomala brandito dai demoni.\n\nLa lama, ondulata e biforcuta, è conosciuta come \"lingua del demone\" e causa sanguinamento.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 14,
+      "dex": 16
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "4 ( - 6)",
+    "wgt": 9.0,
+    "passive": "Causa sanguinamento (55)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Flamberga",
+    "desc": "Spadone ondulato come una fiamma.\nSquarcia le carni, causando sanguinamento.\n\nI signori del castello di Mantorosso ricorrono alle fiamme per tenere a freno la marcescenza scarlatta.\nDi conseguenza, quest'arma, la favorita di Jerren, è divenuta un simbolo del castello.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "req": {
+      "str": 15,
+      "dex": 14
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "4 ( - 6)",
+    "wgt": 10.0,
+    "passive": "Causa sanguinamento (55)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Spadone del gargoyle",
+    "desc": "Spadone di bronzo appartenuto agli audaci gargoyle.\n\nCome le creature che lo brandivano, le parti mancanti sono state riparate con adipocera. Un mosaico di campioni.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "req": {
+      "str": 18,
+      "dex": 10
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "11 ( - -)",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Squarcio dell'oblio"
+  },
+  {
+    "id": "",
+    "name": "Spadone nero del Gargoyle",
+    "desc": "Spadone di bronzo appartenuto agli audaci gargoyle, riparato con innesti di adipocera annerita.\nInfligge danni sacri.\n\nTale è il marchio di chi serve Maliketh la Lama nera.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "fai": "D"
+    },
+    "req": {
+      "str": 18,
+      "dex": 10,
+      "fai": 22
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "12 ( - -)",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama di adipocera"
+  },
+  {
+    "id": "",
+    "name": "Spada inscindibile",
+    "desc": "Spada forgiata da una lega di argento e oro.\nÈ un'arma sacra usata nella caccia a coloro che vivono nella morte.\nInfligge danni sacri.\n\nInseparabili, i due gemelli trovarono conforto presso l'Ordine aureo, unica istituzione che non li vituperava in quanto abiezioni.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "C"
+    },
+    "req": {
+      "str": 18,
+      "dex": 18,
+      "fai": 20
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "15 ( - -)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama sacra"
+  },
+  {
+    "id": "",
+    "name": "Spada di Milos",
+    "desc": "Sinistro spadone ricavato dalla spina dorsale di un gigante. Infligge ferite come una lama curva seghettata e ripristina alcuni PA dopo aver sconfitto un nemico.\n\nPer essere un gigante, Milos era di statura ridotta, per questo era considerato impuro e terribilmente grottescos.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 15,
+      "dex": 19
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "23 ( - -)",
+    "wgt": 10.0,
+    "passive": "Causa sanguinamento (55)",
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Grido di Milos"
+  },
+  {
+    "id": "",
+    "name": "Spada da carnefice di Marais",
+    "desc": "Leggendaria spada del casato dei Marais, stirpe di carnegici che regnava su Castellombroso.\nUno degli armamenti leggendari.\n\nElemer del Rovo, cacciatore dei globi cinerei, si impossessò dell'arma nel luogo della sua imminente esecuzioni, infondendovi abilità di battaglia della sua terra di origine, Eochaid.",
+    "scaling": {
+      "str": "C",
+      "dex": "E",
+      "arc": "D"
+    },
+    "req": {
+      "str": 24,
+      "dex": 14,
+      "arc": 23
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "12 ( - -)",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Lama danzante di Eochaid"
+  },
+  {
+    "id": "",
+    "name": "Spadone di Ordovis",
+    "desc": "Spadone di Ordovis, una delle due figure più rispettate tra i cavalieri del Crogiolo.\n\nLa lama è infusa di un'antica essenza sacra.\nIl colore scarlatto rimanda alla natura dell'oro primordiale, ritenuto affine alla vita stessa.",
+    "scaling": {
+      "str": "C",
+      "dex": "E",
+      "fai": "D"
+    },
+    "req": {
+      "str": 25,
+      "dex": 13,
+      "fai": 15
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "12 ( - -)",
+    "wgt": 12.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Vortice di Ordovis"
+  },
+  {
+    "id": "",
+    "name": "Spada del campione di alabastro",
+    "desc": "Spadone forgiato usando un metallo bianco-bluastro meteoritico. La lama è intrisa di un potere in grado di manipolare la gravità.\n\nArma esclusiva dei campioni di alabastro, un'antica razza con la pelle dura come roccia che venne alla luce in tempi remoti, quando una meteora colpì la terra.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "req": {
+      "str": 16,
+      "dex": 12,
+      "int": 18
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "12 ( - -)",
+    "wgt": 8.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Prese del campione di alabastro"
+  },
+  {
+    "id": "",
+    "name": "Attizzatoio della morte",
+    "desc": "Clava uncinata brandita dai necrorapaci.\nI corvi fungono da guardiani delle pire funerarie. Si mormora che le ceneri dei defunti vengano prelevate dalle fiamme spettrali quando sono ancora roventi.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "E"
+    },
+    "req": {
+      "str": 15,
+      "dex": 17,
+      "int": 11
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "12 ( 8 8)",
+    "wgt": 8.5,
+    "passive": "Causa assideramento (65)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Fiamma spettrale"
+  },
+  {
+    "id": "",
+    "name": "Guglia di Helphen",
+    "desc": "Spadone forgiato a immagine della guglia nera di Helphen, l'albero lume che rischiara la via dei morti nell'aldilà.\n\nLa sua luce è simile a quella della grazia, ma si dice che solo chi muore in battaglia possa vederla.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "req": {
+      "str": 19,
+      "dex": 10,
+      "int": 22
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "15 ( - -)",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Furia della fiamma spettrale"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {},
+    "req": {},
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "",
+    "wgt": 13.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": ""
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "fai": "C"
+    },
+    "req": {
+      "str": 16,
+      "dex": 21,
+      "fai": 28
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "20",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": ""
+  },
+  {
+    "id": "",
+    "name": "Spadone della luna nera",
+    "desc": "Spadone della luna, donato da una regina di Caria al suo sposo per dare seguito a un'antica tradizione.\nUno degli armamenti leggendari.\n\nIl sigillo di Ranni rappresenta una luna piena, fredda e plumbea, e quest'arma non è che un raggio della sua luce.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "C"
+    },
+    "req": {
+      "str": 16,
+      "dex": 11,
+      "int": 38
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "24 ( - -)",
+    "wgt": 10.0,
+    "passive": "Causa assideramento (55)",
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Spadone della luna"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 14,
+      "dex": 24,
+      "fai": 22
+    },
+    "type": "Spadone",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "42",
+    "wgt": 11.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": ""
+  },
+  {
+    "id": "",
+    "name": "Zweihander",
+    "desc": "La più lunga spada mai brandita da un essere umano.\bCome suggerisce il suo nome, è un'arma da impugnare a due mani, a condizione di possedere una forza fuori dal comune.\n\nLa lama lunga e affilata consente di travolgere i nemici con fendenti ad ampio raggio oppure trafiggerli con affondi devastanti.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 19,
+      "dex": 11
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "5 (- 8)",
+    "wgt": 15.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 3500,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Spadone",
+    "desc": "Spadone ultra caratterizzato da una colossale lama di ferro grezzo. Sfracella i nemici con il suo peso smisurato.\n\nPer quanto brandirlo richieda una forza sovrumana, sono proprio le sue caratteristiche a renderlo particolarmente efficace contro le più grottesche mostruosità.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "req": {
+      "str": 31,
+      "dex": 12
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "5 ( - -)",
+    "wgt": 23.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Passo del limiere"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "req": {
+      "str": 30,
+      "dex": 10
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "5 (- 8)",
+    "wgt": 22.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impronta (montante)"
+  },
+  {
+    "id": "",
+    "name": "Spada aurea del troll",
+    "desc": "Spada conferita ai quei giganti che lottarono per l'Albero Madre nella Guerra dei giganti.\n\nPur privi ormai del senno, i giganti non si separano mai dalle loro spade malridotte. L'oro che un tempo le rivestiva è ormai scrostato.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 29,
+      "dex": 10
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "22 ( - -)",
+    "wgt": 19.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Ruggito del troll"
+  },
+  {
+    "id": "",
+    "name": "Spada da cavaliere troll",
+    "desc": "Spadone su cui è incastonata una scintipietra blu.\n\nArma dei troll al servizio della famiglia reale di Caria.\nAssoldati dalla regina in virtù di un loro antico giuramento, i troll sono a tutti gli effetti cavalieri di Caria e combattono al fianco dei loro commilitoni umani.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "D"
+    },
+    "req": {
+      "str": 20,
+      "dex": 14,
+      "int": 18
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "22 ( - -)",
+    "wgt": 18.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Ruggito del troll"
+  },
+  {
+    "id": "",
+    "name": "Spadone reale",
+    "desc": "Spadone decorato secondo lo stile della casa reale di Caria.\nArma prediletta di Blaidd, il mezzolupo.\n\nIn spregio del destino legato ai suoi natali, Blaidd proclamò la sue eterna fedeltà a Ranni. A riprova, al momento del giuramento, la lama fu intrisa di gelida magia.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "req": {
+      "str": 26,
+      "dex": 18,
+      "int": 22
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "20 ( - -)",
+    "wgt": 20.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Assalto del lupo"
+  },
+  {
+    "id": "",
+    "name": "Spadone della lama innestata",
+    "desc": "Leggendaria spada del castello di Morne. L'arma di un vendicatore, gravata da oceani di rabbia e rimpianto.\nUno degli armamenti leggendari.\n\nL'ultimo campione di un paese ormai scomparso giurò di portarne avanti la lotta e raccolse tutte le spade dei guerrieri del suo clan.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "req": {
+      "str": 40,
+      "dex": 14
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "20 ( - -)",
+    "wgt": 21.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Voto di vendetta"
+  },
+  {
+    "id": "",
+    "name": "Spadone delle rovine",
+    "desc": "Arma realizzata usando un frammento di rovine cadute dal cielo.\nUno degli armamenti leggendari.\n\nIl blocco da cui proviene è stato distrutto dall'impatto di un meteorite, e quest'arma ne possiede ancora la potenza.",
+    "scaling": {
+      "str": "B",
+      "int": "E"
+    },
+    "req": {
+      "str": 50,
+      "int": 16
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "19 ( - -)",
+    "wgt": 23.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Ondata distruttiva"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "E"
+    },
+    "req": {
+      "str": 38,
+      "dex": 12,
+      "int": 15
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard"
+    ],
+    "fp_cost": "20 (- 20)",
+    "wgt": 20.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "starcaller cry"
+  },
+  {
+    "id": "",
+    "name": "Spadone deicida",
+    "desc": "Spada sacra della regina dall'occhio tetro, che guidava gli apostoli Sacriderma prima della sua disfatta per mano di Maliketh.\n\nLa sua lama arde della nera giamma brandita dagli apostoli.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 20,
+      "dex": 22,
+      "fai": 20
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "12 ( - 12)",
+    "wgt": 17.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Nera fiamma della regina"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "C",
+      "dex": "E",
+      "int": "D"
+    },
+    "req": {
+      "str": 34,
+      "dex": 12,
+      "int": 20
+    },
+    "type": "Spada colossale",
+    "dmg_type": [
+      "Standard"
+    ],
+    "fp_cost": "40",
+    "wgt": 22.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "destined death"
+  },
+  {
+    "id": "",
+    "name": "Striscia",
+    "desc": "Spada perforante dotata di una lama esile e affilata. Oltre a essere perfetta per gli affondi, può essere usata con uno scudo.\n\nTrattandosi di un'arma compatta, consente di eseguire raffiche di attacchi. Tuttavia, la scarsa affilatura impedisce di infliggere danni da taglio.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "req": {
+      "str": 7,
+      "dex": 12
+    },
+    "type": "Spada perforante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 1000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Stocco",
+    "desc": "Grossa spada perforante dotata di una lama lunga e resistente, in grado di sferrare anche attacchi da taglio.\n\nNonostante le dimensioni, si rivela piuttosto maneggevole e non concede al nemico opportunità di contrattacco.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "req": {
+      "str": 11,
+      "dex": 13
+    },
+    "type": "Spada perforante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 4.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 3000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Stocco nobiliare",
+    "desc": "Stocco brandito dai nobili viandanti.\nProgettato all'insegna della facilità d'uso.\n\nInteramente placcato d'oro, dovrebbe valere una discreta somma.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 9,
+      "dex": 10
+    },
+    "type": "Spada perforante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Spada del marcescente",
+    "desc": "Spada perforante dei cavalieri marcescenti che combattevano al servizio di Malenia, la spada di Miquella.\n\nUsata principalmente come arma di riserva in combinazione con un'arma ad asta.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 11,
+      "dex": 13
+    },
+    "type": "Spada perforante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Spada di Rogier",
+    "desc": "Stocco dalla lama sottile e affilata con decorazioni intricate. Arma favorita dello stregone Rogier.\n\nPer liberarne il potenziale, serve molta destrezza.\nIl suo stile fluido, eccelso negli attacchi in successione, è uno spettaccolo per gli occhi.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "req": {
+      "str": 8,
+      "dex": 17
+    },
+    "type": "Spada perforante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "8 ( - 3)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Falange di scintilama"
+  },
+  {
+    "id": "",
+    "name": "Striscia mirmecofila",
+    "desc": "Striscia ricavata da uno sperone di formica gigante.\nLa lama è grondante di marcescenza scarlatta.\n\nLa marcescenza scarlatta è un'antica credenza di cui Maleigh Marais di Castellombroso fu privatamente seguace... e che lo portò a trovare la sua divinità personale.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 20
+    },
+    "type": "Spada perforante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 3.0,
+    "passive": "Causa marcescenza scarlatta (55)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Ago congelato",
+    "desc": "Spada di ghiaccio affilata come un rasoio.\nForgiata da Iji, frabbro di Caria.\n\nPuò infliggere assideramento, e un attacco potente consente di scagliarne la lama, che si rigenera all'istante.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "req": {
+      "str": 11,
+      "dex": 18
+    },
+    "type": "Spada perforante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 2.5,
+    "passive": "Causa assideramento (60)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Gran spada",
+    "desc": "Grosso stocco dalla lama sottile e affilata.\nUsato nei duelli mortali.\n\nAl pari della controparte compatta, è perfetto per gli affondi e può essere usato anche con uno scudo",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 14,
+      "dex": 17
+    },
+    "type": "Spada perforante pesante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 6.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Tessitore da Sacriderma",
+    "desc": "Spada perforante di spiccata eleganza e dalle tinte celadon, brandita dai nobili Sacriderma.\n\nGli aristocratici possiedono una padronanza della spada irraggiungibile dai membri dei ceti inferiori. Nonostante le dimensioni, consente di sferrare sequenze di attacchi fulminee",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 14,
+      "dex": 17
+    },
+    "type": "Spada perforante pesante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 7.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Impalamento"
+  },
+  {
+    "id": "",
+    "name": "Elica sanguinaria",
+    "desc": "Temibile spada perforante con una lama a spirale.\nArma dei nobili servitori del Signore del sangue.\n\nI suoi colpi affondano nelle carni del nemico, aprendo ferite che sanguinano copiosamente. Il sangue versato scorre leggiadro su tutta la lunghezza della lama.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "arc": "D"
+    },
+    "req": {
+      "str": 16,
+      "dex": 19,
+      "arc": 17
+    },
+    "type": "Spada perforante pesante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "4 ( - 6)",
+    "wgt": 8.0,
+    "passive": "Causa assideramento (56)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Destrezza dinastica"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "req": {
+      "str": 18,
+      "dex": 37
+    },
+    "type": "Spada perforante pesante",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": "37 ( - -)",
+    "wgt": 6.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "thundercloud form"
+  },
+  {
+    "id": "",
+    "name": "Scimitarra",
+    "desc": "Spada curva a singolo taglio.\nLa lama affilata consente di squarciare le carni, ma è inefficace contro le corazze spesse o le pelli ricoperte di scaglie.\n\nPiù compatta rispetto alle altre spde curve, sfregia i nemici con fendenti rapidi e profondi.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 7,
+      "dex": 13
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 600,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Falchion",
+    "desc": "Spada curva a singolo taglio.\nLa lama affilata consente di squarciare le carni, ma è inefficace contro le corazze spesse o le pelli ricoperte di scaglie.\n\nI maestri nell'uso di quest'arma adottano uno stile unico, che potenzia gli attacchi attraverso movenze circolari.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 9,
+      "dex": 13
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Shamshir",
+    "desc": "Spada curva dalla lama lunga e sottile.\nA dispetto delle dimensioni, risulta molto leggera ed efficace nell'infliggere ferite da taglio in rapida successione.\n\nUn'arma letale nelle mani di uno spadaccino esperto.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 7,
+      "dex": 13
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Coltella a due mani",
+    "desc": "Spada curva con un'enorme lama.\nÈ progettata per sfruttare l'enorme peso in combinazione con l'altrettanto notevole affilatura.\n\nUn'arma di grande affidabilità, a condizione di saperne padroneggiare le carattiristiche.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 14,
+      "dex": 12
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 4.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Spada curva da bandito",
+    "desc": "Spada curva con una lama leggera a forma di mezzaluna, diffusa tra i banditi che imperversavano all'indomani della Disgregazione.\n\nLa lama è oramai arrugginita, ma se maneggiata con destrezza può ancora risultare efficace.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 11,
+      "dex": 13
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 5.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Shotel",
+    "desc": "Spada curva dalla forma marcatamente arcuata, progettata per eludere la guardia dei nemici.\nÈ perfetta per fare strage di umani, ma richiede enorme destrezza per rivelarsi efficace.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "req": {
+      "str": 9,
+      "dex": 19
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "6 ( - 9)",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 2500,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Spada curva da saccheggiatore",
+    "desc": "Spada curva seghettata come le fauci di uno squalo.\nArma usata dai predoni che saccheggiano i cadaveri abbandonati nei luoghi di antiche battaglie.\n\nLa lama è incrostata di sangue e ricoperta di scheggiature, quindi del tutto irregolare. Sinsitra può essere la vita...",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 9,
+      "dex": 14
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 3.5,
+    "passive": "Causa sanguinamento (45)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Lama della mantide",
+    "desc": "Spada curva a doppia lama brandita dalle ombre cimiteriali, custodi delle tombe infestate dagli insetti.\n\nÈ un'arma sottile e affilata e consente di sferrare un ampio fendente con un attacco potente.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 12
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "req": {
+      "str": 13,
+      "dex": 11
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "6 (- 12)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Spada curva del flusso",
+    "desc": "Le leggende narrano di un maestro spadaccino dalle vesti azzurre e armato di una spada curva decorata con motivi fluviali.\n\nL'attacco potente innesca una serie di attacchi simili a un balletto, scampolo fugace delle sue origini leggendarie.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 9,
+      "dex": 17
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Spada curva del dio serpente",
+    "desc": "Spada curva raffigurante un'antica divinità serpentina e strumento rituale di una religione estinta che veniva praticata sul monte Gelmir.\n\nUn tempo usata nei sacrifici, ripristina PV per ogni nemico ucciso.",
+    "scaling": {
+      "str": "D",
+      "dex": "E"
+    },
+    "req": {
+      "str": 13,
+      "dex": 9
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 9,
+      "dex": 15,
+      "fai": 16
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "12",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "magma shower"
+  },
+  {
+    "id": "",
+    "name": "Spada fluida da Nox",
+    "desc": "Arma brandita dagli spadaccini della Città Eterna, questo shotel ha una lama sottile quanto un ago.\n\nÈ forgiata con il metallo liquido da cui originano le lacrime d'argento, reso solido da accurati processi di tempra.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "req": {
+      "str": 8,
+      "dex": 15
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "7 ( - -)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Forma fluente"
+  },
+  {
+    "id": "",
+    "name": "Ala di Astel",
+    "desc": "Spada ricavata da una fragile ala, pervasa dalla magia delle stella. L'attacco potente libera un'onda di luce incantata.\n\nSembra sia stata estratta dai resti della progenie del vuoto che assaltò la Città Eterna.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "int": "D"
+    },
+    "req": {
+      "str": 7,
+      "dex": 17,
+      "int": 20
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "15 ( - -)",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Nube di stelle"
+  },
+  {
+    "id": "",
+    "name": "Shotel dell'eclissi",
+    "desc": "Leggendaria e ambita spada di Castel Sol, raffigurante un sole oscurato.\nUno degli armamenti leggendari.\n\nA Sol, l'eclissi è un fenomeno che ispira un timore reverenziale, da cui nessuno riesce a distogliere lo sguardo.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 25,
+      "fai": 30
+    },
+    "type": "Spada curva",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "15 ( - -)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Vampa mortale"
+  },
+  {
+    "id": "",
+    "name": "Disarcionatore",
+    "desc": "Spadone curvo tipico dei mercenari del nord.\nCombina la lama affilata di una scimitarra con la forza d'urto di un'accetta.\n\nÈ un'arma difficile da maneggiare e che richiede notevole forza e destrezza, ma se ben padroneggiata si rivela molto versatile ed efficace, anche a cavallo.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 19,
+      "dex": 16
+    },
+    "type": "Spadone curvo",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Mannaia del presagio",
+    "desc": "Spada dalla pesante lama curva e di dimensioni colossali, conferita come arma da guerra ai presagi. Per brandirla è necessaria una smisurata forza fisica.\n\nLe decorazioni consunte presenti sulla lama sono ciò che resta di una terribile maledizione. Del resto, prima di donare un'arma è bene assicurarsi di poterla recuperare.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 19,
+      "dex": 16
+    },
+    "type": "Spadone curvo",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "5 ( - 9)",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 18,
+      "dex": 18
+    },
+    "type": "curved Spadone",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "6 (- 12)",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "C",
+      "dex": null
+    },
+    "req": {
+      "str": 25,
+      "dex": 14
+    },
+    "type": "curved Spadone",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "6 (- 12)",
+    "wgt": 16.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Zanna del limiere",
+    "desc": "Spadone curvo dalla caratteristica forma ondulata brandito dai cavalieri limiere.\n\nConsente di sferrare micidiali attacchi aerei.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "req": {
+      "str": 18,
+      "dex": 17
+    },
+    "type": "Spadone curvo",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "6 ( - 9)",
+    "wgt": 11.5,
+    "passive": "Causa sanguinamento (55)",
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Destrezza del limiere"
+  },
+  {
+    "id": "",
+    "name": "Spadone del campione di onice",
+    "desc": "Spadone  forgiato usando un metallo aureo meteoritico.\nLa lama è intrisa di un potere in grado di manipolare la gravità.\n\nArma esclusiva dei campioni di onice, un'antica razza con la pelle dura come roccia che venne alla luce in tempi remoti, quando una meteora colpì la terra.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "req": {
+      "str": 20,
+      "dex": 16,
+      "int": 16
+    },
+    "type": "curved Spadone",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "21 ( - -)",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Respinta del campione di onice / Repulsione del campione di onice"
+  },
+  {
+    "id": "",
+    "name": "",
+    "desc": "",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 16,
+      "dex": 18
+    },
+    "type": "Spadone curvo",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "15",
+    "wgt": 9.0,
+    "passive": "frostibite (65)",
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "zamor ice storm"
+  },
+  {
+    "id": "",
+    "name": "Scaglialama del drago di magma",
+    "desc": "Spadone curvo dei draghi di magma. Ricorda nella forma le fauci di un drago ed è ricoperta di robuste scaglie.\n\nSi narra che questi draghi incapaci di volare fossero in origine eroi umani che presero parte alla comunione draconica, una trasgressione che li tramutò in queste creature, lontana parvenza di ciò che erano un tempo.",
+    "scaling": {
+      "str": "C",
+      "dex": "D",
+      "fai": "D"
+    },
+    "req": {
+      "str": 24,
+      "dex": 15,
+      "fai": 18
+    },
+    "type": "Spadone curvo",
+    "dmg_type": [
+      "Taglio"
+    ],
+    "fp_cost": "15 ( - 8)",
+    "wgt": 15.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Ghigliottina di magma"
+  },
+  {
+    "id": "",
+    "name": "Uchigatana",
+    "desc": "Katana dotata di una lunga lama curva a singolo taglio.\nArma caratteristica dei guerrieri della terra dei giunchi.\n\nLa lama ondulata e straordinariamente affilata può causare sanguinamento.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 11,
+      "dex": 15
+    },
+    "type": "Katana",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": " - ( 8 12)",
+    "wgt": 5.5,
+    "passive": "Causa sanguinamento (45)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Sfoderamento"
+  },
+  {
+    "id": "",
+    "name": "Zanna lunga",
+    "desc": "Katana dotata di una lama ferocemente lunga.\nArma caratteristica di Yura, cacciatore di Dita sanguinanti.\n\nTalmente lunga da sembrare una lancia rinforzata, consente di sferrare potenti attacchi in affondo.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "req": {
+      "str": 18,
+      "dex": 22
+    },
+    "type": "Katana",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": " 12 ( - -)",
+    "wgt": 7.0,
+    "passive": "Causa sanguinamento (45)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Zanna perforante"
+  },
+  {
+    "id": "",
+    "name": "Spada meteoritica",
+    "desc": "Katana di metallo meteoritico in grado di sterminare le forme di vita provenienti dalle stelle.\nInfligge danni magici.\n\nLa lama è pesante e si abbatte sul nemico con tale ferocia da ricordare l'impatto al suolo di una meteora.",
+    "scaling": {
+      "str": "C",
+      "dex": "D",
+      "int": "D"
+    },
+    "req": {
+      "str": 15,
+      "dex": 14,
+      "int": 18
+    },
+    "type": "Katana",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": " 10 ( - -)",
+    "wgt": 7.5,
+    "passive": "Causa sanguinamento (50)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Gravitas"
+  },
+  {
+    "id": "",
+    "name": "Lunavelata",
+    "desc": "Katana di scintipietra.\nIl capolavoro di un fabbro di Sellia.\n\nÈ soprannominata anche \"Velo di luna\" per il bagliore che l'avvolge quando viene sguainata.",
+    "scaling": {
+      "str": "E",
+      "dex": "B",
+      "int": "B"
+    },
+    "req": {
+      "str": 12,
+      "dex": 28,
+      "int": 23
+    },
+    "type": "Katana",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": " - ( 12 15)",
+    "wgt": 6.5,
+    "passive": "Causa sanguinamento (50)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Chiaro di luna fugace"
+  },
+  {
+    "id": "",
+    "name": "Fiumi di sangue",
+    "desc": "Arma di Okina, spadaccino della terra dei giunchi.\nSpada maledetta che ha spezzato innumerevoli vite.\n\nDopo aver assaggiato sulla propria pelle la spada e la follia di Okina, il Signore del sangue Mohg gli propose la vita di un demone la cui sete di sangue sarebbe sempre stata soddisfatta.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "arc": "D"
+    },
+    "req": {
+      "str": 12,
+      "dex": 18,
+      "arc": 20
+    },
+    "type": "Katana",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": " 13 ( - 7)",
+    "wgt": 6.5,
+    "passive": "Causa sanguinamento (30)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Incisione sanguinaria"
+  },
+  {
+    "id": "",
+    "name": "Spada draconica",
+    "desc": "Arma creata affilando una scaglia di breccia, presunta fonte dell'immortalità dei draghi antichi, fino a ricavarne una lama immacolata.\n\nPurtroppo, i soldati draconidi non conquistarono mai l'immortalità, e perirono come pallide e decrepite imitazioni dei loro simili celesti.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "req": {
+      "str": 12,
+      "dex": 20
+    },
+    "type": "Katana",
+    "dmg_type": [
+      "Taglio",
+      "Perforazione"
+    ],
+    "fp_cost": " 19 ( - -)",
+    "wgt": 5.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Grandine di lame"
+  },
+  {
+    "id": "",
+    "name": "Lama gemella",
+    "desc": "Spada dotata di lame a entrambe le estremità dell'elsa.\nLa sua piena padronanza richiede un'elevata destrezza.\n\nPuò essere impugnata a una mano, ma diventa letale se fatta roteare con entrambe le braccia.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "req": {
+      "str": 10,
+      "dex": 18
+    },
+    "type": "Lama gemella",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": " 5 ( - 9)",
+    "wgt": 7.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Spade gemelle da cavaliere",
+    "desc": "Lama gemella di pregevole fattura che rende onore alla filosofia cavalleresca.\n\nPuò essere impugnata a una mano, ma diventa letale se fatta roteare con entrambe le braccia.",
+    "scaling": {
+      "str": "D",
+      "dex": "E"
+    },
+    "req": {
+      "str": 16,
+      "dex": 18
+    },
+    "type": "Lama gemella",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": " 5 ( - 9)",
+    "wgt": 8.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Scorticatore da Sacriderma",
+    "desc": "Lama gemella degli apostoli Sacriderma, celebre per la foggia inquietante. Un'estremità monta un falcetto in grado di aprire profondi squarci, mentre l'altra si compone di una punta a spirale che penetra nelle carni.\n\nL'impiego di quest'arma richiede grande maestria a causa della sua natura asimmetrica.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "req": {
+      "str": 17,
+      "dex": 23
+    },
+    "type": "Lama gemella",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": " 23 ( - -)",
+    "wgt": 8.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Tornado di nera fiamma"
+  },
+  {
+    "id": "",
+    "name": "Lama gemella del gargoyle",
+    "desc": "Lama gemella di bronzo appartenuta agli audaci gargoyle.\n\nCome le creature che la brandivano, le parti mancanti sono state riparate con adipocera. Un mosaico di campioni.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "req": {
+      "str": 18,
+      "dex": 15
+    },
+    "type": "Lama gemella",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": " 5 ( - 9)",
+    "wgt": 8.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Lama gemella nera del gargoyle",
+    "desc": "Lama gemella di bronzo appartenuta agli audaci gargoyle, riparata con innesti di adipocera annerita.\nInfligge danni sacri.\n\nTale è il marchio di chi serve Maliketh la Lama nera.",
+    "scaling": {
+      "str": "C",
+      "dex": "E",
+      "fai": "D"
+    },
+    "req": {
+      "str": 18,
+      "dex": 15,
+      "fai": 22
+    },
+    "type": "Lama gemella",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": " 5 ( - 9)",
+    "wgt": 8.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Taglio rotante"
+  },
+  {
+    "id": "",
+    "name": "Lama gemella di Eleonora",
+    "desc": "Naginata gemella forgiata nella terra dei giunchi.\nArma prediletta di Eleonora, il Dito sanguinante viola.\n\nLa sua maestria con la spada era tale che i suoi attacchi venivano paragonati a turbini di vento, ma il suo retaggio è ormai lordato da sangue maledetto.",
+    "scaling": {
+      "str": "E",
+      "dex": "E",
+      "arc": "D"
+    },
+    "req": {
+      "str": 12,
+      "dex": 21,
+      "arc": 19
+    },
+    "type": "Lama gemella",
+    "dmg_type": [
+      "Standard",
+      "Perforazione"
+    ],
+    "fp_cost": " 9 ( - 5)",
+    "wgt": 6.0,
+    "passive": "Causa sanguinamento (33)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "Danza sanguinaria"
+  }
+]

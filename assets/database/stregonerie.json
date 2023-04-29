@@ -1,0 +1,971 @@
+[
+  {
+    "id": "",
+    "name": "Ciottolo di scintipietra",
+    "desc": "Stregoneria scintipietra da apprendista dell'Accademia di Raya Lucaria.\n\nLa scintipietra funge da collegamento per scagliare proiettili magici contro i nemici.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento.\n\nÈ generalmente il primo passo sul percorso che conduce alla vera conoscenza della stregoneria.",
+    "req": {
+      "int": 10,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia dardi magici di scintipietra.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "7 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Scheggia di scintipietra veloce",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nLa scintipietra funge da collegamento per scagliare rapidi proiettili magici contro i nemici.\nQuesta stregoneria può essere lanciata subito dopo aver eseguito un'altra azione.\n\nDi norma, chi è indegno della maschera di pietra conclude qui la sua breve carriera nella stregoneria.",
+    "req": {
+      "int": 12,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia velocemente dei dardi magici di scintipietra.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "5 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Scheggia di scintipietra maggiore",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nLa scintipietra funge da collegamento per scagliare rapidi proiettili magici contro i nemici.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento.\n\nDi norma, chi è indegno della maschera di pietra conclude qui la sua breve carriera nella stregoneria.",
+    "req": {
+      "int": 16,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia grossi dardi magici di scintipietra.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Scheggiacometa di scintipietra",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nLancia una cometa magica con una coda.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento. Aumenta di potenza se caricata.\n\nUna stregoneria dell'epitome di Karolos, una delle più venerate in tutta l'Accademia.",
+    "req": {
+      "int": 36,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una cometa magica che lascia una scia.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "17 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cometa",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nScaglia due proiettili che avanzano a spirale. Questa stregoneria può essere lanciata ripetutamente e in movimento. Aumenta di potenza se caricata.\n\nStregoneria dell'epitome di Karolos, tra le più illustri dell'Accademia. È il frutto di un tentativo fallito di creare una nuova cometa.",
+    "req": {
+      "int": 52,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una grande cometa magica.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "24 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Vortice di schegge",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nScaglia due proiettili che avanzano a spirale. Questa stregoneria può essere lanciata ripetutamente e in movimento. Aumenta di potenza se caricata.\n\nStregoneria dell'epitome di Karolos, tra le più illustri dell'Accademia. È il frutto di un tentativo fallito di creare una nuova cometa.",
+    "req": {
+      "int": 27,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia due dardi con moto a spirale.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "14 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Stelle di scintipietra",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nLancia tre stelle magiche che seguono il bersaglio.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento. Aumenta di potenza se caricata.\n\nUna stregoneria dell'epitome di Olivinus che attrae gli stregoni di Sellia, città della stregoneria.",
+    "req": {
+      "int": 12,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia tre stelle cadenti che seguono i nemici.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Pioggia di meteore",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nLancia tre stelle magiche che seguono il bersaglio.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento. Aumenta di potenza se caricata.\n\nUna stregoneria dell'epitome di Olivinus che attrae gli stregoni di Sellia, città della stregoneria.",
+    "req": {
+      "int": 24,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia sei stelle cadenti che seguono i nemici.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "23 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Arco di scinipietra",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nScaglia una saetta magica che si propaga in orizzontale.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento.\n\nTecnica conferita agli stregoni che abbandonano l'Accademia per viaggiare, affinché li protegga da eventuali gruppi di aggressori.\nGli stolti, del resto, si muovono spesso in branco.",
+    "req": {
+      "int": 13,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una saetta magica in orizzontale.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "9 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Bombardamento di cristallo",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\n.Scaglia una raffica di schegge cristalline di scintipietra. Aumenta di potenza se caricata.\n\nStregoneria della brigata del cristallo, composta da stregoni che bramavano il sapere della pietra, segreti racchiusi nelle flebili cogitazioni dei cristalliani",
+    "req": {
+      "int": 23,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una raffica di schegge cristalline di scintipietra.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "14 ( 2)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Esplosione di cristallo",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nScaglia una raffica di schegge cristalline di scintipietra.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento. Aumenta di potenza se caricata.\n\nStregoneria della brigata del cristallo, composta da stregoni che bramavano il sapere della pietra, segreti racchiusi nelle flebili cogitazioni dei cristalliani.",
+    "req": {
+      "int": 18,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una scarica di schegge cristalline di scintipietra.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "14 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cannone di Haima",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nLancia a parabola un proiettile magico esplosivo.\nAumenta di potenza se caricata.\n\nConcepita dall'epitome di Haima, giudice dell'Accademia, questa stregoneria sfrutta la forza come mezzo di risoluzione dei conflitti.",
+    "req": {
+      "int": 25,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Lancia a parabola un proiettile magico esplosivo.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "38 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Martello di Haima",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nGenera un martello magico che si abbatte dall'alto.\nPermette di eseguire un attacco supplementare.\n\nConcepita dall'epitome di Haima, giudice dell'Accademia, questa stregoneria sfrutta la forza come mezzo di risoluzione dei conflitti.",
+    "req": {
+      "int": 25,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Attacca con un martello pesante magico.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "22 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Sisma terrestre",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nInfonde magia nella ghiera del bastone dell'esecutore, che può conficcarlo a terra per generare un'ondata magica.\nPermette di eseguire un attacco supplementare.\n\nStregoneria scavapietra usata dai minatori della galleria di scintipietra. Presso l'Accademia, tuttavia, questa tecnica era avvolta da uno stigma associato agli studiosi falliti.",
+    "req": {
+      "int": 15,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Conficca un bastone a terra e genera un'onda d'urto.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "10 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Frantumatore",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nInfonde magia nella ghiera del bastone dell'esecutore, che può conficcarlo a terra per generare un'enorme ondata magica.\n\nTieni premuto per continuare a muoverti senza colpire il terreno, per poi conficcare nei nemici la punta del bastone.\n\nVersione potenziata della stregoneria scavapietra dei minatori.",
+    "req": {
+      "int": 21,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Conficca un bastone a terra e genera un'enorme onda d'urto.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "22 ( 5)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Armamento da erudito",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nConferisce l'affinità magia all'armamento nella mano destra.\nQuesta stregoneria può essere lanciata anche in movimento.\n\nFu insegnata ai cavalieri del Cuculo dall'Accademia, come compenso per i loro servigi.",
+    "req": {
+      "int": 12,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Conferisce danni magici all'armamento nella mano destra.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "25 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Scudo da erudito",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nConferisce allo scudo impugnato nella mano sinistra ulteriore resistenza ai danni.\nQuesta stregoneria può essere utilizzata in movimento.\n\nTramandata ai cavalieri del Cuculo dall'Accademia come ricompensa per il loro accordo.",
+    "req": {
+      "int": 12,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Potenzia la resistenza ai danni dello scudo nella mano sinistra.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "30 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Luce astrale",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nCrea una minuscola stella fluttuante che illumina l'ambiente circostante.\nQuesta stregoneria può essere lanciata in movimento.\n\nTecnica conferita agli stregoni che abbandonano l'Accademia per viaggiare. Le stelle sono sempre al fianco dello stregone, anche nelle notti più buie, nel sottosuolo o in una cella di galera.",
+    "req": {
+      "int": 15,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Illumina l'area circostante con la luce delle stella.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "9 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Terra Magica",
+    "desc": "Stregoneria scintipietra dell'Accademia di Raya Lucaria.\n\nTraccia un sigillo sul terreno, che incrementa il potere magico di chi si trova nelle vicinanze.\n\nUn tempo, il sigillo veniva invocato dal campanile più alto dell'Accademia, per coprire l'intera superficie della struttura.\nQuesta magia produce esperienze di trionfi magici talmente vivide da poter tramutare più di un novizio, in un lampo di consapevolezza, in uno stregone.",
+    "req": {
+      "int": 20,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Aumenta la potenza magica di coloro che si trovano all'interno del sigillo.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Barriera di Thops",
+    "desc": "La ricerca di una vita di Thops la pietra grezza.\n\nCrea un campo di forza magico che riflette le stregonerie e gli incantesimi.\nTieni premuto per creare barriere in successione.\n\nLe future generazioni apprenderanno. Conosceranno la stoltezza degli stregoni beffardi che ridicolizzarono questa teoria, non capendo che era in realtà una scoperta degna di un'epitome dell'Accademia.",
+    "req": {
+      "int": 18,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Genera un muro magico che respinge le magie.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "7 ( 7)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cometa di Azur",
+    "desc": "Leggendaria stregoneria di Azur, uno degli stregoni originari.\n\nScaglia una letale cometa all'interno di un torrente simile alle remote vastità astrali, da cui si ritiene provenga la scintipietra.\nTieni premuto per continuare a liberare il potere della stregoneria.\n\nQuando Azur fissò la corrente originaria, non vide altro che tenebre. L'abisso lo lasciò al contempo sedotto e intimorito.",
+    "req": {
+      "int": 60,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 3,
+    "effect": "Lancia una letale cometa all'interno di un torrente di stelle.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "40 ( 10)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Stella della rovina",
+    "desc": "Leggendaria stregoneria di Lusat, uno degli stregoni originari.\n\nScaglia dodici stelle cadenti oscure che inseguono il bersaglio.\nQuesta stregoneria può essere lanciata in movimento. Aumenta di potenza se caricata.\n\nQuando Lusat scrutò la corrente originaria, fu testimone degli ultimi istanti di un colossale ammasso stellare, e quella visione straziò anche lui.",
+    "req": {
+      "int": 43,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia dodici stelle cadenti oscure che seguono i nemici.",
+    "type": "Stregoneria scintipietra",
+    "fp_cost": "32 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Scintilama magica",
+    "desc": "Antica stregoneria della famiglia reale di Caria\n\nGenera sopra la testa un sigillo da cui, dopo un breve periodo, emerge una scintilama che segue i nemici.\nQuesta stregoneria può essere lanciata anche in movimento. La carica aumenta il ritardo della comparsa della scintilama.\n\nSi ritiene che sia il prototipo delle stregonerie impiegate dai cavalieri incantati per evocare falangi di lame.",
+    "req": {
+      "int": 14,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea un sigillo che scaglia una scintilama dopo qualche istante.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Falange di scintilama",
+    "desc": "Antica stregoneria della famiglia reale di Caria\n\nGenera sopra la testa un sigillo da cui, dopo un breve periodo, emerge una scintilama che segue i nemici.\nQuesta stregoneria può essere lanciata anche in movimento. La carica aumenta il ritardo della comparsa della scintilama.\n\nSi ritiene che sia il prototipo delle stregonerie impiegate dai cavalieri incantati per evocare falangi di lame.",
+    "req": {
+      "int": 22,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Plasma un ventaglio protettivo di imponenti scintilame magiche.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Falange dello spadone",
+    "desc": "Stregoneria della famiglia reale di Caria.\n\nGenera nel cielo un arco difensivo di grosse scintilame magiche che attaccano automaticamente i nemici vicini.\n\nTecnica dei cavalieri troll incantati.\nErano i compagni della giovane Rennala, a cui avevano giurato fedeltà.",
+    "req": {
+      "int": 29,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Plasma un ventaglio protettivo di imponenti scintilame magiche.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "30 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Diluvio magico",
+    "desc": "Stregoneria della famiglia reale di Caria.\n\nEvoca una massa magica che scaglia proiettili ad ampio raggio.\nQuesta stregoneria può essere lanciata in movimento. Aumenta di potenza se caricata.\n\nSembra sia stata insegnata loro dai cristalliani, in occasione della stipulazione dell'antica alleanza.",
+    "req": {
+      "int": 15,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Evoca una massa magica che scaglia proiettili nell'area.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Arco pesante di Loretta",
+    "desc": "Stregoneria usata dalla guardia reale Loretta.\n\nGenera un arco pesante magico e scocca una grossa freccia.\nAumenta di potenza se caricata. Tieni premuto per tenere incoccata la freccia.\n\nSembra che l'arco fosse l'arma preferita di Loretta.",
+    "req": {
+      "int": 26,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scocca una freccia da un arco pesante magico.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "24 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Incisore cariano",
+    "desc": "Stregoneria della famiglia reale di Caria.\n\nEvoca una spada magica e sferra un fendente veloce. Può essere lanciata subito dopo aver eseguito un'altra azione.\n\nUna tecnica particolarmente efficace, anche tra le stregonerie della spada cariana.",
+    "req": {
+      "int": 14,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Sferra veloci fendenti con una spada magica.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "4 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Pungolo cariano",
+    "desc": "Stregoneria della famiglia reale di Caria.\n\nEvoca uno spadone magico per impalare il nemico.\nLa carica accresce il raggio d'azione.\n\nControparte dello Spadone cariano, la sua letalità aumenta quando il nemico è da solo.",
+    "req": {
+      "int": 27,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Trafigge i nemici con uno spadone magico.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "17 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lama lunare di Adula",
+    "desc": "Stregoneria di Adula, il drago scintipietra.\n\nEvoca un gelido spadone magico e sferra un ampio fendente che rilascia un affilato proiettile di ghiaccio.\nQuesta stregoneria può essere lanciata ripetutamente.\n\nAdula, divoratore di stregoni, fu sconfitto da Ranni e in seguito giurò fedeltà alla sua luna oscura.",
+    "req": {
+      "int": 32,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Sferra un ampio fendente e scaglia una gelida lama.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "22 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lucidità",
+    "desc": "Stregoneria della famiglia reale di Caria.\n\nRiduce l'accumulo di sonno e follia. Questa stregoneria può essere lanciata anche in movimento.\n\nI cavalieri cariani non vacillano mai.",
+    "req": {
+      "int": 17,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Riduce l'accumulo di sonno e follia.",
+    "type": "Stregoneria cariana",
+    "fp_cost": "10 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Scheggia da imboscata",
+    "desc": "Stregoneria notturna di Sellia, città della stregoneria.\n\nScaglia un proiettile da un punto lontano colpendo il nemico alle spalle. Questa stregoneria può essere lanciata ripetutamente.\n\nGli stregoni di Sellia erano degli assassini, e spesso davano la caccia ai loro stessi compagni.",
+    "req": {
+      "int": 23,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Colpisce alla schiena con proiettili scagliati dalla distanza.",
+    "type": "Stregoneria notturna di Sellia",
+    "fp_cost": "13 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Scheggia notturna",
+    "desc": "Stregoneria notturna di Sellia, città della stregoneria.\n\nScaglia velocemente un proiettile traslucido. Può essere lanciata subito dopo aver eseguito un'altra azione.\n\nGli stregoni di Sellia erano degli assassini, e spesso davano la caccia ai loro stessi compagni.",
+    "req": {
+      "int": 18,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia velocemente una salva di proiettili magici traslucidi.",
+    "type": "Stregoneria notturna di Sellia",
+    "fp_cost": "7 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cometa notturna",
+    "desc": "Stregoneria notturna di Sellia, città della stregoneria.\n\nScaglia una cometa magica traslucida. Questa stregoneria può essere lanciata ripetutamente e in movimento. Aumenta di potenza se caricata.\n\nGli stregoni di Sellia erano degli assassini, e spesso davano la caccia ai loro stessi compagni.",
+    "req": {
+      "int": 38,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia una cometa magica traslucida.",
+    "type": "Stregoneria notturna di Sellia",
+    "fp_cost": "21 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Foschia della vergine dell'oscurità",
+    "desc": "Stregoneria notturna di Sellia, città della stregoneria.\n\nProietta in avanti una letale nebbia argentea e infligge danni a chiunque finisca preda dei vapori, incluso l'esecutore stesso.\nQuesta stregoneria può essere lanciata in movimento.\n\nSotto Sellia giace la Città Eterna di Nokron, dalle cui vergini si origina questa stregoneria.",
+    "req": {
+      "int": 14,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Proietta in avanti una nebbia argentea che infligge danni.",
+    "type": "Stregoneria notturna di Sellia",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Lama invisibile",
+    "desc": "Stregoneria notturna di Sellia, città della stregoneria.\n\nConferisce invisibilità all'armamento nella mano destra. Questa stregoneria può essere lanciata anche in movimento.\n\nUsata dagli assassini di Sellia, per sembrare dei comuni stregoni disarmati.",
+    "req": {
+      "int": 12,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Rende invisibile l'armamento nella mano destra.",
+    "type": "Stregoneria notturna di Sellia",
+    "fp_cost": "13 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Forma invisibile",
+    "desc": "Stregoneria notturna di Sellia, città della stregoneria.\n\nRende quasi invisibile l'esecutore. L'effetto si estende anche al cavallo quando sei in sella. Questa stregoneria può essere lanciata anche in movimento.\n\nGli assassini di Sellia ricorrevano a ogni mezzo per compiere il loro sporco lavoro.",
+    "req": {
+      "int": 16,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Rende quasi invisibile l'esecutore.",
+    "type": "Stregoneria notturna di Sellia",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Tenebre eterne",
+    "desc": "Stregoneria notturna di Sellia, città della stregoneria.\n\nCrea un'area di oscurità che attira strergonerie e incantesimi.\nQuesta stregoneria può essere lanciata in movimento.\n\nStregoneria perduta della Città Eterna, incarna la disperazione che l'ha condotta alla rovina.",
+    "req": {
+      "int": 35,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea un'area di oscurità che attira le magie.",
+    "type": "Stregoneria notturna di Sellia",
+    "fp_cost": "25 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Proiettile magmatico",
+    "desc": "Stregoneria che sfrutta il magma del monte Gelmir.\n\nScaglia un blocco di lava che esplode al contatto. Aumenta di potenza se caricata.\n\nGli antichi incantesimi di Gelmir furono scoperti e riportati in uso da Rykard, il figlio della regina Rennala.",
+    "req": {
+      "int": 19,
+      "fai": 10,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scagli blocchi di lava che esplodono al contatto.",
+    "type": "Stregoneria di Gelmir",
+    "fp_cost": "16 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Magma torbido",
+    "desc": "Stregoneria che sfrutta il magma del monte Gelmir.\n\nScaglia un blocco di lava condensata che esplode qualche istante dopo aver colpito il bersaglio. La carica ne accresce la potenza e ne ritarda l'esplosione.\n\nGli antichi incantesimi furono scoperti e riportati in uso da Rykard, il figlio della regina Rennala.",
+    "req": {
+      "int": 21,
+      "fai": 12,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Scaglia blocchi di lava che esplodono dopo qualche istante.",
+    "type": "Stregoneria di Gelmir",
+    "fp_cost": "28 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Gelo di scintipietra",
+    "desc": "Stregoneria attribuita alla vecchia strega delle nevi.\n\nLa scintipietra funge da collegamento, scagliando un ammasso di gelida magia.\nQuesta stregoneria può essere lanciata ripetutamente e in movimento.\n\nLa gelida vecchia insegnò alla giovane Ranni la stregoneria del freddo e la devozione per la luna nera.",
+    "req": {
+      "int": 15,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Proietta un ammasso di gelida magia dalla scintipietra.",
+    "type": "Stregoneria delle nevi",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Foschia congelante",
+    "desc": "Stregoneria attribuita alla vecchia strega delle nevi.\n\nDiffonde una gelida nebbia davanti all'esecutore.\nQuesta stregoneria può essere lanciata in movimento. La carica amplia l'area coperta dalla nebbia.\n\nLa gelida vecchia insegnò alla giovane Ranni la stregoneria del freddo e la devozione per la luna nera.",
+    "req": {
+      "int": 21,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Diffonde una gelida nebbia davanti all'esecutore.",
+    "type": "Stregoneria delle nevi",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Congela armamento",
+    "desc": "Stregoneria attribuita alla vecchia strega delle nevi.\n\nConferisce assideramento all'armamento nella mano destra.\nQuesta stregoneria può essere lanciata in movimento.\n\nLa gelida vecchia insegnò alla giovane Ranni la stregoneria del freddo e la devozione per la luna nera.",
+    "req": {
+      "int": 15,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Infonde di ghiaccio l'armamento nella mano destra.",
+    "type": "Stregoneria delle nevi",
+    "fp_cost": "20 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Tormenta di Zamor",
+    "desc": "Stregoneria del gelo della città di Zamor.\n\nColpisci il terreno con il bastone per scatenare un tornado di ghiaccio. Aumenta di potenza se caricata.\n\nProtetti da gelide tempeste, i cavalieri di Zamor hanno sfidato i giganti di fuoco fin dall'antichità.",
+    "req": {
+      "int": 36,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Conficca un bastone a terra e genera un tornado gelido.",
+    "type": "Stregoneria delle nevi",
+    "fp_cost": "17 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Cristallo polverizzato",
+    "desc": "Stregoneria dei misteriosi cristalliani.\n\nCrea una massa cristallina e la frantuma scatenando un'esplosione. Aumenta di potenza se caricata.\n\nI cristalliani sono creature inorganiche, eppure dotate di vita.\nSono fedeli agli ideali della corrente originaria, di conseguenza ospiti riveriti degli stregoni.",
+    "req": {
+      "int": 38,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea una massa cristallina che esplode in un getto di schegge.",
+    "type": "Stregoneria cristalliana",
+    "fp_cost": "21 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Torrente cristallino",
+    "desc": "Stregoneria dei misteriosi cristalliani.\n\nGenera una massa cristallina per poi scagliare schegge in rapida successione. Tieni premuto per continuare a scagliare schegge.\n\nQuesta stregoneria racchiude tutta la collera dei cristalliani.\nConsiderate le dimensioni, una sola scheggia vagante è in grado di infliggere ferite gravi.",
+    "req": {
+      "int": 47,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Crea una massa cristallina che proietta un flusso di schegge.",
+    "type": "Stregoneria cristalliana",
+    "fp_cost": "20 ( 5)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Emissione cristallina",
+    "desc": "Stregoneria dei misteriosi cristalliani.\n\nCrea una massa cristallina e la frantuma per sferzare un'ampia area con una gragnuola di schegge.\n\nQuesta stregoneria è impiegata dagli adepti di rango più alto tra i cristalliani. C'è chi la definisce \"il sole di cristallo\".",
+    "req": {
+      "int": 41,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Sferza l'area con una pioggia di schegge.",
+    "type": "Stregoneria cristalliana",
+    "fp_cost": "34 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Pozzo gravitazionale",
+    "desc": "Stregoneria scintipietra che manipola le forze gravitazionali.\n\nScaglia un proiettile di forza gravitazionale condensata che trascina verso l'esecutore il bersaglio colpito. Aumenta di potenza se caricata.\n\nTecnica gravitazionale studiata dal giovane Radahn. Il suo maestro era un campione di alabastro dalla pelle di pietra.",
+    "req": {
+      "int": 17,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Attira i nemici verso l'esecutore con il potere della gravità.",
+    "type": "Stregoneria gravitazionale",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Proiezione rocciosa",
+    "desc": "Stregoneria scintipietra che manipola le forze gravitazionali.\n\nEstrae un ammasso di rocce dal terreno per poi scagliarlo.\nQuesta stregoneria può essere lanciata in movimento.\n\nTecnica gravitazionale studiata dal giovane Radahn. Il suo maestro era un campione di alabastro dalla pelle di pietra.",
+    "req": {
+      "int": 18,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Evoca macigni dalla terra e li scaglia.",
+    "type": "Stregoneria gravitazionale",
+    "fp_cost": "18 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Pozzo gravitazionale",
+    "desc": "Stregoneria scintipietra che manipola le forze gravitazionali.\n\nEvoca un vuoto che genera una pioggia di piccoli meteoriti.\nTieni premuto per prolungare l'effetto.\n\nQuesta stregoneria proviene dai lord di onice dalla pelle di pietra, riveriti come lord per timore della loro potenza distruttiva.",
+    "req": {
+      "int": 30,
+      "fai": 0,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Genera una pioggia di piccoli meteoriti.",
+    "type": "Stregoneria gravitazionale",
+    "fp_cost": "30 ( 10)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Bolle dell'oracolo",
+    "desc": "Stregoneria degli uomini d'argilla, i sacerdoti che servivano l'antica dinastia.\n\nGenera numerose piccole bolle magiche che volano verso i nemici prima di scoppiare. La carica prolunga il ritardo dello scoppio.\n\nGli uomini d'argilla usano le bolle per cercare gli oracoli perduti.",
+    "req": {
+      "int": 19,
+      "fai": 0,
+      "arc": 15
+    },
+    "slot": 1,
+    "effect": "Lancia una serie di piccole bolle magiche.",
+    "type": "Stregoneria gravitazionale.",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Bolla dell'oracolo maggiore",
+    "desc": "Stregoneria degli uomini d'argilla, i sacerdoti che servivano l'antica dinastia.\n\nGenera una bolla magica che vola verso i nemici prima di scoppiare. La carica prolunga il ritardo dello scoppio.\n\nGli uomini d'argilla usano le bolle per cercare gli oracoli perduti.",
+    "req": {
+      "int": 25,
+      "fai": 0,
+      "arc": 18
+    },
+    "slot": 1,
+    "effect": "Lancia una grossa bolla magica.",
+    "type": "Stregoneria gravitazionale.",
+    "fp_cost": "16 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Rovo del castigo",
+    "desc": "Stregoneria aberrante, scoperta da criminali in esilio.\nLe loro stregonerie sono tra le più invise all'Accademia.\n\nFerisce l'esecutore con le spine del peccato, proiettando sul terreno una striscia di rovi sanguinari che raggiunge i nemici impalandoli.\nQuesta stregoneria può essere lanciata ripetutamente.\n\nI colpevoli, a cui le spine avevano strappato gli occhi, vivevano nelle tenebre eterne, dove scoprirono la stella di sangue.",
+    "req": {
+      "int": 0,
+      "fai": 21,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Ferisce l'esecutore per proiettare un getto di rovi sanguinari.",
+    "type": "Stregoneria del sangue",
+    "fp_cost": "9 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Richiamo del rancore",
+    "desc": "Stregoneria dei servitori della morte.\n\nEvoca spiriti vendicativi che danno la caccia ai nemici.\nAumenta di potenza se caricata.\n\nUn tempo considerata perduta, questa antica maledizione della morte fu riscoperta dal necromante Garris.",
+    "req": {
+      "int": 16,
+      "fai": 14,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Evoca spiriti vendicativi che braccano i nemici.",
+    "type": "Stregoneria della morte",
+    "fp_cost": "12 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Rancore dell'antica morte",
+    "desc": "Stregoneria dei servitori della morte.\n\nEvoca un'orda di spiriti vendicativi che braccano i nemici.\nAumenta di potenza se caricata.\n\nSono le ceneri dell'antica maledizione di morte, prelevate dalla fiamma spettrale dei necrorapaci.",
+    "req": {
+      "int": 34,
+      "fai": 24,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Evoca una moltitudine di spiriti vendicativi che braccano i nemici.",
+    "type": "Stregoneria della morte",
+    "fp_cost": "21 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Foschia di Fia",
+    "desc": "Stregoneria di Fia la Compagna di morte.\n\nCrea una nebbia mortale di fronte all'esecutore, che infligge il morbo mortale a coloro che vi entrano.\nQuesta stregoneria può essere lanciata in movimento. Il raggio della nebbia aumenta se caricata.\n\nQuesta stregoneria fu creata per opportsi alla Tavola rotonda e ha effetto solamente contro i Senzaluce.",
+    "req": {
+      "int": 23,
+      "fai": 18,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Diffonde una letale foschia davanti all'esecutore.",
+    "type": "Stregoneria della morte",
+    "fp_cost": "25 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  },
+  {
+    "id": "",
+    "name": "Evocazione di Tibia",
+    "desc": "Stregoneria dei servitori della morte.\n\nEvoca coloro che si sono smarriti nella morte.\nTre scheletri appaiono a breve distanza dall'esecutore e attaccano i nemici prima di scomparire.\n\nDa lungi i defunti vanno errando, manchevoli di una guida.",
+    "req": {
+      "int": 28,
+      "fai": 20,
+      "arc": 0
+    },
+    "slot": 1,
+    "effect": "Evoca coloro che vivono nella morte.",
+    "type": "Stregoneria della morte",
+    "fp_cost": "17 ( -)",
+    "sell_value": 100,
+    "cost": null,
+    "position": ""
+  }
+]

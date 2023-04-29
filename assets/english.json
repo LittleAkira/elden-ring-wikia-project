@@ -1,0 +1,14 @@
+[
+  {
+    "value": "item",
+    "name": "Items"
+  },
+  {
+    "value": "equip",
+    "name": "Equipments"
+  },
+  {
+    "value": "general",
+    "name": "General Informations"
+  }
+]

@@ -1,0 +1,1062 @@
+[
+    {
+        "id": "",
+        "name": "Ampolla di lacrime cremisi",
+        "desc": "Ampolla ispirata a un sacro calice d'oro che un tempo custodiva una lacrima di benedizione.\nContiene lacrime cremisi in grado di ripristinare i PV. Può essere riempita riposando presso un luogo di grazia.\nLo spirito portato dalla corrente al sepolcro era certo della morte, finché quest'ampolla non offrì il suo dono di rinvigorimento. Per cercare l'Anello ancestrale.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Ampolla di lacrime cerulee",
+        "desc": "Ampolla ispirata a un sacro calice d'oro che un tempo custodiva una lacrima di benedizione.\nContiene lacrime cerulee in grado di ripristinare i PA. Può essere riempita riposando presso un luogo di grazia.\nLo spirito portato al sepolcro era certo della morte, finché quest'ampolla non offrì il suo dono di rinvigorimento. Per cercare l'Anello ancestrale",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Ampolla di balsamo portentoso",
+        "desc": "Reliquia appartenuta a chimici apotecari, sacerdoti dell'Albero Madre. Attinge all'energia delle lacrime di cristallo, la cui formazione richiede il passaggio di molte lune.\nIl suo consumo garantisce effetti speciali che variano in base alla miscela di lacrime di cristallo. Riposa presso un luogo di grazia per riempirla.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Ricordo di grazia",
+        "desc": "Ricordo della prima grazia, che un tempo guidava gli antichi Senzaluce verso l'Interregno.\nPerdi tutte le rune e fai ritorno all'ultimo luogo di grazia visitato.\nTutto si ripete. Appari innanzi all'Anello ancestrale. Diventa Lord ancestrale.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Fischietto del destriero fantasma",
+        "desc": "Anello decorato con fini elementi d'oro. Utilizzabile come fischietto.\nSuonalo per evocare Torrente, il destriero fantasma. Usalo quando sei in sella per smontare dalla cavalcatura.\nIl destriero può essere evocato di nuovo dopo la morte usando l'ampolla di lacrime cremisi.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Saetta runica",
+        "desc": "Frammento dell'Anello ancestrale. Se usato, conferisce i benefici di una runa maggiore equipaggiata.\nSe nessuna runa maggiore è stata equipaggiata, incrementa leggermente i PV massimi.\nL'arco inferiore dell'Anello ancestrale viene considerato il bacino in cui si raccolgono le benedizioni. Forse questo è un frammento di quest'arco.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Schegge di luce stellare",
+        "desc": "Effimero frammento che emana un pallido bagliore blu. È tutto ciò che resta di un fugace lampo di luce stellare.\nRipristina gradualmente i PA.\nIngrediente pregiato che veniva usato nella Città Eterna per infusi tossici.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Boli conservanti",
+        "desc": "Boli scarlatti realizzati con muschio di caverna.\nRiducono l'accumulo di marcescenza scarlatta e curano la marcescenza.\nLa marcescenza scarlatta si accumula lentamente, manifestando i suoi effetti quando raggiunge una determinata soglia. A quel punto, sottrae quantità sempre maggiori di PV per un periodo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Boli tampone",
+        "desc": "Boli rossi di muschio di caverna.\nRiducono il sanguinamento.\nIl sanguinamento si aggrava progressivamente, causando danni quando raggiunge una determinata soglia. il consumo di questo rimedio previene conseguenze spiacevoli.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Boli scongelanti",
+        "desc": "Boli ghiacciati realizzati con muschio di caverna.\nRiducono l'accumulo di assideramento e curano l'assideramento.\nL'assideramento si accumula lentamente, causando danni quando raggiunge una determinata soglia. Incrementa la vulnerabilità ai danni per un periodo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Boli stimolanti",
+        "desc": "Boli purpurei realizzati con muschio di caverna.\nRiducono l'accumulo di sonno.\nIl sonno si aggrava progressivamente, causando annebbiamento e perdita di PA quando raggiunge una determinata soglia, sebbene non causi effettivamente una perdita di sensi. Il consumo di questo rimedio previene conseguenze spiacevoli.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Boli della chiarezza",
+        "desc": "Boli gialli realizzati con muschio di caverna.\nRiducono gli effetti della follia.\nLa follia si aggrava progressivamente, infliggendo ingenti danni e causando la perdita di PA quando raggiunge una determina soglia. Il consumo di questo rimedio previene conseguenze spiacevoli.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Boli rinvigorenti",
+        "desc": "Boli neri realizzati con muschio di caverna.\nRiducono l'accumulo del morbo mortale.\nIl morbo si aggrava progressivamente, causando morte istantanea quando raggiunge una determinata soglia. Il consumo di questo rimedio previene conseguenze spiacevoli.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Fegato essiccato antimagia",
+        "desc": "Fegato trattato con una soluzione medicinale blu, poi lasciato essicare.\nIncrementa brevemente la resistenza ai danni magici, migliorando la capacità di attutire gli attacchi intrisi di magia.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Fegato essicato ignifugo",
+        "desc": "Fegato trattato con una soluzione medicinale di colore rosso fuoco, poi lasciata a essicare.\nIncrementa brevemente la resistenza ai danni da fuoco, migliorando la capacità di attutire gli attacchi intrisi di fuoco.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Fegato essicato isolante",
+        "desc": "Fegato trattato con una soluzione medicinale giallastra, poi lasciato essicare.\nIncrementa brevemente la resistenza ai danni da fulmine, migliorando la capacità di attutire gli attacchi intrisi di fulmine.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Fegato essicato sconsacrato",
+        "desc": "Fegato trattato con una soluzione medicinale color oro, quindi lasciato a essiccare.\nIncrementa brevemente la resistenza ai danni sacri, migliorando la capacità di attutire gli attacchi intrisi di sacro.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Carne essiccata rinfrancante",
+        "desc": "Striscia di carne stagionata, essiccata dopo il trattamente in una soluzione medicinale vermiglia.\nIncrementa la robustezza per un periodo.\nLa robustezza riduce in modo proporzionale l'accumulo di assideramento e sanguinamento.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Carne essiccata a chiazze",
+        "desc": "Carne stagionata, trattata con una soluzione medicinale a chiazze.\nIncrementa brevemente immunità, robustezza e concentrazione.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Carne bianca essiccata immunizzante",
+        "desc": "Fetta di carne bianca, trattata con una soluzione medicinale verdastra e lasciata a essiccare.\nIncrementa per un periodo l'immunità.\nHa effetti più duraturi rispetto alla tradizionale carne essiccata, ma rivela una minore efficacia.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Carne bianca essicata rinfrancante",
+        "desc": "Fetta di carne bianca, trattata con una soluzione medicinale rossa e lasciata a essiccare.\nIncrementa per un periodo la robustezza.\nHa effetti più duraturi rispetto alla tradizionale carne essiccata, ma rivela una minore efficacia.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Carne bianca essiccata della chiarezza",
+        "desc": "Fetta di carne bianca, trattata con una soluzione medicinale viola e lasciata a essiccare.\nIncrementa per un periodo la concentrazione.\nHa effetti più duraturi rispetto alla tradizionale carne essiccata, ma rivela una minore efficacia.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Carne bianca essiccata a chiazze",
+        "desc": "Fetta di carne bianca, trattata con una soluzione medicinale a chiazze e lasciata a essiccare.\nIncrementa per un periodo immunità, robustezza e concentrazione.\nHa effetti più duraturi rispetto alla tradizionale carne essicata, ma rivela una minore efficacia.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Coppa di tartaruga in salamoia",
+        "desc": "Carne di collo di tartaruga conservata in una soluzione medicinale acre.\nIncrementa per un periodo il recupero di vigore.\nLe sostanze nutritive infiammano l'organismo, emanando un calore ardente dall'interno.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Carne pregiata",
+        "desc": "Trancio di carne animale conservato in una soluzione medicinale a base di spezie piccanti.\nIncrementa brevemente l'attacco.\nRitenuto una prelibatezza dell'Aspraterra, questo pasto rinvigorenet era appannaggio degli individui degni di essere considerati eroi.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Zampa di gallina in salamoia argentata",
+        "desc": "Zampa di uccello a quattro dita, trattata in una soluzione medicinale argentea.\nIncrementa brevemente la scoprta di oggetti.\nNei tempi antichi, gli indigenti si spingevano persino a raschiare le carni delle zampe di gallina.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Zampa di gallina in salamoia dorata",
+        "desc": "Zampa di uccello a quattro dita, trattata in una soluzione medicinale dorata.\nIncrementa brevemente le rune ottenute dai nemici sconfitti.\nNei tempi antichi, gli indigenti si spingevano persino a raschiare le carni delle zampe di gallina.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Gamberetto bollito",
+        "desc": "Polpa di gamberetto bollita. Carna di prima scelta, grassa e succulenta. I veri intenditori sanno cucinarla senza eccedere con il sale.\nIncrmeneta la resistenza ai danni fisici per un periodo.\nIn realtà, sembra provenire da un granchio. Non che importi, considerato che entrambi sono squisiti.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Raviolo di carne cruda",
+        "desc": "Acre ammasso di carne cruda, resa prelibata dal gusto dell'imminente irrancidimento.\nRipristina PV, ma causa avvelenamento.\nSconsigliata a quanti preferiscono conoscere l'origine delle carni ingerite.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Vaso velenoso",
+        "desc": "Oggetto creabile con un vaso incrinato, al cui interno vengono mescolati e sigillati veleni.\nScaglialo contro i nemici per infliggere progressivamente veleno.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Dardo d'osso avvelenato",
+        "desc": "Coltello da lancio ottenuto affilando un osso di animale e impregnando la punta di veleno.\nLancialo contro il nemico per infliggere danni e causare avvelenamento",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Dardo di cristallo",
+        "desc": "Coltello da lancio ricavato da un cristallo impuro.\nConsuma PA. Lancialo contro il nemico per infliggere danni magici.\nSecondo la leggenda, un antico creatore di golem possedeva uno strumento simile a quest'arma.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Kukri",
+        "desc": "Grosso coltello da lancio. La sua lama ricurva, estremamente affilata, è in grado di squarciare le carni senza difficoltà.\n Arma da lancio che infligge danni e causa sanguinamento.\nQuesta pesante arma da lancio non è indicata per gli attacchi rapidi, ma può infliggere ingenti danni.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Pugnali a ventaglio",
+        "desc": "Cinque coltelli da lancio fissati insieme. Arma nascosta, particolarmente apprezzata dagli assassini più feroci.\nUna volta lanciati, i pugnali sottili si aprono a ventaglio per infliggere danni alla vittima\nI singoli pugnali hanno scarsa potenza, ma l'ampia portata li rende perfetti per ostacolare i nemici.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Frammento di rovine",
+        "desc": "Frammento di pietra reperibile nelle zona in cui le rovine piovono dal cielo. Oggeto da creazione o, più banalmente, da lancio",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Pietra avvelenata",
+        "desc": "Piccola pietra con un nucleo velenoso.\nArma da lancio che infligge veleno.\nI minatori le impiegano a scopo di disinfestazione, ma il procedimento per crearle è andato perduto da tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Agglomerato di pietra avvelenata",
+        "desc": "Agglomerato di ciottoli con nuclei velenosi.\nArma da lancio che infligge veleno.\nI minatori le impiegano a scopo di disinfestazione, ma il procedimento per crearle è andato perduto da tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Pietra esplosiva",
+        "desc": "Piccola pietra con un nucleo ardente.\nQuando viene lanciata contro i nemici, esplode e infligge danni da fuoco.\nI minatori impiegano questi minerali come strumento per frantumare le rocce, ma il procedimento per crearle è andato perduto da tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Agglomerato di pietre esplosive",
+        "desc": "Ammasso di piccole pietre con nuclei ardenti.\nSe lanciate insieme contro i nemici, esplodono e infliggono danni da fuoco.\nI minatori impiegano questi minerali come strumento per frantumare le rocce, ma il procedimento per crearle è andato perduto da tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Frammento di scintipietra",
+        "desc": "Frammento di scintipietra intriso di potere magico instabile. Proviene dalle gallerie cristalline.\nSe distrutto consuma PA, generando un dardo magico.\nFragile e di pessima qualità. Uno stregone non lo degnerebbe neanche di uno sguardo.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grande frammento di scintipietra",
+        "desc": "Grande frammento di scintipietra intriso di potere magico instabile. Proviene dalle gallerie cristalline.\nSe distrutto consuma PA, generando un dardo magico.\nFragile e di pessima qualità. Uno stregone non lo degnerebbe neanche di uno sguardo.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Scintipietra del Cuculo",
+        "desc": "Pezzo di scintipietra intriso di potere magico. Una delle \"stregonerie\" usate dai cavalieri del Cuculo.\nScagliato in avanti consumando PA, genera un dardo magico all'impatto.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Ventaglio di pietra gravitazionale",
+        "desc": "Scheggia di roccia di origine meteoritica. Racchiude una magia estremamente gravosa.\nConsuma PA per creare un'onda gravitazionale.\nI disperati che vanno a caccia di queste schegge si fanno chiamare\"cantastelle\"",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Blocco di pietra gravitazionale",
+        "desc": "Scheggia di roccia di origine meteoritica. Racchiude una magia estremamente gravosa.\nLanciala contro un nemico consumando PA per creare un'esplosione gravitazionale.\nI disperati che vanno a caccia di queste schegge si fanno chiamare \"cantastelle\"",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Pietra riscaldante",
+        "desc": "Frammneto di rovine benedette dalle Due Dita con un incantesimo.\nConsuma PA per generare calore, curando nel tempo gli alleati vicini.\nSi dice che anticamente l'Albero Madre emanasse un calore simile ai raggi del sole, in grado di curare chiunque ne fosse baciato.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Infante del presagio",
+        "desc": "Bambola di un infante afflitto da una maledizione.\nConsuma PA per evocare spettri che braccano i nemici.\nAgli infanti dei presagi venivano asportate le corna, causandone spesso la morte. Feticci simili venivano realizzati per ricordarli.\n\"Ti prego, non odiarmi. Non maledire il mio nome.\"",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Velo mimetico",
+        "desc": "Velo dorato impreziosito da elaborate decorazioni.\nConsuma PA per trasfigurare l'esecutore in un oggetto nelle vicinanze.\nQuando fuggì da Leyndell, la capitale reale, Godrick portò con sé una moltitudine di tesori simili. Noto anche come \"Latebra di Marika\".",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Benedizione del baldacchino",
+        "desc": "Grazia concessa da una compagna di morte. Protezione di un tempio nascosto, d'aspetto simile a un talamo.\nConsuma PA per incrementare brevemente la stabilità.\nLa grazia distrae brevemente dai dolori della carne. Solo la morte è pace assoluta, libera dalle sensazioni.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Benedizione del baldacchino lucente",
+        "desc": "Protezione di un santuario nascosto, d'aspetto simile a un talamo. Una benedizione estremamente rara.\nConsuma PA per incrementare brevemente la stabilità. Ha effetti più duraturi di una semplice grazia.\nSi dice che una compagna di morte impartisca una simile benedizione solo una volta nella vita, e che sia l'unica che pronuncia di sua volontà.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Sigillo di Mohg",
+        "desc": "Feticcio intriso di magia aurea. Le catene erano usate per legare le creature dannate note come presagi. Queste, nello specifico, furono create per imprigionare un esemplare specifico.\nPer quanto debole, permane in esse una traccia dell'antico potere, sufficiente a bloccare a terra per qualche istante l'ex prigioniero Mohg.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso incendiario",
+        "desc": "Grasso solido ottenuto da una miscela di materiali infiammabili.\nSi applica all'armamento e infligge danni da fuoco. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso magico",
+        "desc": "Grasso solido ottenuto da una miscela di materiali incantati.\nSi applica all'armamento e infligge danni magici. L'effetto ha una durata limitata nel tempo",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso folgorante",
+        "desc": "Grasso solido ottenuto da una miscela di materiali folgoranti.\nSi applica all'armamento e infligge danni da fulmine. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso sacro",
+        "desc": "Grasso solido ottenuto da una miscela di materiali sacri incantati.\nSi applica all'armamento e infligge danni sacri. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso velenoso",
+        "desc": "Grasso solido ottenuto da una miscela di materiali verdastri.\nSi applica all'armamento e causa avvelenamento. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso marcescente",
+        "desc": "Grasso solido ottenuto da una miscela di materiali marcescenti.\nSi applica all'armamento e causa mascercenza scarlatta. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso sanguinante",
+        "desc": "Grasso solido ottenuto da una miscela di materiali rosso sangue.\nSi applica all'armamento e causa sanguinamento. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso congelante",
+        "desc": "Grasso solido ottenuto da una miscela di materiali congelati.\nSi applica all'armamento e causa assideramento. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso soporifero",
+        "desc": "Grasso solido ottenuto da una miscela di materiali violacei.\nSi applica all'armamento e impone il sonno. L'effetto ha una durata limitata nel tempo.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso dracolacerante",
+        "desc": "Grasso solido ottenuto da una miscela di brecce.\nSi applica all'armamento e conferisce effetti anti-drago. L'effetto ha una durata limitata nel tempo.\nQuando i draghi sostituirono l'antica stirpe, persero le loro scaglie di pietra e conobbero per la prima volta ferite mortali.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso per scudi",
+        "desc": "Grasso solido ottenuto da una miscela di materiali incantati.\nSi applica all'armamento nella mano sinistra, incrementando la difesa e ogni genere di resistenza ai danni. L'effetto dura solo per un breve periodo.\nUsato principalmente con gli scudi.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso incendiario con legaccio",
+        "desc": "Grasso solido ottenuto da una miscela di materiali infiammabili. Al grumo è collegato un breve legaccio.\nSi applica velocemente all'armamento e infligge danni da fuoco, ma l'effetto è solo temporaneo a causa delle ridotte dimensioni.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Grasso sacro con legaccio",
+        "desc": "Grasso solido ottenuto da una miscela di materiali sacri incantati. Al grumo è collegato un breve legaccio.\nSi applica velocemente all'armamento e infligge danni sacri, ma l'effetto è solo temporaneo a causa delle ridotte dimensioni.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Rowa appassito",
+        "desc": "Preparato di frutto di rowa.\nPermette di ripristinare i PV di Torrente, il destriero fantasma, mentre si è in sella.\nIl frutto di rowa non è commestibile per gli umani, ma Torrente sembra esserne ghiotto.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Uvetta dolce",
+        "desc": "Preparato di frutto di rowa aureo.\nPermette di ripristinare notevolmente i PV di Torrente, il destriero fantasma, mentre si è in sella.\nIl rowa aureo ha un sapore che ricorda il miele e Torrente sembra esserne ghiotto.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Uvetta congelata",
+        "desc": "Preparato di frutto di rowa aureo.\nPermette di ripristinare ampiamente i PV di Torrente, il destriero fantasma, mentre si è in sella.\nTorrente sembra apprezzare la consistenza di questo frutto congelato.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Pietra arcobaleno",
+        "desc": "Frammenti di rovine pietrose sottoposto a breve lavorazione.\nLa luce iridescente emanta da queste pietre le rende perfetti indicatori da posizionare a terra.\nPuò anche essere lasciata cadere dall'alto per misurare i precipizi. Un suono molto acuto indica che l'impatto potrebbe essere fatale.\nUn tempo erano usate per intrattenere i bambini dell'Interregno.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Chiarapietra",
+        "desc": "Frammmento di rovine più levigato e luminoso rispetto a una pietra arcobaleno.\n Emette una flebile luce dal punto in cui si trova, illuminando l'area circostante. L'effetto, tuttavia, è molto breve e privo della varietà cromatica delle pietre arcobaleno.\nPuò essere utile nei luoghi bui o di notte.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Cotone morbido",
+        "desc": "Cotone morbido eppure resistente, che si ottiene tagliando con una specifica procedura i frutti di rowa.\nSe fissato sotto i piedi, riduce per un periodo i danni e suoni da caduta e il rumore dei passi.\nSe proprio devi inseguire il pericolo, cerca di muoverti con leggerezza.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Sapone",
+        "desc": "Sapone vegetale ricavato dai succhi prodotti dai funghi.\nRimuove sporco e altri sedimenti dal corpo, oltre a ridurre leggermente l'accumulo di veleno.\nLa sporcizia che ricopre la pelle prima o poi penetra all'interno, lordano l'anima stessa.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Imitazione di grazia",
+        "desc": "Feticcio che simula la guida della grazia.\nCome la grazia, questo feticcio ndica la via con raggi di luce, ma in maniera assai confusa.\nUtile come ultima spiaggia per chi ha perso la via, o per chi crede che una guida incerta possa condurre a scoperte più sincere.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Scheggia di vetro",
+        "desc": "Frammento di vetro coperto di polvere.\nVisto da lontano, rischia di essere scambiato per un oggetto di valore a causa dello scintillio che emana alla luce.\nNon può produrre luce propria. È essenzialmente inutile.",
+        "img": "",
+        "reusable": false,
+        "craftable": true,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Lanterna",
+        "desc": "Piccola lanterna da cintura usata per illuminare l'ambiente circostante.\nSi può spegnere e accendere.\nEmana una luce più fioca rispetto a una torcia, ma ha il vantaggio di non impegnare nessuna mano.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Telescopio",
+        "desc": "Strumento astrologico utilizzato dai membri della famiglia di Caria. È solo una parte trafugata dall'attrezzatura completa.\nConsente di vedere a notevole distanza.\nDurante l'epoca dell'Albero Madre, l'astrologia cariana cadde nell'oblio. Nell'Ordine aureo non vi era posto per il destino narrato dalle stelle.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Testa parlante \"Ciao\"",
+        "desc": "Turpe scultura d'argilla a forma di testa umana. Emette una voce che pronuncia \"Ciao\".\nMalinconico feticcio le cui parole riecheggiano per l'eternità.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Testa parlante \"Grazie\"",
+        "desc": "Turpe scultura d'argilla a forma di testa umana. Emette una voce che pronuncia \"Grazie\".\nMalinconico feticcio le cui parole riecheggiano per l'eternità.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Testa parlante \"Scusa\"",
+        "desc": "Turpe scultura d'argilla a forma di testa umana. Emette una voce che pronuncia \"Scusa\".\nMalinconico feticcio le cui parole riecheggiano per l'eternità.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Testa parlante \"Magnifico\"",
+        "desc": "Turpe scultura d'argilla a forma di testa umana. Emette una voce che pronuncia \"Magnifico\".\nMalinconico feticcio le cui parole riecheggiano per l'eternità.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Testa parlante \"Aiuto\"",
+        "desc": "Turpe scultura d'argilla a forma di testa umana. Emette una voce che pronuncia \"Aiuto\".\nMalinconico feticcio le cui parole riecheggiano per l'eternità.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Testa parlante \"Ti adoro\"",
+        "desc": "Turpe scultura d'argilla a forma di testa umana. Emette una voce che pronuncia \"Ti adoro\".\nMalinconico feticcio le cui parole riecheggiano per l'eternità.\nLe effusioni amorose sono particolarmente effimere.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Testa parlante \"Sei incantevole\"",
+        "desc": "Turpe scultura d'argilla a forma di testa umana. Emette una voce che pronuncia \"Sei incantevole\".\nMalinconico feticcio le cui parole riecheggiano per l'eternità.\nAmore incondizionato. Certezza assoluta. Dev'essere la voce di una madre.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Medaglione del cavaliere di sangue puro",
+        "desc": "Attestato di appartenenza ai gloriosi cavalieri della nuova dinastia Mohgwyn che il Signore del sangue intende inaugurare.\nPermette di ottenere udienza presso Mohg. Ma non è ancora il momento.\nMohg, infatti, riposa accanto alla Divinità. Porta paziena. L'avvento della nuova dinastia è vicino.",
+        "img": "",
+        "reusable": true,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [1]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 200 rune.\nLe rune hanno il potere di favorire lo sviluppo dei Senzaluce. A condizione di trovare una vergine delle Dita…",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [2]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 400 rune.\nLe rune hanno il potere di favorire lo sviluppo dei Senzaluce. A condizione di trovare una vergine delle Dita…",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [3]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 800 rune.\nLe rune conservano ancora il potere della vita stessa. Ammira l'Albero Madre in tutta la sua imponenza!",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [4]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 1200 rune.\nLe rune conservano ancora il potere della vita stessa. Ammira l'Albero Madre in tutta la sua imponenza!",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [6]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 2000 rune.\nI nati all'ombra dell'Albero Madre possono ritenersi privilegiati. Quantomeno, questa è la cieca convinzione di chi vive nell'altopiano.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [7]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 2500 rune.\nI nati all'ombra dell'Albero Madre possono ritenersi privilegiati. Quantomeno, questa è la cieca convinzione di chi vive nell'altopiano.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [8]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 3000 rune.\nI nati all'ombra dell'Albero Madre possono ritenersi privilegiati. Quantomeno, questa è la cieca convinzione di chi vive nell'altopiano.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [9]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 3800 rune.\nI nati all'ombra dell'Albero Madre possono ritenersi privilegiati. Quantomeno, questa è la cieca convinzione di chi vive nell'altopiano.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [10]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 5000 rune.\nLa grazia dell'oro premiò i suoi primi servitori con un colore più vivido.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [11]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 6250 rune.\nLa grazia dell'oro premiò i suoi primi servitori con un colore più vivido.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [12]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 7500 rune.\nLa grazia dell'oro premiò i suoi primi servitori con un colore più vivido.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa aurea [13]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 10.000 rune.\nLa grazia dell'oro premiò i suoi primi servitori con un colore più vivido.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa dei numi",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 12.500 rune.\nSi ritiene che i numi non siano originari dell'Interregno e che appartengano alla medesima stirpe della regina Marika.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa dell'eroe [1]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 15.000 rune.\nC'erano un tempo degli eroi che scesero sui campi di battaglia, benedetti dall'Albero Madre stesso, e che dopo aver conquistato gli onori perirono.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa dell'eroe [2]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 20.000 rune.\nC'erano un tempo degli eroi che scesero sui campi di battaglia, benedetti dall'Albero Madre stesso, e che dopo aver conquistato gli onori perirono",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa dell'eroe [3]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 25.000 rune.\nC'erano un tempo degli eroi che scesero sui campi di battaglia, benedetti dall'Albero Madre stesso, e che dopo aver conquistato gli onori perirono",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa dell'eroe [4]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 30.000 rune.\nC'erano un tempo degli eroi che scesero sui campi di battaglia, benedetti dall'Albero Madre stesso, e che dopo aver conquistato gli onori perirono",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa dell'eroe [5]",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 35.000 rune.\nC'erano un tempo degli eroi che scesero sui campi di battaglia, benedetti dall'Albero Madre stesso, e che dopo aver conquistato gli onori perirono",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Runa del Lord",
+        "desc": "Grazia che alberga negli abitanti dell'Interregno, come una sorta di residuo aureo.\nConsente di ottenere 50.000 rune.\nRune appartenute a un predestinato al ruolo di Lord, il cui destino andò in frantumi insieme all'Anello ancestrale.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Rimembranza della progenie",
+        "desc": "Rimembranza di Astel la progenie del vuoto, scolpita nell'Albero Madre.\nIl potere che racchiude può essere sbloccato dalla Leggidita. In alternativa, può essere usata per ottenere una grande quantità di rune.\nUn astro deforme generato nella più remota oscurità. Un tempo cancellò una Città Eterna privandola del firmamento. Una stella cadente che reca infausti presagi.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Rimembranza del necrodrago",
+        "desc": "Rimembranza del necrodrago Fortissax, scolpita nell'Albero Madre.\nIl potere che racchiude può essere sbloccato dalla Leggidita. In alternativa, può essere usata per ottenere una grande quantità di rune.\nQuando Godwyn l'Aureo divenne il Principe della morte, l'antico drago lottò a lungo contro ciò che dimorava nel suo antico compagno. Tuttavia, non conobbe vittoria e l'unica ricompensa fu la corruzione.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Rimembranza del gigante di fuoco",
+        "desc": "Rimembranza del gigante di fuoco, scolpita nell'Albero Madre.\nIl potere che racchiude può essere sbloccato dalla Leggidita. In alternativa, può essere usata per ottenere una grande quantità di rune.\nIl suo popolo sopravvisse alla Guerra dei giganti, ma quando Marika comprese che le fiamme della loro forgia non si sarebbero mai spente, gli scagliò contro una maledizione.\"Sciocca creatura, possa tu attizzare il fuoco in eterno\".",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Rimembranza del Re Presagio",
+        "desc": "Rimembranza di Morgott il Re Presagio, scolpita nell'Albero Madre.\nIl potere che racchiude può essere sbloccato dalla Leggidita. In alternativa, può essere usata per ottenere una grande quantità di rune.\nNonostante fosse uno dei presagi, Morgott si fece carico di diventare lo scudo dell'Albero Madre. Egli non ricambiò mai l'amore, non avendone mai ricevuto. Piuttosto, amò per sua scelta.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    },
+    {
+        "id": "",
+        "name": "Rimembranza del Signore del sangue",
+        "desc": "Rimembranza di Mohg, Signore del sangue, scolpita nell'Albero Madre.\nIl potere che racchiude può essere sbloccato dalla Leggidita. In alternativa, può essere usata per ottenere una grande quantità di rune.\nNel tentativo di elevare Miquella alla piena divinità, Mohg volle farsi consorte, insediandosi al tempo stesso come monarca. Ma per quanto offrisse di condividere il suo talamo insanguinato, non ottenne mai risposta.",
+        "img": "",
+        "reusable": false,
+        "craftable": false,
+        "sell": 0,
+        "buy":0
+    }
+]

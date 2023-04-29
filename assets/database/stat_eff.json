@@ -1,0 +1,51 @@
+[
+    {
+        "id":"",
+        "name":"Poison",
+        "res_stat":"Immunity",
+        "effect":"Inflicts damage slowly over a long period of time.",
+        "desc": "Toxins designed to whittle and slowly sap the life from enemies can inflict Poison or Deadly Poison."
+    },
+    {
+        "id":"",
+        "name":"Scarlet Rot",
+        "res_stat":"Immunity",
+        "effect":"Inflicts damage quickly over a long period of time.",
+        "desc": "Pathogens designed to crumble the very being of its enemies and consume their flesh can inflict Scarlet Rot."
+    },
+    {
+        "id":"",
+        "name":"Blood Loss",
+        "res_stat":"Robustness",
+        "effect":"Take damage equale to percentage of Max HP.",
+        "desc": "Techniques designed to wound and exsanguinate can inflict acute Blood Loss."
+    },
+    {
+        "id":"",
+        "name":"Frostbite",
+        "res_stat":"Robustness",
+        "effect":"Deals damage and lowers target's damage absorption by 20%.",
+        "desc": "Cold and Freezing techniques can inflict Frostbite."
+    },
+    {
+        "id":"",
+        "name":"Madness",
+        "res_stat":"Focus",
+        "effect":"Target loses FP and takes health damage.",
+        "desc": "Contagious mental illness hailing from the Three Fingers and the Flame of Frenzy can inflict Madness."
+    },
+    {
+        "id":"",
+        "name":"Sleep",
+        "res_stat":"Focus",
+        "effect":"Puts the target to sleep.",
+        "desc": "Tranquilizing agents hailing from St. Trina and its lilies can inflict its targets with drowsiness, forcing them to Sleep."
+    },
+    {
+        "id":"",
+        "name":"Death Blight",
+        "res_stat":"Vitality",
+        "effect":"Enemy/Player dies instantly.",
+        "desc": "Corrupted influence extracted from the Rune of Death can inflict Death Blight."
+    }
+]

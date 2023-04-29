@@ -1,0 +1,809 @@
+[
+    {
+        "id": "f61a328a-a97d-4a6a-88c2-b659c12ed7bc",
+        "position": {
+            "lat": 218.21875,
+            "lng": 368.12109664578327
+        },
+        "name": "Wandering noble",
+        "desc": "The spirits of nobles who, after death, now wander the Lands Between. Surely they were in search of something once - but whatever it was has long been forgotten.",
+        "effect": "Summons five wandering noble spirits.",
+        "PV": null,
+        "PA": 28,
+        "inv_ord": 1
+    },
+    {
+        "id": "8fbeb49c-f1bf-44f1-84d3-6f703739dcf3",
+        "position": {},
+        "name": "Noble sorcerer",
+        "desc": "Spirit of a nobleman who once asked to be given a place at Raya Lucaria to learn sorcercies.\nHis talents were insufficient to be worthy of donning the stone crown, however, and he is only capable of using the most rudimentary sorcery.",
+        "effect": "Summons noble sorcerer spirit.",
+        "PV": null,
+        "PA": 11,
+        "inv_ord": 2
+    },
+    {
+        "id": "ded29ead-aa0d-4777-a8e2-0ec6c4a4574c",
+        "position": {
+            "lat": 625.65625,
+            "lng": 472.88997854943733
+        },
+        "name": "Nomad",
+        "desc": "A member of a tribe that was entombed in the earth so as to bury the maddening disease that followed them.\nAble to emit the terrible flame of frenzy from his eyes, but has low PV and is frail, unable to take much in the way of punishment.",
+        "effect": "Summons nomad spirit",
+        "PV": null,
+        "PA": 61,
+        "inv_ord": 3
+    },
+    {
+        "id": "35944d23-86ab-4c4e-9218-a2be64653e1f",
+        "position": {
+            "lat": 249.6875,
+            "lng": 521.9657876556876
+        },
+        "name": "Putrid corpse",
+        "desc": "These spirits appear some distance from the summoner. Though their movements are dull and confused, their low moans make them effective at drawing the attention of enemies.\nTrue death does not come easily for them.",
+        "effect": "Summon four putrid corpse spirits.",
+        "PV": null,
+        "PA": 40,
+        "inv_ord": 4
+    },
+    {
+        "id": "e8d657c3-ebf6-4cc0-bd2a-cad0ddf68279",
+        "position": {
+            "lat": 280.09375,
+            "lng": 473.90544735055
+        },
+        "name": "Skeletal militiaman",
+        "desc": "There are the spirits of militiamen who live in Death, and will continue to rise again until properlu finished off.\nThis is the grotesque fate of those who come into contact with Deathroot.",
+        "effect": "Summons two skeletal militiaman spirits.",
+        "PV": null,
+        "PA": 44,
+        "inv_ord": 5
+    },
+    {
+        "id": "2db8f145-b188-4f3e-b9f4-ecc53317b504",
+        "position": {
+            "lat": 418.65625,
+            "lng": 299.4331030012433
+        },
+        "name": "Skeletal bandit",
+        "desc": "There are the spirits of bandits who live in Death, and will continue to rise again until properly finished off.\nAfter the night of the plot, Deathroot appeared in the Lands Between, and Those Who Live in Death soon followed.",
+        "effect": "Summons skeletal bandit spirit.",
+        "PV": null,
+        "PA": 22,
+        "inv_ord": 6
+    },
+    {
+        "id": "247a847e-7f3b-4a96-ab12-ffe44263bae8",
+        "position": {
+            "lat": 591.9375,
+            "lng": 220.3804758920428
+        },
+        "name": "Albinauric",
+        "desc": "A strapping duo of cartwheeling spirits who wield ripple swords and spew freezing breath.\nBoth are second-generation Albinaurics, with dumby heads that resemble those of frogs.",
+        "effect": "Summons two Albinauric spirits.",
+        "PV": null,
+        "PA": 53,
+        "inv_ord": 7
+    },
+    {
+        "id": "7a3fc1d4-5b3e-4f93-ad20-d7a7598ff68f",
+        "position": {
+            "lat": 642.3125,
+            "lng": 221.7872658157584
+        },
+        "name": "Winged misbegotten",
+        "desc": "A spirit with the aspect of wings which takes flight to loose arrows from its bow. The misbegotten are held to be a punishement for making contact with the Crucible, and from birth they are treated as slaves, or worse.",
+        "effect": "Summons winged misbegotten spirit.",
+        "PV": null,
+        "PA": 37,
+        "inv_ord": 8
+    },
+    {
+        "id": "28624177-d4e9-4a41-90ca-ab6ab823a063",
+        "position": {
+            "lat": 121.78125,
+            "lng": 475.81203673117125
+        },
+        "name": "Demi-human",
+        "desc": "Spirits of demi-humans that are small in stature, but have a Violent, brutish disposition. Though they seem somewhat intelligent, when night falls, their blood boils and they become feral.",
+        "effect": "Summons five demi-humans spirits.",
+        "PV": null,
+        "PA": 69,
+        "inv_ord": 9
+    },
+    {
+        "id": "442ce0d7-390b-421e-a7b8-596afeaa5230",
+        "position": {},
+        "name": "Clayman",
+        "desc": "Bowed with age, these spirits are sluggish but hard to stagger.\nThe warped remains of priests who searched for revelation in service of the ancient dynasty, they emply two sorceries that produce smaller and larger bubbles.",
+        "effect": "Summons two clayman spirits.",
+        "PV": null,
+        "PA": 77,
+        "inv_ord": 10
+    },
+    {
+        "id": "cba17b7d-1f99-410e-96d1-4c31db5dcba6",
+        "position": {
+            "lat": 896.1875,
+            "lng": 612.6725354457369
+        },
+        "name": "Oracle envoy",
+        "desc": "Spirits of a monstrous band of musicians who employ sacred arts. It is said that when Oracle Envoys appear, playing their pipes, they do so to herald the arrival of a new god, or age.",
+        "effect": "Summons four Oracle Envoy spirits.",
+        "PV": null,
+        "PA": null,
+        "inv_ord": 11
+    },
+    {
+        "id": "514438c6-d065-4a62-80d3-a25ce119e389",
+        "position": {},
+        "name": "Lone wolf",
+        "desc": "Spirits of wolves chased from their pack. They later encountered a nameless Tarnished, who welcomed them as hunting companions. The wolves spirits overwhelm enemies with their agility, aiding the summoner in combat.",
+        "effect": "Summons three lone wolf spirits.",
+        "PV": null,
+        "PA": 55,
+        "inv_ord": 12
+    },
+    {
+        "id": "537ee2f6-b0ce-4e85-b2e4-39b27df0dd87",
+        "position": {
+            "lat": 276.6875,
+            "lng": 593.8043539109453
+        },
+        "name": "Rotten stray",
+        "desc": "Spirit of a stry dog corrupted by the scarlet rot.\nThough it is only a small creature, it is as violent as it is nimble, and its fangs fester with poisonous rot.",
+        "effect": "Summon rotten stray spirit.",
+        "PV": null,
+        "PA": 35,
+        "inv_ord": 13
+    },
+    {
+        "id": "032ab768-69a6-40ea-af83-7fc5076733a7",
+        "position": {
+            "lat": 733.90625,
+            "lng": 327.9401065831542
+        },
+        "name": "Giant rat",
+        "desc": "Spirits that do not require FP to summon.\nThe rat spirits appear at a distance from the summoner, swarming upon their victim to start the fight.\nEven as spirits, these vermin seem to multiply endlessly. Enhancing these ashes can increase their numbers.",
+        "effect": "Summons three giant rat spirits.",
+        "PV": null,
+        "PA": null,
+        "inv_ord": 14
+    },
+    {
+        "id": "4e942a6c-fa66-41fb-a51d-aa09a77941eb",
+        "position": {
+            "lat": 150.03125,
+            "lng": 405.67596058180555
+        },
+        "name": "Warhawk",
+        "desc": "Spirit of a Stormveil warhawk, the talons of which have been sliced of so that razor-fine swords could be grafted in their place.\nWith its lord vanquished, and its wings wounded, the hawk perished as it solmnly gazed as its former home.\nThe storm is a warhawk's cradle.",
+        "effect": "Summons warhawk spirit.",
+        "PV": null,
+        "PA": 52,
+        "inv_ord": 15
+    },
+    {
+        "id": "5e380237-0808-43b0-88ba-c5968364d541",
+        "position": {
+            "lat": 424.8125,
+            "lng": 280.70511259251066
+        },
+        "name": "Land squirt",
+        "desc": "These spirits appear some distance from the summoner.\nThe firm, fleshy tubes of the creatures remain rooted to the spot, spraying poisonous liquid over their surroundings.",
+        "effect": "Summons three land squirts.",
+        "PV": 240,
+        "PA": null,
+        "inv_ord": 16
+    },
+    {
+        "id": "e0a98a42-f566-408b-a4f2-cc89d7fc0d44",
+        "position": {
+            "lat": 250.1875,
+            "lng": 368.21038841853164
+        },
+        "name": "Spirit jellyfish",
+        "desc": "A floating spirit that illuminates its surroundings.\nProne to tears, the jellyfish girl searches for her distant home. Will bravely spew poison at foes on her summoner's behalf.\n\nIt seems her name is Aurelia.",
+        "effect": "Summons spirit jellyfish.",
+        "PV": null,
+        "PA": 31,
+        "inv_ord": 17
+    },
+    {
+        "id": "7298246d-b7b7-4cb8-9e35-fa03d866fffe",
+        "position": {
+            "lat": 198.90625,
+            "lng": 567.9024854833101
+        },
+        "name": "Miranda sprout",
+        "desc": "Spirits of sweet little miranda flowers, carnivorous blossoms that feed upon human flesh. They creep slowly, scattering toxic pollen.\n Vulnerable to fire - do take care of the little darlings.",
+        "effect": "Summons five miranda sprouts.",
+        "PV": 185,
+        "PA": null,
+        "inv_ord": 18
+    },
+    {
+        "id": "1c1ba873-e946-4a74-adc3-9276a97307f3",
+        "position": {
+            "lat": 458.78125,
+            "lng": 211.65598340432842
+        },
+        "name": "Fanged imp",
+        "desc": "These spirits are well suited to causing a disturbance, moving nimbly like pests and hurling magic pots.\nThe two imps seem fond of each other's company.",
+        "effect": "Summons two fanged imp spirits.",
+        "PV": null,
+        "PA": 50,
+        "inv_ord": 19
+    },
+    {
+        "id": "7623a80b-9a8b-43ea-b464-ce3f05b2fb7e",
+        "position": {
+            "lat": 657.34375,
+            "lng": 489.90402812249755
+        },
+        "name": "Soldjars of fortune",
+        "desc": "These reckless spirits sacrifice themselves to vanquish their summoner's foes, and explode upon death.\nThough their bravery is admirable, their explosions can harm friend as well as foe, and they will also immediately explode on contact with fire.\n\n\"Tell the others - tell them how brightly a fire jar burns.\"",
+        "effect": "Summons three little living jar spirits.",
+        "PV": 135,
+        "PA": null,
+        "inv_ord": 20
+    },
+    {
+        "id": "9cceff60-8750-404c-99d5-2545a2a505b3",
+        "position": {},
+        "name": "Archer",
+        "desc": "Spirit of archers who belonged to the Fallen Hawks, a band of soldiers that once explored the Eternal City. their arrows are imbued with cold ghostflame.\nThough their methods are somewhat crude, they work well as a squadron, firing a hail of arrows in unison at the sound of a war cry.",
+        "effect": "Summons three archer spirits.",
+        "PV": null,
+        "PA": 57,
+        "inv_ord": 21
+    },
+    {
+        "id": "5c3e2274-6973-4595-a58a-bdaa50e5337a",
+        "position": {},
+        "name": "Greatshield",
+        "desc": "Spirits of greatshield soldiers who belonged to the Fallen Hawks, a band of soldiers that once explored the Eternal City. Stout defenders with a steady guard.\nThough their methods are somewhat crude, they work well as a squadron, and will attract the attention of enemies or lob ghostglame from the rearguard.",
+        "effect": "Summons five greatshield soldier spirits.",
+        "PV": null,
+        "PA": 74,
+        "inv_ord": 22
+    },
+    {
+        "id": "80c8d906-2b86-45c3-a95f-1d9d6df5005a",
+        "position": {
+            "lat": 344.0625,
+            "lng": 320.2464360264045
+        },
+        "name": "Page",
+        "desc": "Spirit of a page who traveled at the side of the noble he served.\nUses a piercing sword and crosswbow to defend his master.\nOne becomes a page merely by accident of being born into obscurity; nothing is asked of ability, talent, or voition.",
+        "effect": "Summons page spirit.",
+        "PV": null,
+        "PA": 81,
+        "inv_ord": 23
+    },
+    {
+        "id": "92aebd39-6316-4d55-b1b1-51e9a579cec9",
+        "position": {
+            "lat": 641,
+            "lng": 481.67556336555396
+        },
+        "name": "Vulgar militia",
+        "desc": "Spirts of the vulgar militia who wield long-hafted, serrated hatchets. These brutal weapons are particularly effective at causing blood loss to opponents.\nIn the Lands Bewteen, the small were scorned, and so they formed their vulgar militia as a means to make a living, albei in ignominy.",
+        "effect": "Summons three vulgar militia spirits.",
+        "PV": null,
+        "PA": 70,
+        "inv_ord": 24
+    },
+    {
+        "id": "99fc2c5a-ea22-444c-a1d2-0120fda5e904",
+        "position": {
+            "lat": 468.125,
+            "lng": 194.67885687354072
+        },
+        "name": "Marionette soldier",
+        "desc": "Spirits of marionette soldiers created to serve a sorcerer.\nThese marionettes are archers, each equipped with a pair of bows. On the verge of fallin apat, they are ill - disciplined and attack without warning.",
+        "effect": "Summons two marionette soldier spirits.",
+        "PV": null,
+        "PA": 67,
+        "inv_ord": 25
+    },
+    {
+        "id": "5e6b7ce4-8a93-424f-99a0-5af1b2a5b6ac",
+        "position": {
+            "lat": 463.3125,
+            "lng": 194.14734462487888
+        },
+        "name": "Avionette soldier",
+        "desc": "Spirits of marionette soldiers with avian features that were created to serve a sorcerer.\nEquipped with long-hafted scythes, they also attack from the skies by lobbing fire pots.\nCan sometimes malgunction when damaged.",
+        "effect": "Summon the spirits of two avionette soldiers.",
+        "PV": null,
+        "PA": 67,
+        "inv_ord": 26
+    },
+    {
+        "id": "d3448c67-835a-43c1-ad50-4803ed44c94a",
+        "position": {
+            "lat": 344.90625,
+            "lng": 317.43254765113585
+        },
+        "name": "Kaiden sellsword",
+        "desc": "Spirit of a mercenary belonging to a horse-riding folk. Skillfully uses a massive blade made for dismounting other riders, and enhances his already considerable strength with war cries\nThe sellswords of Kaiden made their prowess known on countless battlefields.",
+        "effect": "Summons Kaiden Sellsword spirit.",
+        "PV": null,
+        "PA": 88,
+        "inv_ord": 27
+    },
+    {
+        "id": "3cde7fdf-42ff-49db-b7e4-dabcb4ae5dc4",
+        "position": {
+            "lat": 312.25,
+            "lng": 526.8447368120075
+        },
+        "name": "Mad pumpkin head",
+        "desc": "Spirit of a mad soldier with a large, brawny physique.\nThough he has stigled his panic within the dark confines of his helmet, he rampages as if driven mad when agitated by bloodshed or the humming of insects.\nThis mad soldier is all that is left of a broken gladiator.",
+        "effect": "Summon the spirit of a mad pumpkin head.",
+        "PV": null,
+        "PA": 110,
+        "inv_ord": 28
+    },
+    {
+        "id": "8832c2ee-407f-49b3-ada3-177754e39296",
+        "position": {
+            "lat": 703.40625,
+            "lng": 615.7844736388291
+        },
+        "name": "Fire monk",
+        "desc": "Spirit of a stout monk who monitored the Giants' Flame. Versed in fire incantations, and himself steeled againts fire.\nThough he was charged with keeping watch over the Flame, after many years of solemn duty, he has succumbed to its allure.",
+        "effect": "Summons Fire Monk spirit.",
+        "PV": null,
+        "PA": 85,
+        "inv_ord": 29
+    },
+    {
+        "id": "74490630-a538-43e7-b91b-86bfa1eec66d",
+        "position": {},
+        "name": "Ancestral follower",
+        "desc": "A spirit of the horned folk who eschew letters and metalworking.\nBrawny, and versed in distinctive spiritual arts, this particular tribesman wields a heavy bow.",
+        "effect": "Summons ancestrla follower spirit.",
+        "PV": null,
+        "PA": 63,
+        "inv_ord": 30
+    },
+    {
+        "id": "f39a8c09-763d-4a7e-b672-47fea3e6b1b5",
+        "position": {
+            "lat": 510.8125,
+            "lng": 902.6875149493194
+        },
+        "name": "Azula beastman",
+        "desc": "Spirits of beastmen from doomed Farum Azula, the slowly crumbling ruins in the skies. These ruins are said to be the remains of a giant mausoleum enshrining an ancient dragon, guarded by chosen beastmen who wield weapons clad in lightning.",
+        "effect": "Summons two Azula beastman spirits.",
+        "PV": null,
+        "PA": 102,
+        "inv_ord": 31
+    },
+    {
+        "id": "9c8d752d-a9be-4ea6-8da7-38293c3a84c3",
+        "position": {
+            "lat": 695,
+            "lng": 231.9760153535002
+        },
+        "name": "Man-serpent",
+        "desc": "Spirit of a deformed man-serpent that wields a whip of magma.\nIt is said that long ago, the elder serpent that dwelled on Mt. Gelmir devoured a demigod, and the birth of the man-serpent followed.",
+        "effect": "Summons man-serpent spirit.",
+        "PV": null,
+        "PA": 62,
+        "inv_ord": 32
+    },
+    {
+        "id": "71824b09-945d-4c7c-9640-1a7a8fb25a84",
+        "position": {
+            "lat": 281.9375,
+            "lng": 627.2464201229401
+        },
+        "name": "Crystalian",
+        "desc": "Spirit that wields round crystalline blades, both big and small. Its sturdy body, itself hewn from crystal long ago, is hard enough to blunt its opponent's blade, but blows from bludgeoning weapons can shatter it easily.",
+        "effect": "Summons Crystalian spirit.",
+        "PV": null,
+        "PA": 101,
+        "inv_ord": 33
+    },
+    {
+        "id": "79c57fe5-d9eb-4908-8343-56fb3c64ad29",
+        "position": {
+            "lat": 200.28125,
+            "lng": 569.184367965377
+        },
+        "name": "Kindred of rot",
+        "desc": "This spirit takes the form of a crawling pest, its chitinous body making a dry rustling sound.\nAttacks enemies by secreting sticky threads.\nThe Kindred of Rot are the servants of the Goddess of Rot - servants that have been forsaken.",
+        "effect": "Summons Kindred of Rot spirit.",
+        "PV": null,
+        "PA": 73,
+        "inv_ord": 34
+    },
+    {
+        "id": "fdb1031a-81f3-4ca7-a326-d12e687dc4bd",
+        "position": {
+            "lat": 395.5,
+            "lng": 142.24399865648837
+        },
+        "name": "Glintstone sorcerer",
+        "desc": "Spirit of a Raya Lucaria sorcerer wearing a stone crown.\nA scholar of the Olivinus Conspectus, who has mastered the use of the Glinstone Stars sorcery.",
+        "effect": "Summons glintstone sorcerer spirit.",
+        "PV": null,
+        "PA": 49,
+        "inv_ord": 35
+    },
+    {
+        "id": "053ab917-6718-4a12-bdb5-2d3269081863",
+        "position": {
+            "lat": 555.59375,
+            "lng": 301.96856440622497
+        },
+        "name": "Twinsage sorcerer",
+        "desc": "Spirit of a Raya Lucaria sorcerer wearing a stone crown.\nThose who study the Twinsage Conspectus are the academy's elite, capable of mastering the Glintstone Cometshard and Crystal Burst sorceries.",
+        "effect": "Summons Twinsage sorcerer spirit.",
+        "PV": null,
+        "PA": 89,
+        "inv_ord": 36
+    },
+    {
+        "id": "bcdedd8f-c73f-43cd-8411-2cc899ba028d",
+        "position": {
+            "lat": 233.8125,
+            "lng": 358.99569555959454
+        },
+        "name": "Godrick soldier",
+        "desc": "A duo of spirits, consisting of a wielder of devastating charged hammer attacks in the vanguard and a crossbowman bringing up the rear.\nThe soldiers who serve Godrick the Grafted are what remains of th army that fled the royal capital of the Erdtree.",
+        "effect": "Summons two Godrick soldier spirits.",
+        "PV": null,
+        "PA": 54,
+        "inv_ord": 37
+    },
+    {
+        "id": "089df311-f76c-4b78-ac2a-1dda1c49b2d9",
+        "position": {
+            "lat": 397.5625,
+            "lng": 140.68072733689468
+        },
+        "name": "Raya Lucaria soldier",
+        "desc": "A trio of spirits, consisting of two disposable foot soldiers and their superior.\nThe soldiers of Raya Lucaria were also known as the Cuckoos.\nThey were given free rein by the academy to wage war as they pleased, and they were infamous for their rapacious ways.",
+        "effect": "Summons three Raya Lucaria soldier spirits.",
+        "PV": null,
+        "PA": 59,
+        "inv_ord": 38
+    },
+    {
+        "id": "bcc2e942-c55c-46e7-bf18-e26079edc5de",
+        "position": {
+            "lat": 657.28125,
+            "lng": 340.8223261345513
+        },
+        "name": "Leyndell soldier",
+        "desc": "Spirits of soldiers each equipped with a spear and greatshield.\nThe soldiers of Leyndell fight their battles defensively. During the Shattering, they were the ramparts that fortified the royal capital.",
+        "PV": null,
+        "PA": 64,
+        "inv_ord": 39
+    },
+    {
+        "id": "bc40501a-b2bb-4033-9d56-0c5de22e20f3",
+        "position": {
+            "lat": 322.5625,
+            "lng": 673.8749373402874
+        },
+        "name": "Radahn soldier",
+        "desc": "Both spirits wield fiery weapons to perform powerful skills. Such is their valor that they will immediately attack after being summoned\n\nGeneral Radahn's soldiers were all reputed to be masterful warriors, and it was popularly said that the Demanes knew no weakness.",
+        "effect": "Summons two Radahn Soldier spirits.",
+        "PV": null,
+        "PA": 71,
+        "inv_ord": 40
+    },
+    {
+        "id": "82917d9d-9aa2-4983-809a-67cddec19b53",
+        "position": {
+            "lat": 939.1875,
+            "lng": 595.7892051941249
+        },
+        "name": "Haligtree soldier",
+        "desc": "Spirits of common soldiers who carry the sacred light. When weakened, they explode to delived a last-ditch attacks.\nThis was the bitter revelation discovered by the desperate soldiers who awaited the return of their lord to the rotted Haligtree.\n\nMay the flash of our death guide Miquella's return.",
+        "effect": "Summons four Haligtree soldier spirits.",
+        "PV": null,
+        "PA": 66,
+        "inv_ord": 41
+    },
+    {
+        "id": "1b11e7d9-4e51-4470-ac9a-5e07cf895f4b",
+        "position": {},
+        "name": "Mausoleum soldier",
+        "desc": "Spirits of five headless soldiers who confound foes by disappearing and reappearing at will.\n\nThe mausleum is where the bodies of soulless demigods are lain to rest, and these soldiers followed their masters into Death by severing their own heads from their bodies..",
+        "effect": "Summons five mausoleum soldier spirits.",
+        "PV": null,
+        "PA": 75,
+        "inv_ord": 42
+    },
+    {
+        "id": "907d44a9-8790-486b-8c66-69bdd0d552e9",
+        "position": {
+            "lat": 247.6875,
+            "lng": 292.45991020038355
+        },
+        "name": "Stormhawk Deenh",
+        "desc": "Spirit of fierce hawk that faithfully rendered lifelong service to the old king to Stormbeil long ago, when the true storm rages. Its cries embolden its fellows in battle, and the tempestuous winds that encircle it shred through foes.",
+        "effect": "Summon spirit of Stormhawk Deenh.",
+        "PV": null,
+        "PA": 47,
+        "inv_ord": 43
+    },
+    {
+        "id": "91d33139-879e-4ba8-9a55-6d72f90b4c1c",
+        "position": {
+            "lat": 276.3125,
+            "lng": 576.1706534259282
+        },
+        "name": "Battlemage Hugues",
+        "desc": "Hugues cam from Sellia to study the Haima Conspectus at the academy, where he became a battlemage.\nHaima scholars seek to quell conflict with cannon fire and the gavel, but Hugues developed a longing for it.",
+        "effect": "Summons spirit of Battlemage Hugues.",
+        "PV": 0,
+        "PA": 122,
+        "inv_ord": 44
+    },
+    {
+        "id": "6a9493e0-fb37-47e3-a92e-bbe71b6ee289",
+        "position": {
+            "lat": 252.09375,
+            "lng": 431.49635889444517
+        },
+        "name": "Engvall, the Banished Knight",
+        "desc": "One of the two knights dubbed to Wings of the Storm. Despite his banishment, he rejected the invitation of the Grace-Given Lord, instead keeping watch over a masterless castle for many years, gaining renown as a hero of the fringes.",
+        "effect": "Summon the spiriti of Engvall, the Banished Knight.",
+        "PV": null,
+        "PA": 100,
+        "inv_ord": 45
+    },
+    {
+        "id": "d8f8ef94-fc18-4037-b3b9-4067e7e024b8",
+        "position": {
+            "lat": 687.375,
+            "lng": 266.06101858930754
+        },
+        "name": "Bloodhound knight Floh",
+        "desc": "Spirit of a Bloodhound Knight they called the Rabid Stray. Will attack without pause immediatel after being summoned.\nFloh vowed that there was only one lord he would ever serve: a true king. And so, the Rabid Stray never found a master.",
+        "effect": "Summon the spirit of Floh, the Bloodhound Knight.",
+        "PV": null,
+        "PA": 95,
+        "inv_ord": 46
+    },
+    {
+        "id": "9c0bfece-6c99-447c-ab1a-a40080303d5a",
+        "position": {},
+        "name": "Banished knight Oleg",
+        "desc": "One of the two knights known as the Wings of the Storm. After his banishment, he attracted the notice of the Grace-Given Lord and later, having stain a hundred traitor as the Lord's hand, Oleg eaned the hero's honor of Erdtree Burial.",
+        "effect": "Summon the spirit of Oleg, the Banished Knight.",
+        "PV": null,
+        "PA": 100,
+        "inv_ord": 47
+    },
+    {
+        "id": "2bb02570-312e-4d45-aab6-b47180d7387e",
+        "position": {
+            "lat": 329.5,
+            "lng": 242.14824322554475
+        },
+        "name": "Latenna the Albinauric",
+        "desc": "A rare case of one who chose to become a spirit voluntarily.\n\nLatenna was renowned as a deft magic archer. But having lost her beloved wolf companion, Lobo, she cannot move from the place where he was summoned.",
+        "effect": "Summon the spirit of Latenna the Albinauric.",
+        "PV": 0,
+        "PA": 74,
+        "inv_ord": 48
+    },
+    {
+        "id": "d213be53-e080-4dff-bf68-e9fd48ad224b",
+        "position": {
+            "lat": 642.3125,
+            "lng": 221.7872658157584
+        },
+        "name": "Perfumer Tricia",
+        "desc": "Tricia was once known as a healer who dedicated her efforts to treating Misbegotten, Omen, and all thos seen as impure.\nWhen her effort failed, she was their companion as they died, watching over them to ensure that they could pass peacefully, free of pain.\n\nA tale akin to the origins of the deathbed companions.",
+        "effect": "Summon the spirit of Tricia, the perfumer.",
+        "PV": 0,
+        "PA": 78,
+        "inv_ord": 49
+    },
+    {
+        "id": "eb5d62d3-4688-42eb-85d1-87db8b756a05",
+        "position": {
+            "lat": 690.65625,
+            "lng": 229.84996635885275
+        },
+        "name": "Depraved perfumer Carmaan",
+        "desc": "Depraved perfumers practice their art for themselves alon. Carmaan was notably formidable perfumer whose strength rivaled that of heroes, and it is said that he was in search of a secret physick of revivification.",
+        "effect": "Summon the spirit of Carmaan, the depraved perfumer.",
+        "PV": 0,
+        "PA": 124,
+        "inv_ord": 50
+    },
+    {
+        "id": "aaef2888-7629-4409-9317-4b72b5c2f543",
+        "position": {
+            "lat": 603.1875,
+            "lng": 536.0297685893075
+        },
+        "name": "Omenkiller Rollo",
+        "desc": "Spirit of Rollo, known as the first Omenkiller. Once a famous perfumer, Rollo imbibed a physick to rid himself of emotion, thus enabling him to enact his nightmarish labor, hunting the Omen.",
+        "effect": "Summon the spirit of Omenkiller Rollo.",
+        "PV": 0,
+        "PA": 113,
+        "inv_ord": 51
+    },
+    {
+        "id": "5279a59a-d9ac-448d-90c0-65195a930b00",
+        "position": {
+            "lat": 702.21875,
+            "lng": 571.8076864886627
+        },
+        "name": "Blackflame Monk Amon",
+        "desc": "Amon swore fealty to the god-slaying black flame, and so became the first fire monk to turn traitor.\nOr perhaps it is better said that he fled from the Giants' Flame - out of cowardice.",
+        "effect": "Summon the spirit of Amon, the Blackflame Monk.",
+        "PV": 0,
+        "PA": 115,
+        "inv_ord": 52
+    },
+    {
+        "id": "97a7ea84-1281-4763-8c93-1dda43951323",
+        "position": {
+            "lat": 657.96875,
+            "lng": 341.9478814846588
+        },
+        "name": "Ancient Dragon Knight Kristoff",
+        "desc": "Spirit of Kristoff, an honorable knight of Leyndell who was also a devout worshipper of the ancient dragron.\nHis skills strike down foes with thunderbolts, the dragons' weapon of choice,\n\nAfter the First Defense od Leyndell, Kristoff earned the hero's honor of Erdtree Burial for the feat of capturing Godfrey the Grafted.",
+        "effect": "Summon the spirit of Kristoff, the Ancient Dragon Knight.",
+        "PV": null,
+        "PA": 108,
+        "inv_ord": 53
+    },
+    {
+        "id": "598b5d64-fd11-410e-9f5f-c642bbc1b8d7",
+        "position": {
+            "lat": 321.75,
+            "lng": 668.6848765592363
+        },
+        "name": "Redmane Knight Ogha",
+        "desc": "Spirit of a mighty knight versed in the use of a greatbow.\nA valiant warrior who will attack immediately after being summoned.\n\nThe longest-serving member of the Redmane Knights, Ogha studied techniques to manipulate gravity alongside Radahn.\nMay use a rain of gravitational arrows in response to a war cry, but only once.",
+        "effect": "Summon the spirit of Ogha, the Redman JKnight.",
+        "PV": 0,
+        "PA": 106,
+        "inv_ord": 54
+    },
+    {
+        "id": "11b0e01e-01a5-4637-946a-a49292dbca18",
+        "position": {
+            "lat": 112.34375,
+            "lng": 404.9584909723311
+        },
+        "name": "Luthel the Headless",
+        "desc": "Spirit of a headless knight who leads the mausoleum soldiers.\nWields a lance enrobed in Death and hurls spectral lances at foes.\n\nLuthel sacrificed her life so that in Death she could continue to protect a soulless demigod until their revival, earning her the hero's honor of Erdtree Burial.",
+        "effect": "Summon the spirit of Luthel the Headleass.",
+        "PV": 0,
+        "PA": 104,
+        "inv_ord": 55
+    },
+    {
+        "id": "a9e00371-2aed-4de8-8e6f-e33942dbcb50",
+        "position": {
+            "lat": 927.375,
+            "lng": 604.5435245838496
+        },
+        "name": "Cleanrot Knight Finlay",
+        "desc": "Finlay was one of the few survivors of the survivors of the Battle of Aeonia, who in an unimaginable act of heroism carried the slumbering demigod Malenia all the way back to the Haligtree. She managed the feat alon, fendinf off all manner of foes along the way.",
+        "effect": "Summon the spirit of the Cleanrot Knight Finlay.",
+        "PV": null,
+        "PA": 127,
+        "inv_ord": 56
+    },
+    {
+        "id": "eb6d45ab-c429-49b7-858a-a5ab0136cca4",
+        "position": {
+            "lat": 371.15625,
+            "lng": 138.9806394011253
+        },
+        "name": "Black Knife Tiche",
+        "desc": "Tiche was one of the assassins who, on the night of the plot imbued her black knife with the Rune of Death and slew Godwyn the Golden. She was the daughter of the Black Knife Ringleader, Alecto, and was killed protecting her mother during their flight from the royal capital.",
+        "effect": "Summon the spirit of Black Knife Tiche.",
+        "PV": 0,
+        "PA": 132,
+        "inv_ord": 57
+    },
+    {
+        "id": "e2a93e08-92d3-482a-b948-17cfca3acb48",
+        "position": {},
+        "name": "Mimic Tear",
+        "desc": "This spirit takes the form of the summoner to fight alongside them, but its mimicry does not extend to imitating the summoner's will.\nMimic tears are the result of an attempt by the Eternal City to forge a lord.",
+        "effect": "Summon the spirit of a mimi tear.",
+        "PV": 660,
+        "PA": 0,
+        "inv_ord": 58
+    },
+    {
+        "id": "2629b09d-bca2-4d2f-9be5-a0b53ff810a0",
+        "position": {
+            "lat": 591.375,
+            "lng": 175.90328765568762
+        },
+        "name": "Finger Maiden Therolina Puppet",
+        "desc": "Spirit of Finger Maiden who never met the Tarnished she was meant to guide. Uses healing incantations and Holy Water Pots, but she is not a fighter by nature and is ill-suited to battle.\n\nA Maiden without a Tarnished. A Tarnished without a Maiden.\nAnd yet no guide to bring them together.",
+        "effect": "Summon the spirit of the Finger Maiden Therolina.",
+        "PV": 82,
+        "PA": 0,
+        "inv_ord": 59
+    },
+    {
+        "id": "54949b62-f668-4662-b487-2557bd859d21",
+        "position": {
+            "lat": 591.375,
+            "lng": 175.90328765568762
+        },
+        "name": "Jarwight Puppet",
+        "desc": "Spirit of a man who wished to become the innard of a livingjar. A jar-hurling specialist who throws all manner of pots and jars.\n\nThe warrior jar once told the nameless man this:\n\"You are not yer ready to join the warriors inside. No, you must apply yourself! Better yourself, and one day I will return for you.\"",
+        "effect": "Summon the spirit of jarwight.",
+        "PV": 60,
+        "PA": 0,
+        "inv_ord": 60
+    },
+    {
+        "id": "dbcc1050-e9e7-49f7-8533-3273b4e240f5",
+        "position": [
+            {
+                "lat": 591.375,
+                "lng": 175.90328765568762
+            },
+            {
+                "lat": 595.625,
+                "lng": 187.25263743593797
+            }
+        ],
+        "name": "Dolores the Sleeping Arrow Puppet",
+        "desc": "Spirit of a handsome archer who dressed in the style of a man. called the Silent Hunter by some, she fires St. Trina's arrows from her shortbow.\n\nDolores once belonged to the Roundtable Hold, where she was both a critic and a friend of Gideon the All-Knowning. It was because of her that he and Seluvis went their separate ways.",
+        "effect": "Summon the spirit of Dolores the Sleeping Arrow.",
+        "PV": 0,
+        "PA": 87,
+        "inv_ord": 61
+    },
+    {
+        "id": "d395f13e-882e-47c4-9fa9-538879d07f21",
+        "position": {
+            "lat": 595.625,
+            "lng": 187.25263743593797
+        },
+        "name": "Nepheli Loux Puppet",
+        "desc": "Puppet of a warrior who was betrayed by her pure heart. Wields a Stormhawk Axe in both hands and uses the Thunderstorm skill.\n\nA diamond in the rough, deserving of special care lest its potential be squandered. Nepheli Loux truly was a warrior.",
+        "effect": "Summon the spirit of Nepheli Loux.",
+        "PV": null,
+        "PA": 90,
+        "inv_ord": 62
+    },
+    {
+        "id": "7efdc989-5982-4a5b-b6c4-aac5a108e90f",
+        "position": {
+            "lat": 591.375,
+            "lng": 175.90328765568762
+        },
+        "name": "Dung Eater Puppet",
+        "desc": "Spirit of a man who murdered thousands and defiled their corpses with the Seedbed Curse.\nWields a spine greatsword and hurls curses.\n\nThe Dung Eater despaired at how he met his end.\nHow hideous and sinister this puppet is, and yet, its utter despair invites one to care for it.",
+        "effect": "Summon the spirit of the Dung Eater.",
+        "PV": null,
+        "PA": 118,
+        "inv_ord": 63
+    },
+    {
+        "id": "b3e0fda7-441c-4d92-b023-41868707bcc8",
+        "position": {},
+        "name": "Nightmaiden and Swordstress Puppets",
+        "desc": "An old puppet crafted in the Eternal City.\n\nThese sisters, members of a cold-blooded race who wield flowing weapons, became puppets of their own volition.",
+        "effect": "Summon the spirits of a nightmaiden and a swordstress.",
+        "PV": 0,
+        "PA": 97,
+        "inv_ord": 64
+    }
+]

@@ -1,0 +1,2513 @@
+[
+  {
+    "name": "Bestial Sanctum",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 395.46875,
+      "lng": 635.3733026198213
+    }
+  },
+  {
+    "name": "Farum Greatbridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 367,
+      "lng": 655.9042903711594
+    }
+  },
+  {
+    "name": "Lenne's Rise",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 333.65625,
+      "lng": 673.0000214425023
+    }
+  },
+  {
+    "name": "War-Dead Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 323.5,
+      "lng": 671.9057514137326
+    }
+  },
+  {
+    "name": "Dragonbarrow Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 316.5,
+      "lng": 638.8653852078511
+    }
+  },
+  {
+    "name": "Dragonbarrow Fork",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 320.71875,
+      "lng": 620.8665524025369
+    }
+  },
+  {
+    "name": "Fort Faroth",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 291.3125,
+      "lng": 629.9291564082909
+    }
+  },
+  {
+    "name": "Sellia Hideaway",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 285.78125,
+      "lng": 624.9893088498443
+    }
+  },
+  {
+    "name": "Church of the Plague",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 262.78125,
+      "lng": 613.8706763322282
+    }
+  },
+  {
+    "name": "Starscourge Radahn",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 244.5625,
+      "lng": 662.053687537953
+    }
+  },
+  {
+    "name": "Redmane Castle Plaza",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 190.65625,
+      "lng": 648.4365193743198
+    }
+  },
+  {
+    "name": "Chamber Outside the Plaza",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 184.53125,
+      "lng": 649.4995245451247
+    }
+  },
+  {
+    "name": "Impassable Greatbridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 181.625,
+      "lng": 602.6821659906183
+    }
+  },
+  {
+    "name": "Caelid Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 196.0625,
+      "lng": 568.5836762998306
+    }
+  },
+  {
+    "name": "Cathedral of Dragon Communion",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 200.59375,
+      "lng": 560.339144030896
+    }
+  },
+  {
+    "name": "Southern Aeonia Swamp Bank",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 224.625,
+      "lng": 584.1864896583901
+    }
+  },
+  {
+    "name": "Sellia Under-Stair",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 270.875,
+      "lng": 596.1540213052723
+    }
+  },
+  {
+    "name": "Sellia Backstreets",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 279.375,
+      "lng": 599.8745394030896
+    }
+  },
+  {
+    "name": "Chair-Crypt of Sellia",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 285.46875,
+      "lng": 594.9034269866781
+    }
+  },
+  {
+    "name": "Sellia Crystal Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 291,
+      "lng": 586.08673704059
+    }
+  },
+  {
+    "name": "Inner Aeonia",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 260.4375,
+      "lng": 579.9900897374439
+    }
+  },
+  {
+    "name": "Heart of Aeonia",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 252.625,
+      "lng": 582.6476026644564
+    }
+  },
+  {
+    "name": "Abandoned Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 282.34375,
+      "lng": 573.8068688313213
+    }
+  },
+  {
+    "name": "Deep Siofra Well",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 303.125,
+      "lng": 570.3679721826252
+    }
+  },
+  {
+    "name": "Dragonbarrow West",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 312.53125,
+      "lng": 570.9307396259925
+    }
+  },
+  {
+    "name": "Divine Tower of Caelid: Center",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 331.21875,
+      "lng": 593.0902286623301
+    }
+  },
+  {
+    "name": "Divine Tower of Caelid: Basement",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 333.15625,
+      "lng": 595.0599147141158
+    }
+  },
+  {
+    "name": "Smoldering Wall",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 276.65625,
+      "lng": 550.0248610751138
+    }
+  },
+  {
+    "name": "Aeonia Swamp Shore",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 243.5625,
+      "lng": 556.3411052822564
+    }
+  },
+  {
+    "name": "Astray from Caelid Highway North",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 252.375,
+      "lng": 547.1500839445865
+    }
+  },
+  {
+    "name": "Caelid Highway South",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 220.71875,
+      "lng": 546.245290025142
+    }
+  },
+  {
+    "name": "Caelem Ruins",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 302.5,
+      "lng": 542.1862222150228
+    }
+  },
+  {
+    "name": "Minor Erdtree Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 314.6875,
+      "lng": 525.0260199963723
+    }
+  },
+  {
+    "name": "Rotview Balcony",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 298.25,
+      "lng": 511.9906394821435
+    }
+  },
+  {
+    "name": "Smoldering Church",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 308.1875,
+      "lng": 494.1432789966845
+    }
+  },
+  {
+    "name": "Rear Gael Tunnel Entrance",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 288.375,
+      "lng": 500.5518616971662
+    }
+  },
+  {
+    "name": "Gael Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 284.78125,
+      "lng": 508.6494599100628
+    }
+  },
+  {
+    "name": "Fort Gael North",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 267.8125,
+      "lng": 516.2147086335603
+    }
+  },
+  {
+    "name": "Gaol Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 250.75,
+      "lng": 523.3727861632372
+    }
+  },
+  {
+    "name": "Third Church of Marika",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 255.96875,
+      "lng": 491.2127622401648
+    }
+  },
+  {
+    "name": "Forth Haight West",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 183.625,
+      "lng": 485.43170539370783
+    }
+  },
+  {
+    "name": "Summonwater Village Outskirts",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 272.9375,
+      "lng": 460.65146573531774
+    }
+  },
+  {
+    "name": "Mistwood Outskirts",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 230.4375,
+      "lng": 460.4951414454935
+    }
+  },
+  {
+    "name": "Artist's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 246.28125,
+      "lng": 446.4270399927444
+    }
+  },
+  {
+    "name": "Murkwater Coast",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 243.25,
+      "lng": 431.6387621753696
+    }
+  },
+  {
+    "name": "Murkwater Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 253.875,
+      "lng": 429.2001032541111
+    }
+  },
+  {
+    "name": "Murkwater Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 225.875,
+      "lng": 427.5774805284874
+    }
+  },
+  {
+    "name": "Waypoint Ruins Cellar",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 193.25,
+      "lng": 449.0759650160726
+    }
+  },
+  {
+    "name": "Agheel Lake South",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 165.78125,
+      "lng": 443.7637027435102
+    }
+  },
+  {
+    "name": "Seaside Ruins",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 166.75,
+      "lng": 417.91646112177006
+    }
+  },
+  {
+    "name": "Church of Dragon Communion",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 157.25,
+      "lng": 358.75052372868674
+    }
+  },
+  {
+    "name": "Bridge of Sacrifice",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 130.75,
+      "lng": 458.09109042429156
+    }
+  },
+  {
+    "name": "Impaler's Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 122.84375,
+      "lng": 471.2535956274941
+    }
+  },
+  {
+    "name": "Beside the Crater-Pocked Glade",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 108.03125,
+      "lng": 468.00205039914954
+    }
+  },
+  {
+    "name": "Castle Morne Rampart",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 90.6875,
+      "lng": 455.7774909348925
+    }
+  },
+  {
+    "name": "Castle Morne Lift",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 42.3125,
+      "lng": 430.2089437431979
+    }
+  },
+  {
+    "name": "Behind the Castle",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 30.75,
+      "lng": 422.86170212145777
+    }
+  },
+  {
+    "name": "Beside the Rampart Gaol",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 25.59375,
+      "lng": 420.3917783422345
+    }
+  },
+  {
+    "name": "Morne Moangrave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 10.875,
+      "lng": 416.07722794308495
+    }
+  },
+  {
+    "name": "Morne Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 90.9375,
+      "lng": 423.63951993157707
+    }
+  },
+  {
+    "name": "Tombsward",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 97.5625,
+      "lng": 399.945214983675
+    }
+  },
+  {
+    "name": "Tombsward Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 114,
+      "lng": 408.26166720232555
+    }
+  },
+  {
+    "name": "Church of Pilgrimage",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 140.625,
+      "lng": 407.30740371805587
+    }
+  },
+  {
+    "name": "Tombsward Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 102.875,
+      "lng": 380.24132294852666
+    }
+  },
+  {
+    "name": "Fourth Church of Marika",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 109.71875,
+      "lng": 371.4558978604033
+    }
+  },
+  {
+    "name": "Isolated Merchant's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 84.25,
+      "lng": 364.9528074037142
+    }
+  },
+  {
+    "name": "Ailing Village Outskirts",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 109.3125,
+      "lng": 440.7803288061792
+    }
+  },
+  {
+    "name": "South of the Lookout Tower",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 112.28125,
+      "lng": 445.4075277849772
+    }
+  },
+  {
+    "name": "Earthbore Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 125.09375,
+      "lng": 437.3411944300455
+    }
+  },
+  {
+    "name": "Divine Tower of Limgrave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 313.46875,
+      "lng": 450.8106576123584
+    }
+  },
+  {
+    "name": "Highroad Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 286.625,
+      "lng": 426.9868358431414
+    }
+  },
+  {
+    "name": "Saintsbridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 276.78125,
+      "lng": 422.01572342673
+    }
+  },
+  {
+    "name": "Deathtouched Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 278.5625,
+      "lng": 410.7916394173483
+    }
+  },
+  {
+    "name": "Agheel Lake North",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 224.84375,
+      "lng": 412.2288868319458
+    }
+  },
+  {
+    "name": "Limgrave Tunnels",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 216.6875,
+      "lng": 406.0384449549052
+    }
+  },
+  {
+    "name": "Gatefront",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 231.96875,
+      "lng": 395.2520689570313
+    }
+  },
+  {
+    "name": "Church of Elleh",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 197.78125,
+      "lng": 387.71723818750206
+    }
+  },
+  {
+    "name": "Coastal Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 183.8125,
+      "lng": 369.4665398631541
+    }
+  },
+  {
+    "name": "The First Step",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 183.8125,
+      "lng": 390.0663333549317
+    }
+  },
+  {
+    "name": "Stranded Graveyard",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 179,
+      "lng": 394.63100261780005
+    }
+  },
+  {
+    "name": "Cave of Knowledge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 182.28125,
+      "lng": 398.9455530169496
+    }
+  },
+  {
+    "name": "Stormfoot Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 216.4375,
+      "lng": 370.3468255987243
+    }
+  },
+  {
+    "name": "Groveside Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 217.875,
+      "lng": 384.1346279612239
+    }
+  },
+  {
+    "name": "Warmster's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 257.90625,
+      "lng": 391.19237341247134
+    }
+  },
+  {
+    "name": "Stormhill Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 249.25,
+      "lng": 366.7506834663832
+    }
+  },
+  {
+    "name": "Castleward Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 247.9375,
+      "lng": 355.52659945700145
+    }
+  },
+  {
+    "name": "Limgrave Tower Bridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 259.71875,
+      "lng": 344.08366144186573
+    }
+  },
+  {
+    "name": "Margin, the Fell Omen",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 242.375,
+      "lng": 347.9292389715425
+    }
+  },
+  {
+    "name": "Stormveil Main Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 246.90625,
+      "lng": 341.2698242250291
+    }
+  },
+  {
+    "name": "Gateside Chamber",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 246.625,
+      "lng": 336.95527382587954
+    }
+  },
+  {
+    "name": "Stormveil Cliffside",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 241.71875,
+      "lng": 328.5762918912993
+    }
+  },
+  {
+    "name": "Rampart Tower",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 257.28125,
+      "lng": 322.47964458815323
+    }
+  },
+  {
+    "name": "Liftside Chamber",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 271.9375,
+      "lng": 321.3853745593834
+    }
+  },
+  {
+    "name": "Secluded Cell",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 280.78125,
+      "lng": 330.4521833691904
+    }
+  },
+  {
+    "name": "Godrick the Grafted",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 285.03125,
+      "lng": 325.57486552667353
+    }
+  },
+  {
+    "name": "Lake-Facing Cliffs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 299.28125,
+      "lng": 309.6669713994867
+    }
+  },
+  {
+    "name": "Stillwater Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 303.375,
+      "lng": 310.97867161482685
+    }
+  },
+  {
+    "name": "Liurnia Highway South",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 322.53125,
+      "lng": 312.91499098032904
+    }
+  },
+  {
+    "name": "Cliffbottom Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 342,
+      "lng": 320.78519227237007
+    }
+  },
+  {
+    "name": "Liurnia Lake Shore",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 319.28125,
+      "lng": 285.72309216469995
+    }
+  },
+  {
+    "name": "Slumbering Wolf's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 330.15625,
+      "lng": 240.7995503112632
+    }
+  },
+  {
+    "name": "Lakeside Crystal Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 339.125,
+      "lng": 241.73647903650618
+    }
+  },
+  {
+    "name": "Laskyar Ruins",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 344.25,
+      "lng": 271.9368149468382
+    }
+  },
+  {
+    "name": "Scenic Isle",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 367.21875,
+      "lng": 243.76649127453263
+    }
+  },
+  {
+    "name": "Liurnia Highway North",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 361.5625,
+      "lng": 309.3100059101076
+    }
+  },
+  {
+    "name": "Gate Town Bridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 396.125,
+      "lng": 287.6981833145029
+    }
+  },
+  {
+    "name": "Jarburg",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 415.75,
+      "lng": 315.33758070917077
+    }
+  },
+  {
+    "name": "Liurnia Tower Bridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 429.15625,
+      "lng": 312.8703350660309
+    }
+  },
+  {
+    "name": "Study Hall Entrance",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 435.8125,
+      "lng": 304.7502861139251
+    }
+  },
+  {
+    "name": "Divine Tower of Liurnia",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 435.25,
+      "lng": 353.99371645421934
+    }
+  },
+  {
+    "name": "Altar South",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 310.375,
+      "lng": 145.57213597744837
+    }
+  },
+  {
+    "name": "Moonlight Altar",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 343.96875,
+      "lng": 172.8675167772296
+    }
+  },
+  {
+    "name": "Village of the Albinaurics",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 355.75,
+      "lng": 177.05246508331493
+    }
+  },
+  {
+    "name": "Cathedral of Manus Celes",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 361.84375,
+      "lng": 196.94658501597416
+    }
+  },
+  {
+    "name": "Folly on the Lake",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 380.9375,
+      "lng": 201.88313289137912
+    }
+  },
+  {
+    "name": "Converted Tower",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 383.03125,
+      "lng": 161.00180951327718
+    }
+  },
+  {
+    "name": "Road's End Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 397.28125,
+      "lng": 142.1383111783852
+    }
+  },
+  {
+    "name": "Revenger's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 426.8125,
+      "lng": 145.97090227813138
+    }
+  },
+  {
+    "name": "Boilprawn Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 390.625,
+      "lng": 236.5630527088117
+    }
+  },
+  {
+    "name": "Fallen Ruins of the Lake",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 409.59375,
+      "lng": 214.13922521799643
+    }
+  },
+  {
+    "name": "Academy Gate Town",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 412.59375,
+      "lng": 250.53909598320968
+    }
+  },
+  {
+    "name": "Temple Quarter",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 436.25,
+      "lng": 167.85887021511576
+    }
+  },
+  {
+    "name": "South Raya Lucaria Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 444.4375,
+      "lng": 211.2893435356044
+    }
+  },
+  {
+    "name": "Debate Parlor",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 449.3125,
+      "lng": 204.26237809628205
+    }
+  },
+  {
+    "name": "Schoolhouse Classroom",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 455.03125,
+      "lng": 201.82636341065032
+    }
+  },
+  {
+    "name": "Gate Town North",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 465.125,
+      "lng": 219.15954482764542
+    }
+  },
+  {
+    "name": "Church of the Cuckoo",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 463.84375,
+      "lng": 185.679958378963
+    }
+  },
+  {
+    "name": "Raya Lucaria Grand Library",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 471.875,
+      "lng": 191.70753317802615
+    }
+  },
+  {
+    "name": "Main Academy Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 478.1875,
+      "lng": 189.28561120719186
+    }
+  },
+  {
+    "name": "Academy Crystal Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 466.125,
+      "lng": 179.47909054964867
+    }
+  },
+  {
+    "name": "Crystalline Woods",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 474.28125,
+      "lng": 172.04612266272105
+    }
+  },
+  {
+    "name": "Foot of the Four Belfries",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 474.625,
+      "lng": 137.72781470269135
+    }
+  },
+  {
+    "name": "The Four Belfries",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 500.34375,
+      "lng": 151.19170886725666
+    }
+  },
+  {
+    "name": "Sorcerer's Isle",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 515.53125,
+      "lng": 180.74841994971882
+    }
+  },
+  {
+    "name": "Northern Liurnia Lake Shore",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 541.25,
+      "lng": 165.90463186473502
+    }
+  },
+  {
+    "name": "Road to the Manor",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 560.5625,
+      "lng": 177.31613759249964
+    }
+  },
+  {
+    "name": "East Gate Bridge Trestle",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 498.875,
+      "lng": 202.0343163177426
+    }
+  },
+  {
+    "name": "Artist's Shake",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 438,
+      "lng": 291.08683805198666
+    }
+  },
+  {
+    "name": "Eastern Liurnia Lake Shore",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 449.90625,
+      "lng": 278.60549969404934
+    }
+  },
+  {
+    "name": "Eastern Tableland",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 474.53125,
+      "lng": 289.5973875924996
+    }
+  },
+  {
+    "name": "Church of Vows",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 482.875,
+      "lng": 249.96530251472166
+    }
+  },
+  {
+    "name": "Ruined Labyrinth",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 511.5,
+      "lng": 269.86833560438134
+    }
+  },
+  {
+    "name": "Mausoleum Compound",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 525.5,
+      "lng": 260.15550781936247
+    }
+  },
+  {
+    "name": "Raya Lucaria Crystal Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 513.1875,
+      "lng": 240.823545121849
+    }
+  },
+  {
+    "name": "East Raya Lucaria Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 528.125,
+      "lng": 217.61894369333126
+    }
+  },
+  {
+    "name": "Bellum Church",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 559.34375,
+      "lng": 228.0231561466979
+    }
+  },
+  {
+    "name": "The Ravine",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 568.125,
+      "lng": 219.52833570449488
+    }
+  },
+  {
+    "name": "Main Caria Manor Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 581.9375,
+      "lng": 196.7921986385986
+    }
+  },
+  {
+    "name": "Manor Lower Level",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 594.375,
+      "lng": 191.07693341461643
+    }
+  },
+  {
+    "name": "Royal Moongazing Grounds",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 609.5,
+      "lng": 195.16818884817744
+    }
+  },
+  {
+    "name": "Ranni's Rise",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 609.5,
+      "lng": 195.16818884817744
+    }
+  },
+  {
+    "name": "Ranni's Chamber",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 601,
+      "lng": 166.8104794308233
+    }
+  },
+  {
+    "name": "Behind Caria Manor",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 605.90625,
+      "lng": 218.18694824428147
+    }
+  },
+  {
+    "name": "Manor Upper Level",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 593.625,
+      "lng": 211.09752088994293
+    }
+  },
+  {
+    "name": "Curch of Inhibition",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 564.21875,
+      "lng": 261.3180799266735
+    }
+  },
+  {
+    "name": "Frenzied Flame Village Outskirts",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 546.6875,
+      "lng": 287.7082390210174
+    }
+  },
+  {
+    "name": "Black Knife Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 552,
+      "lng": 300.2006220242571
+    }
+  },
+  {
+    "name": "Grand Lift of Dectus",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 593.3125,
+      "lng": 279.2941422435634
+    }
+  },
+  {
+    "name": "Ravine-Veiled Village",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 606.28125,
+      "lng": 267.3491014167707
+    }
+  },
+  {
+    "name": "Ruin-Strewn Precipice",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 608.0625,
+      "lng": 268.7232635471271
+    }
+  },
+  {
+    "name": "Ruin-Strewn Precipice Overlook",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 609.1875,
+      "lng": 260.2909050199403
+    }
+  },
+  {
+    "name": "Magma Wyrm Makar",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 611.09375,
+      "lng": 247.33005765407907
+    }
+  },
+  {
+    "name": "Abandoned Coffin",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 621.375,
+      "lng": 248.36067925184634
+    }
+  },
+  {
+    "name": "Unsightly Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 643.59375,
+      "lng": 223.4696061178912
+    }
+  },
+  {
+    "name": "Craftsman's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 654.4375,
+      "lng": 238.74935303182195
+    }
+  },
+  {
+    "name": "Abduction Virgin",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 669.5625,
+      "lng": 256.8633083865196
+    }
+  },
+  {
+    "name": "Primeval Sorcerer Azur",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 678.28125,
+      "lng": 255.0831438085579
+    }
+  },
+  {
+    "name": "Subterranean Inquisition Chamber",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 681.0625,
+      "lng": 246.36970666379818
+    }
+  },
+  {
+    "name": "Rykard, Lord of Blasphemy",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 686.8125,
+      "lng": 239.46766505450825
+    }
+  },
+  {
+    "name": "Volcano Manor",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 692.75,
+      "lng": 232.00346621007253
+    }
+  },
+  {
+    "name": "Audience Pathway",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 696.9375,
+      "lng": 238.15596483916806
+    }
+  },
+  {
+    "name": "Temple of Eiglay",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 672.90625,
+      "lng": 234.87671430081764
+    }
+  },
+  {
+    "name": "Guest Hall",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 675.375,
+      "lng": 212.70273447006718
+    }
+  },
+  {
+    "name": "Prison Town Church",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 685.6875,
+      "lng": 220.72909054964867
+    }
+  },
+  {
+    "name": "Seethewater Teminus",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 694.40625,
+      "lng": 213.17119883268865
+    }
+  },
+  {
+    "name": "Road of Iniquity",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 702.15625,
+      "lng": 225.32004130333928
+    }
+  },
+  {
+    "name": "Ninth Mt. Gelmir Campsite",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 718.09375,
+      "lng": 239.43643409700016
+    }
+  },
+  {
+    "name": "Volcano Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 738.90625,
+      "lng": 245.9637042161929
+    }
+  },
+  {
+    "name": "Seethevater Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 700.9375,
+      "lng": 254.6146794459364
+    }
+  },
+  {
+    "name": "Gelmir Hero's Grave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 688,
+      "lng": 264.95212638111724
+    }
+  },
+  {
+    "name": "Wyndham Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 671.71875,
+      "lng": 273.0097134182069
+    }
+  },
+  {
+    "name": "Seethewater River",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 664.46875,
+      "lng": 261.29810435266967
+    }
+  },
+  {
+    "name": "Sage's Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 648.46875,
+      "lng": 263.2656546756799
+    }
+  },
+  {
+    "name": "First Mt. Gelmir Campsite",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 700,
+      "lng": 286.0027045103965
+    }
+  },
+  {
+    "name": "Bridge of Iniquity",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 691.21875,
+      "lng": 297.6830826184256
+    }
+  },
+  {
+    "name": "Old Altus Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 673.46875,
+      "lng": 292.12397218198396
+    }
+  },
+  {
+    "name": "Erdtree-Gazing Hill",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 636.53125,
+      "lng": 279.5629194113684
+    }
+  },
+  {
+    "name": "Altus Plateau",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 608.09375,
+      "lng": 286.24634431810165
+    }
+  },
+  {
+    "name": "Altus Highway Junction",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 628.28125,
+      "lng": 319.33481954784514
+    }
+  },
+  {
+    "name": "Shaded Castle Ramparts",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 709.4375,
+      "lng": 312.2394128510498
+    }
+  },
+  {
+    "name": "Shaded Castle Inner Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 721.65625,
+      "lng": 303.9319781538954
+    }
+  },
+  {
+    "name": "Castellan's Hall",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 723.53125,
+      "lng": 304.11936389894396
+    }
+  },
+  {
+    "name": "Road of Iniquit Side Path",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 728.5,
+      "lng": 343.95547785969177
+    }
+  },
+  {
+    "name": "Bower of Bounty",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 676.625,
+      "lng": 337.7910210222292
+    }
+  },
+  {
+    "name": "Forest-Spanning Greatbridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 670.4375,
+      "lng": 348.90924189511253
+    }
+  },
+  {
+    "name": "Sainted Hero's Grave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 658.25,
+      "lng": 340.8940442392382
+    }
+  },
+  {
+    "name": "Altus Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 662.375,
+      "lng": 358.9767686364277
+    }
+  },
+  {
+    "name": "Rampartside Path",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 658.5,
+      "lng": 373.1556233451048
+    }
+  },
+  {
+    "name": "Windmill Village",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 722.0625,
+      "lng": 372.19389875382524
+    }
+  },
+  {
+    "name": "Windmill Heights",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 741.34375,
+      "lng": 386.4352153775185
+    }
+  },
+  {
+    "name": "Perfumer's Grotto",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 628.59375,
+      "lng": 369.24428772897636
+    }
+  },
+  {
+    "name": "Outer Wall Phantom Tree",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 622.78125,
+      "lng": 386.9834715935767
+    }
+  },
+  {
+    "name": "Outer Wall Battleground",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 676.09375,
+      "lng": 413.6958791729829
+    }
+  },
+  {
+    "name": "Hermit Merchant's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 688.46875,
+      "lng": 419.5672991845056
+    }
+  },
+  {
+    "name": "Minor Erdtree Church",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 593.34375,
+      "lng": 407.69094716758065
+    }
+  },
+  {
+    "name": "Sealed Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 605.71875,
+      "lng": 412.3131288787793
+    }
+  },
+  {
+    "name": "Divine Tower of West Altus: Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 571.28125,
+      "lng": 415.4100208899429
+    }
+  },
+  {
+    "name": "Divine Tower of West Altus",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 557.625,
+      "lng": 414.09832067460275
+    }
+  },
+  {
+    "name": "Auriza Side Tomb",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 656.9375,
+      "lng": 486.34068463535056
+    }
+  },
+  {
+    "name": "Auriza Hero's Grave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 643.53125,
+      "lng": 481.1563456890061
+    }
+  },
+  {
+    "name": "Frenzied Flame Proscription",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 637.15625,
+      "lng": 489.9010137912739
+    }
+  },
+  {
+    "name": "Capital Rampart",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 648.1875,
+      "lng": 468.2891911956692
+    }
+  },
+  {
+    "name": "Cathedral of the Forsaken",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 633.875,
+      "lng": 481.1875766465142
+    }
+  },
+  {
+    "name": "East Capital Rampart",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 633.84375,
+      "lng": 472.8176800343436
+    }
+  },
+  {
+    "name": "Leyndell, Capital of Ash",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 628.375,
+      "lng": 461.79315203398454
+    }
+  },
+  {
+    "name": "Underground Roadside",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 623.125,
+      "lng": 460.3877589461201
+    }
+  },
+  {
+    "name": "Avenue Balcony",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 621.6875,
+      "lng": 456.85866074770485
+    }
+  },
+  {
+    "name": "Craftsman's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 654.4375,
+      "lng": 238.74935303182195
+    }
+  },
+  {
+    "name": "Lower Capital Church",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 618.03125,
+      "lng": 452.486326696571
+    }
+  },
+  {
+    "name": "Leyndel Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 618.03125,
+      "lng": 452.486326696571
+    }
+  },
+  {
+    "name": "Fortified Manor, First Floor",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 612.8125,
+      "lng": 441.4305677387038
+    }
+  },
+  {
+    "name": "West Capital Rampart",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 611.4375,
+      "lng": 453.48571733683013
+    }
+  },
+  {
+    "name": "Erdtree Sanctuary",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 599.03125,
+      "lng": 462.38654022663843
+    }
+  },
+  {
+    "name": "Queen's Bedchamber",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 608.5,
+      "lng": 471.2561321589386
+    }
+  },
+  {
+    "name": "Elden Throne",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 595.8125,
+      "lng": 481.0676229068679
+    }
+  },
+  {
+    "name": "Fractured Marika",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 575.03125,
+      "lng": 495.52957473725934
+    }
+  },
+  {
+    "name": "Divine Bridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 609.25,
+      "lng": 429.9516685670673
+    }
+  },
+  {
+    "name": "Forsaken Depths",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 625.0625,
+      "lng": 469.7525145620241
+    }
+  },
+  {
+    "name": "Divine Tower of East Altus",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 581,
+      "lng": 543.8070352813711
+    }
+  },
+  {
+    "name": "Divine Tower of East Altus: Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 587.90625,
+      "lng": 542.9950303861605
+    }
+  },
+  {
+    "name": "Forbidden Lands",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 623.8125,
+      "lng": 536.682244748782
+    }
+  },
+  {
+    "name": "Yelough Anix Tunnel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 735.40625,
+      "lng": 534.6548032471621
+    }
+  },
+  {
+    "name": "Consecrated Snowfield",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 715.28125,
+      "lng": 573.6606873771594
+    }
+  },
+  {
+    "name": "Hidden Path to the Haligtree",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 702.21875,
+      "lng": 571.1622107765115
+    }
+  },
+  {
+    "name": "Inner Consecrated Snowfield",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 756.40625,
+      "lng": 573.2203119608824
+    }
+  },
+  {
+    "name": "Apostate Derelict",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 829.71875,
+      "lng": 534.7883723685175
+    }
+  },
+  {
+    "name": "Ordina, Liturgical Town",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 799.1875,
+      "lng": 560.5301840970002
+    }
+  },
+  {
+    "name": "Cave of the Forlorn",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 777.46875,
+      "lng": 603.5241666695595
+    }
+  },
+  {
+    "name": "Consecrated Snowfield Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 736.34375,
+      "lng": 603.3497107765115
+    }
+  },
+  {
+    "name": "Haligtree Canopy",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 870.75,
+      "lng": 596.9178663966061
+    }
+  },
+  {
+    "name": "Haligtree Town",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 891.03125,
+      "lng": 601.2589694902318
+    }
+  },
+  {
+    "name": "Haligtree Town Plaza",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 898.96875,
+      "lng": 595.6686280962821
+    }
+  },
+  {
+    "name": "Haligtree Promenade",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 899.84375,
+      "lng": 615.0318217513036
+    }
+  },
+  {
+    "name": "Prayer Room",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 915.15625,
+      "lng": 605.2232635471271
+    }
+  },
+  {
+    "name": "Drainage Channel",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 921.4375,
+      "lng": 609.6580595132772
+    }
+  },
+  {
+    "name": "Haligtree Roots",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 928.0625,
+      "lng": 605.4731112071919
+    }
+  },
+  {
+    "name": "Elphael Inner Wall",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 933.4375,
+      "lng": 592.9182662889359
+    }
+  },
+  {
+    "name": "Malenia, Goddess of Rot",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 921.625,
+      "lng": 593.7927330991628
+    }
+  },
+  {
+    "name": "Castle Sol Rooftop",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 825.3125,
+      "lng": 648.6224487826319
+    }
+  },
+  {
+    "name": "Church of the Eclipse",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 816.5625,
+      "lng": 648.1539844200104
+    }
+  },
+  {
+    "name": "Castle Sol Maine Gate",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 809.40625,
+      "lng": 638.0976161024024
+    }
+  },
+  {
+    "name": "Snow Valley Ruins Overlook",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 797.90625,
+      "lng": 651.0636239835687
+    }
+  },
+  {
+    "name": "Freezing Lake",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 812.40625,
+      "lng": 676.348663439457
+    }
+  },
+  {
+    "name": "Ancient Snow Valley Ruins",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 767.28125,
+      "lng": 640.638349263369
+    }
+  },
+  {
+    "name": "Grand Lift of Rold",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 675.34375,
+      "lng": 583.8782377001697
+    }
+  },
+  {
+    "name": "Zamor Ruins",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 697.8125,
+      "lng": 593.2802983519516
+    }
+  },
+  {
+    "name": "Giant-Contquering Hero's Grave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 699.59375,
+      "lng": 602.3060450717923
+    }
+  },
+  {
+    "name": "Giants' Mountaintop Catacombs",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 702.0625,
+      "lng": 615.2356614801454
+    }
+  },
+  {
+    "name": "Church of Repose",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 679.125,
+      "lng": 633.8329914686227
+    }
+  },
+  {
+    "name": "Foot of the Forge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 681.4375,
+      "lng": 658.4818720242571
+    }
+  },
+  {
+    "name": "Giant's Gravepost",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 722.65625,
+      "lng": 661.9720829126293
+    }
+  },
+  {
+    "name": "Fire Giant",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 659.78125,
+      "lng": 684.9343775078748
+    }
+  },
+  {
+    "name": "Forge of The Giants",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 685.1875,
+      "lng": 719.4058886692005
+    }
+  },
+  {
+    "name": "Whiteridge Road",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 760.6875,
+      "lng": 672.1906424877102
+    }
+  },
+  {
+    "name": "Spiritcaller's Cave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 785.125,
+      "lng": 690.8778568503317
+    }
+  },
+  {
+    "name": "First Church of Mariks",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 751.5,
+      "lng": 719.1834634682637
+    }
+  },
+  {
+    "name": "Isolated Divine Tower",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 470.8125,
+      "lng": 637.0959594056071
+    }
+  },
+  {
+    "name": "Craftsman's Shack",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 654.4375,
+      "lng": 238.74935303182195
+    }
+  },
+  {
+    "name": "Crumbling Beast Grave",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 489.125,
+      "lng": 916.7424977347378
+    }
+  },
+  {
+    "name": "Crumbling Beast Grave Depths",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 494.9375,
+      "lng": 894.818365564052
+    }
+  },
+  {
+    "name": "Tempest-Facing Balcony",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 502.96875,
+      "lng": 895.9426800343435
+    }
+  },
+  {
+    "name": "Dragonlord Placidusax",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 506.84375,
+      "lng": 906.0302793094596
+    }
+  },
+  {
+    "name": "Dragon Temple",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 516.625,
+      "lng": 897.3793040797161
+    }
+  },
+  {
+    "name": "Dragon Temple Transept",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 512.53125,
+      "lng": 909.0284512302372
+    }
+  },
+  {
+    "name": "Dragon Temple Altar",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 518.40625,
+      "lng": 907.3107485672917
+    }
+  },
+  {
+    "name": "Dragon Temple Lift",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 527.375,
+      "lng": 897.6916136547972
+    }
+  },
+  {
+    "name": "Beside the Great Bridge",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 527.21875,
+      "lng": 911.3707730433447
+    }
+  },
+  {
+    "name": "Dragon Temple Rooftop",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 539.1875,
+      "lng": 914.9320162388792
+    }
+  },
+  {
+    "name": "Maliketh, the Black Blade",
+    "position": {
+      "marker": "circle",
+      "color": "gold",
+      "lat": 512.875,
+      "lng": 929.9228758427669
+    }
+  }
+]

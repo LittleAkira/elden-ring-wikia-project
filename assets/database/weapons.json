@@ -1,0 +1,2535 @@
+[
+  {
+    "id": "fdc6eca3-b012-4b5f-81df-3d3f5b5f441b",
+    "name": "Dagger",
+    "desc": "A standard dagger with a straight blade.\nThough modest in reach and capacity for harm, this weapons is light enough to jab in rapid succession and delivers devastating critical hits.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "require": {
+      "str": 5,
+      "dex": 9
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 400,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "bee02475-d15f-4961-b075-05f6e0c007ad",
+    "name": "Parrying dagger",
+    "desc": "A knife with curved handguards. Designed to parry turning foes' attacks against them.\n\nFor master of combat who anticipate every enem strike and counter accordingly, this weapons is all they need.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "require": {
+      "str": 5,
+      "dex": 14
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": null,
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 229.5626224729317,
+      "lng": 428.4636761192921,
+      "ev": "sell"
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "parry"
+  },
+  {
+    "id": "93d79be1-a7f5-470c-aa3a-997d2fcb3cf0",
+    "name": "Miséricorde",
+    "desc": "Dagger favored by military physicians in white. The pointed blade is hard and sharp, making critical hits especially potent.\n\nMedicine is mercy, and mercy upon the battlefield is ruthless. Beware the killers clothes as men of compassion.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "require": {
+      "str": 7,
+      "dex": 12
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 261.4688024883993,
+      "lng": 324.99052228367634,
+      "ev": "chest"
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "315bce4f-2e6a-4618-984e-42cbea514b65",
+    "name": "Great knife",
+    "desc": "Large knife with a broad, curved blade.\n\nThis weapons is designed to Spinning Slash and rend, inflicting blood loss upon the recipient.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "require": {
+      "str": 6,
+      "dex": 12
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 1.5,
+    "passive": "hemorrhage (38)",
+    "sell_value": 100,
+    "cost": null,
+    "position": [
+      {
+        "lat": 659.2473580839016,
+        "lng": 238.99339329253078,
+        "marker": "circle",
+        "color": "red",
+        "info": "Drop from Demi-human (4) hidden in a flock of sheep."
+      },
+      {
+        "lat": 340.42479780736835,
+        "lng": 242.76955461200933,
+        "marker": "point",
+        "info": "Drop from Demi-human (1) hidden in a bush at the start of the dungeon."
+      }
+    ],
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "b078fe77-bf91-4672-b051-acf316855165",
+    "name": "Bloodstained dagger",
+    "desc": "Dagger with a bloodstained blade.\nAfflicts targets with blood loss.\n\nAs blood darkened the dager through repeated slashing and stabbing, its blade only grew sharper and harder.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "require": {
+      "str": 9,
+      "dex": 12
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 2.0,
+    "passive": "hemorrhage (38)",
+    "sell_value": 100,
+    "cost": null,
+    "position": [
+      {
+        "lat": 110.28271967518053,
+        "lng": 430.2740106973595,
+        "marker": "point",
+        "info": "Drop from Chief Demi-human (1) before the wooden bridge."
+      },
+      {
+        "lat": 669.2487227822836,
+        "lng": 251.7395855562111,
+        "marker": "circle",
+        "color": "red",
+        "info": "Drop from Chief Demi-Human (2) sleeping, close to each other"
+      }
+    ],
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "afb29d74-c8a0-48a7-a3fb-ac0e825cc9d0",
+    "name": "Erdsteel dagger",
+    "desc": "An erdsteel dagger with a grass crest engraved upon its blade. Carried by the Erdtree royalty for self-defense in times of peace.\n\nThough forged to a high standard, the weapon is difficult to wield.\nAttack power also scales with faith",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 7,
+      "dex": 12,
+      "fai": 14
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": {
+      "lat": 245.13764970423236,
+      "lng": 465.99360010249063,
+      "marker": "point",
+      "info": "Given as reward from Kenneth Haight, after clearing out Fort Haight."
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "a0f93151-681f-4b20-98f0-30a55c6d31ee",
+    "name": "Wakizashi",
+    "desc": "Short sword with a tempering pattern on the blade. A weapon unique to warriors of the Land of Reeds. Afflicts targets with blood loss.\n\nThese swords are considered auxiliary weapons. Yet, one man is known to wield this weapons in his left hand while using a full-sized katana in his right. A demonic swordsman known only a Okina.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 9,
+      "dex": 13
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 3.0,
+    "passive": "hemorrhage (38)",
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 248.76081261025672,
+      "lng": 524.4677758226139,
+      "info":"Found inside the Gaol Cave.",
+      "marker":"point"
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "34f829fe-e721-43d9-bdc6-753d70dccdbb",
+    "name": "Celebrant's sickle",
+    "desc": "Sickle decorated with flowers and many-coloured fabrics. Ceremonial tools used by dancers during the festivities of Dominula. Its attacks can slip through an enemy's guard.\n\nCrafted by human bone.\nGrants trace amounts of runes on landing attacks.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "require": {
+      "str": 6,
+      "dex": 11
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 1.5,
+    "passive": "rune gain on hit",
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 728.6798716859678,
+      "lng": 384.7345238407949,
+      "marker":"circle",
+      "color":"red",
+      "info": "Drop from Celebrants (2) wielding it."
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "c5ebcb33-6f1f-49f4-9a2d-6fa8be37ce9e",
+    "name": "Ivory sickle",
+    "desc": "Sickle fashioned from ivory.\nWeapon carried by aged Albinaurics.\n\nThese weapons are evidence of their dedication to the Haligtree, despite never having entered its presence.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "int": "D"
+    },
+    "require": {
+      "str": 6,
+      "dex": 11,
+      "int": 13
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "1d480a05-6f77-429e-9aa7-5a6c86878a7f",
+    "name": "Crystal knife",
+    "desc": "A knife made by sharpening hard crystal.\nSignature weapon of glintstone miners.\n\nUsed as a tool to extract glintstone from broken rock, and as such a faint magic enwreathes the blade.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "D"
+    },
+    "require": {
+      "str": 8,
+      "dex": 12,
+      "int": 9
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": {
+      "lat": 512.5134020379558,
+      "lng": 240.17047980278744,
+      "marker":"point",
+      "info": "Found in a chest inside the Raya Lucaria Crytal Tunnel."
+    },
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "6a8f2b2f-da02-4758-939d-06c22d802f91",
+    "name": "Scorpion's stinger",
+    "desc": "Dagger fashioned from a great scorpion's tail, glistening with scarlet rot.\n\nA ceremonial toolf used by heretics, crafted from a relic of a sealed outer god.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "require": {
+      "str": 6,
+      "dex": 12
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "7",
+    "wgt": 2.5,
+    "passive": "scarlet rot (50)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "repeating thrust"
+  },
+  {
+    "id": "a73039c5-3d91-412b-a2b5-d6c24db9c2b6",
+    "name": "Cinquedea",
+    "desc": "Short sword given to high ranking clergymen of Farum Azula.\nRaises potency of bestial incantations.\n\nThe design celebrates a beast's five fingers, symbolic of the intelligence once granted upon their kind.",
+    "scaling": {
+      "str": "D",
+      "dex": "E"
+    },
+    "require": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "3",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "quickstep"
+  },
+  {
+    "id": "225b93c0-2214-4687-86b8-5424b5877414",
+    "name": "Glintstone kris",
+    "desc": "Ritual blade once presented to Leyndell by the Academy of Raya Lucaria to celebrate their newfound peace.\n\nThough the weapon is embedded with precious glintstones and features Erdtree ornamentation, the undulating blade is sumbolic of an ancient ritual.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "int": "D"
+    },
+    "require": {
+      "str": 5,
+      "dex": 12,
+      "int": 16
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "10 (-4)",
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "glintstone dart"
+  },
+  {
+    "id": "7669cf14-1f81-4667-8149-a7b272e275c4",
+    "name": "Reduvia",
+    "desc": "Jagged dagger with a distinctive curled balde.\nCarried by the noble servants of the Lord of Blood.\n\nThis dagger rips the flesh as it enters, inflicting blood loss with sickening efficacy. A proud testament to the success of it wicious design, this weapons is perpetually coated in blood.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "arc": "D"
+    },
+    "require": {
+      "str": 5,
+      "dex": 13,
+      "arc": 13
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "6 (-6)",
+    "wgt": 2.5,
+    "passive": "hemorrhage (50)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "reduvia blood blade"
+  },
+  {
+    "id": "8843abf2-4577-4fba-a2e5-fe287e76f206",
+    "name": "Blade of calling",
+    "desc": "Dagger given to one who set out on a journey to fullfill her duty long ago. The power of its former owner, the kindling maiden, is still apparent.\n\nThe one who walks alongside flame, Shall one day meet the road of Destined Death.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "C"
+    },
+    "require": {
+      "str": 6,
+      "dex": 13,
+      "fai": 15
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "20",
+    "wgt": 1.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "blade of gold"
+  },
+  {
+    "id": "f1ddb72e-f1e4-444b-acf6-12f1a53353ad",
+    "name": "Black knife",
+    "desc": "Dagger once belonging to one of the assassins who murdered Godwyn the Golden on the Night of the Black Knives.\n\nA ritual performed on the oddly misshapen blade imbued it with the power of the stolen Rune of Death.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 8,
+      "dex": 12,
+      "fai": 18
+    },
+    "type": "dagger",
+    "dmg_type": ["slash", "pierce"],
+    "fp_cost": "25",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "blade of death"
+  },
+  {
+    "id": "",
+    "name": "Short sword",
+    "desc": "A short straight sword with a short blade.\nIn addition to its reliable standard damage, this weapon also boasts powerful piercing attacks.\n\nLightweight amongst straight swords, this weapon is easy to wield, requiring only humble attributes.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 8,
+      "dex": 10
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": null,
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": null,
+    "cost": 600,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "kick"
+  },
+  {
+    "id": "",
+    "name": "Longsword",
+    "desc": "A straight sword with a double-edged blade.\nIn addition to its easily-inflicted standard damage, this well-balanced weapon can also perform powerful piercing attacks.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "- (6 8)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 1000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "square off"
+  },
+  {
+    "id": "",
+    "name": "Broadsword",
+    "desc": "A straight sword with a wide blade, suited to slashing attacks.\n\nHorizontal swings boast wide attack range, making it easier to connect with foes.",
+    "scaling": {
+      "str": "D",
+      "dex": "E"
+    },
+    "require": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "- (6 8)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 1800,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "square off"
+  },
+  {
+    "id": "",
+    "name": "Weathered straight sword",
+    "desc": "Straight sword with a rather short but wide blade.\n\nSimple to wield, it was known as the sword of the people.\nThough the Erdtree styling is still visible, time has not been kind to this sword, now merely a shadow of its former self.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 7,
+      "dex": 10
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "- (6 8)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "square off"
+  },
+  {
+    "id": "",
+    "name": "Lordsworn's straight sword",
+    "desc": "Well-crafted straight sword with an illustrious design, wielded by regulars of a lord's army.\n\nThough blackened and damaged by years of use, it appears to have otherwise been kept in a sevicable condition, despite the soldiers having long since lost their minds.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 10,
+      "dex": 10
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "- (6 8)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "square off"
+  },
+  {
+    "id": "",
+    "name": "Noble's slender sword",
+    "desc": "Narrow blade carried by wandering nobles.\nMade to be easy to wield.\n\nDaubed with gold from tip to tail, it should fetch a good sum.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "require": {
+      "str": 8,
+      "dex": 11
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "- (6 8)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "square off"
+  },
+  {
+    "id": "",
+    "name": "Cane sword",
+    "desc": "Beloved sword of an aged knight whose last quest was long behind him, repurposed into a walking stick. The tip is rather worn.\n\nThough bent of back and without the brawn required even to raise the sword aloft, still he wished to meet his end with weapon in hand.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "require": {
+      "str": 8,
+      "dex": 11
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "- (6 8)",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "square off"
+  },
+  {
+    "id": "",
+    "name": "Warhawk's talon",
+    "desc": "Talon-swords are affixed to the legs of the Stormveil's warhawks, but this one has been repurposed for human use.\n\nThe blade is thin and lightwaight so as not to obstruct the hawk's mobility.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "require": {
+      "str": 10,
+      "dex": 16
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Lazuli glintstone sword",
+    "desc": "A sword with a glintstone in its handguards. Wielded by scholars of the Lazuli Conspectus who seek to master Carian sorcery. Deals magic damage.\n\nApparently once used as a staff of sorcery, this sword is made of wood.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 8,
+      "dex": 9,
+      "int": 13
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "8",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "glintstone pebble"
+  },
+  {
+    "id": "",
+    "name": "Carian knight's sword",
+    "desc": "Straight sword embedded with a blue glintstone.\nWeapon of knights sworn to Carian royalty.\n\nThese knights' swords could serve as catalysts, letting them wield sorcerous battle skills. Despite numbering fewer than twenty, this power made them a match for even the champions of gold in battle.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "D"
+    },
+    "require": {
+      "str": 10,
+      "dex": 10,
+      "int": 18
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "26",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "carian grandeur"
+  },
+  {
+    "id": "",
+    "name": "Crystal sword",
+    "desc": "Sword fashioned from pure crystal; a deed impossible for a human. Enwreathed with powerful magic, its attack scales with intelligence. The inscrutable Crystalians have but one clear purpose; to safeguard thair crystals unto the end. One theoyr posits that yearn for the return of their creator who will carve for them new brethren.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 13,
+      "dex": 10,
+      "int": 15
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 4.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Rotten crystal sword",
+    "desc": "Sword fashioned from pure crystal; a deed impossible for a human, it festers with scarlet rot.\n\nEnwreathed with powerful magic, its attack scales with intelligence.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 13,
+      "dex": 10,
+      "int": 15
+    },
+    "type": "straight sword",
+    "dmg_type": ["pierce"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 4.5,
+    "passive": "scarlet rot (50)",
+    "sell_value": null,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Miquellan knight's sword",
+    "desc": "Sword forged by servants of Miquella of the Haligtree, with a design modeled after those carried by Carian knights. Insted of glintstone however, amber from the Haligtree is embedded in the blade.\nA sumptuous piece, yet has never been offered to any knight - an ill-starred sword with no master.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "E"
+    },
+    "require": {
+      "str": 11,
+      "dex": 11,
+      "fai": 16
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "19",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "sacred blade"
+  },
+  {
+    "id": "",
+    "name": "Ornamental straight sword",
+    "desc": "Slender straight sword patterned after an antiue ornament.\nSuperior swordsmen prefer to wield one in each hand.\n\nAfter falling from grace, the dregs of the golden lineage sought power and purpose in the past.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "require": {
+      "str": 10,
+      "dex": 14
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "24",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "golden tempering"
+  },
+  {
+    "id": "",
+    "name": "Golden epitaph",
+    "desc": "A sword made to commemorate the death of Godwyn the Golden, first of the demigods to die.\n\nInfused with the humble prayer of a young boy; \"O brother, lord brother, please die a true death.\"",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 12,
+      "dex": 10,
+      "fai": 14
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "25",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "last rite"
+  },
+  {
+    "id": "",
+    "name": "Sword of St. Trina",
+    "desc": "Silver sword carried by clerics of St. Trina. Inflicts sleep ailment upon foes. St. Trina is an enigmatic figure. Some say she is a comely young girl, others are sure he is a boy. The only cerainty is that their appearance was a sudden as their disappearance.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "E"
+    },
+    "require": {
+      "str": 10,
+      "dex": 12,
+      "int": 14
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "20",
+    "wgt": 3.0,
+    "passive": "sleep (66)",
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "mists of slumber"
+  },
+  {
+    "id": "",
+    "name": "Regalia of Eochaid",
+    "desc": "Treasured sword of Eochaid, a lesser, long-vanished domain. The copper coloration is not be confused for rust, but is a conduit for its wieldeer to move it by their will alone.\n\nSwords of Eochaid dance through the skies.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "arc": "D"
+    },
+    "require": {
+      "str": 12,
+      "dex": 15,
+      "arc": 15
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "15",
+    "wgt": 5.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "eochaid's dancing blade"
+  },
+  {
+    "id": "",
+    "name": "Coded sword",
+    "desc": "Hidden sword once granted to the Tarnished of the Roundtable by the Two Fingers. A formless cipher comprises its blade, which deals holy damage no shield can repel. Campions would gather at the Roundtable Hold in days long past, when the Two Fingers were masters of oration, their flesh yet full of vigor.",
+    "scaling": {
+      "fai": "B"
+    },
+    "require": {
+      "fai": 20
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "18",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "unblocable blade"
+  },
+  {
+    "id": "",
+    "name": "Sword of night and flame",
+    "desc": "Storied sword and treasure of Caria Manor.\nOne of the legendary armaments.\n\nAstrologers, who preceded the sorcerers, established themselves in mountaintops that nearly touched the sky, and considered the Fire Giants their neighbors.",
+    "scaling": {
+      "str": "E",
+      "dex": "E",
+      "int": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 12,
+      "dex": 12,
+      "int": 24,
+      "fai": 24
+    },
+    "type": "straight sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "- (26 32)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "night-and-flame stance"
+  },
+  {
+    "id": "",
+    "name": "Bastard sword",
+    "desc": "A large sword with a straight blade.\nThis heavy sword is normally wielded with two hands, but thos with sufficient strength can wield it in one alone.\nThe heft blade can be swung into multiple foes at once thanks to the broad sweeping attacks, making fending off crowds all the easier.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 16,
+      "dex": 10
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 3000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Claymore",
+    "desc": "A large sword with a long, straight blade. This heavy sword is usually wielded with two hands, but for those with enought strength, one is sufficient.\n\nIn addition to the heavy sweeping attacks, it can also make a heavy piercing thrust making this a versatile weapon.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 16,
+      "dex": 13
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "20",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "lion's claw"
+  },
+  {
+    "id": "",
+    "name": "Iron greatsword",
+    "desc": "Greatsword with a blade of unusually thick steel.\nA corse weapon to which polishing is a foreign concept.\n\nWeighty even among other of its class, the impact of each strike is sure to be felt.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "require": {
+      "str": 18,
+      "dex": 10
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "20",
+    "wgt": 12.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Lordsworn's greatsword",
+    "desc": "Well-crafted straight sword with an illustrious design, wielded by regulars of a lord's army.\n\nThrough blackened and damaged by years of use, it appears to have otherwise been kept in a serviceable condition, despite the soldiers having long since lost their minds.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 16,
+      "dex": 10
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Knight's greatsword",
+    "desc": "Greatsword bestowed upon skilled swordsmen in the demigods' service, and yet had no rank or title.\n\nFeaturing a long grip enabling a dual-handed use, this weapon was designed to dispatch larger foes. Being charged with such a duty was undoubtedly a great honor.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 16,
+      "dex": 12
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Banished knight's greatsword",
+    "desc": "A finely-crafted greatsword intricately engraved with an ancient motiv. Given to knights who, whether by misfortune or misdeed, were forced to abandon their homes. Most of these knights were sent to the fringes, where they were forced to start anew with only despair for company.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 17,
+      "dex": 9
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Forked greatsword",
+    "desc": "Oddly shaped greatsword wielded by imps.\n\nThe gently undulating forked blade is known as an \"imp's tongue\" and causes blood loss.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 14,
+      "dex": 16
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 9.0,
+    "passive": "hemorrhage (55)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Flamberge",
+    "desc": "Greatsword featuring a flame-like undulation.\nShreds enemy flesh, inducing blood loss.\n\nScarlet rot is kept at bay with flame at Redmane Castle, and as such, this beloved sword of Jerren's eventually became the symbol of the castle itself.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "require": {
+      "str": 15,
+      "dex": 14
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Gargoyle's Greatsword",
+    "desc": "Bronze greatsword wielded by Valiant Gargoyles.\n\nJust like the wielder, the missing parts have been mended with corpse was; a patchwork of champions.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "require": {
+      "str": 18,
+      "dex": 10
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "12",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "vacuum slice"
+  },
+  {
+    "id": "",
+    "name": "Gargoyle's Blackblade",
+    "desc": "Bronze greatsword wielded by Valian Gargoyles mended with blackened corpse wax. Deals holy damage.1n1nSuch is the mark of those who serve Maliketh, the Black Blade",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "fai": "D"
+    },
+    "require": {
+      "str": 18,
+      "dex": 10,
+      "fai": 22
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "16",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "corpse wax cutter"
+  },
+  {
+    "id": "",
+    "name": "Inseparable Sword",
+    "desc": "Sword forged by compounding silver and golf. A sacred weapon to hunt Those Who Live in Death.\nDeals holy damage.\n\nThe inseparable twins found solace in the Golden Order, the only institution not to revile them as accursed beings.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "C"
+    },
+    "require": {
+      "str": 18,
+      "dex": 18,
+      "fai": 20
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "19 (- -)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "sacred blade"
+  },
+  {
+    "id": "",
+    "name": "Sword of Milos",
+    "desc": "Sinister greatsword fashioned from a giant's backbone.\n\nMates out wounds like a lopsided saw-blade, and restores some FP upon defeating an enemt.\n\nMilos was undersized for a giant, and was viewed as sullied and terribly grotesque.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 15,
+      "dex": 19
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 10.0,
+    "passive": "hemorrhage (55)",
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "shriek of milos"
+  },
+  {
+    "id": "",
+    "name": "Marais Executioner's Sword",
+    "desc": "Storied sword of House Marais, the family of executioners who presided over the Shaded Castle. One of the legendary armaments.\n\nElemr of the Briar, the Bell Bearing Hunter, snatched the sword from the site of hise looming execution, and furnished it with battle skills from his home of Eochaid.",
+    "scaling": {
+      "str": "C",
+      "dex": "E",
+      "arc": "D"
+    },
+    "require": {
+      "str": 24,
+      "dex": 14,
+      "arc": 23
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "15",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "eochaid's dancing blade"
+  },
+  {
+    "id": "",
+    "name": "Ordovis' Greatsword",
+    "desc": "Greatsworfd of Ordovis, one of the two honored as foremost among the Crucible Knights.\n\nThis sword is imbued with an ancient holy essence.\nIts red tint exemplifies the nature of primordial gold, said to be close in nature to life itself.",
+    "scaling": {
+      "str": "C",
+      "dex": "E",
+      "fai": "D"
+    },
+    "require": {
+      "str": 25,
+      "dex": 13,
+      "fai": 15
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "15",
+    "wgt": 12.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "ordovis's vortex"
+  },
+  {
+    "id": "",
+    "name": "Alabaster Lord's Sword",
+    "desc": "Greatsword forged from a blue-white meteoric ore.\nThe blade conceals gravity-manipulating magic.\n\nA weapon unique to the Alabaster Lords, a race of ancients with skin of stone who were said to have risen to life when a meteor struck long ago.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 16,
+      "dex": 12,
+      "int": 18
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "15",
+    "wgt": 8.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "alabaster lords' pull"
+  },
+  {
+    "id": "",
+    "name": "Death's Poker",
+    "desc": "Barbed rod carried by Deathbirds.\n\nThe birds are graveyard fire keepers; it is said they rake out the ashen remains of the dead from their kilns.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "E"
+    },
+    "require": {
+      "str": 15,
+      "dex": 17,
+      "int": 11
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "15",
+    "wgt": 8.5,
+    "passive": "frostibite (65)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "ghostflame ignition"
+  },
+  {
+    "id": "",
+    "name": "Helphen's Steeple",
+    "desc": "Greatsword patterned after black steeple of the Helphen, the lampwood which guides the dead of the spirit world.\n\nThe lamplight is similar to grace in appearance, only it is said that can only be seen by those who met their death in battle.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 19,
+      "dex": 10,
+      "int": 22
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "20",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": null,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "ruinous ghostflame"
+  },
+  {
+    "id": "",
+    "name": "Blasphemous Blade",
+    "desc": "Sacred sword of Rykard, Lord of Blasphemy.\nRemains of the countless heroes he has devoured writhe upon the surface of this blade.\n\nNow they share the same blood, bound together as family.\nSome HP is restored upon defeating an enemy.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 22,
+      "dex": 15,
+      "fai": 21
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "20",
+    "wgt": 13.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "taker's flames"
+  },
+  {
+    "id": "",
+    "name": "Golden Order Greatsword",
+    "desc": "Greatsword made of light, modeled after the Elden Ring itself.\nForged by King Consort Radagon to proudly symbolize the tenets of the Golden Order.\nOne of the legendary armaments.\n\nTelltale signs betray that this was once the greatsword bequeathed to him by his first wife, Rennala.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "fai": "C"
+    },
+    "require": {
+      "str": 16,
+      "dex": 21,
+      "fai": 28
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "20",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "establish order"
+  },
+  {
+    "id": "",
+    "name": "Dark Moon Greatsword",
+    "desc": "A Moon Greatsword, bestowed by a Carian queen upon her spouse to honor long-standing tradition.\nOne of the legendary armaments.\n\nRanni's sigil is a full moon, cold and leaden, and this sord is but a beam of its light.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "C"
+    },
+    "require": {
+      "str": 16,
+      "dex": 11,
+      "int": 38
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "32",
+    "wgt": 10.0,
+    "passive": "frostbite (55)",
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "moonlight greatsword"
+  },
+  {
+    "id": "",
+    "name": "Sacred Relic Sword",
+    "desc": "Sword wrought from the remains of a god who should have lived a life eternal.\n\nThoughts on what the weapon portend are many and varied. Some consider it the mark of a great sin, or a sign of great devastation. Some think of it as the end of an age, while others, the beginning.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 14,
+      "dex": 24,
+      "fai": 22
+    },
+    "type": "greatsword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "42",
+    "wgt": 11.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "wave of gold"
+  },
+  {
+    "id": "",
+    "name": "Zweihander",
+    "desc": "Just about the largest sword a mere man is capable of swinging. True to its name, it is designed to be wielded in both hands, but those of merely ordinary strength will still struggle to do so.\n\nThe long blade is heavy and sharp, sending foes reeling back with its broader strokes, while also capable of devastating percing thrust.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 19,
+      "dex": 11
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 15.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 3500,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Greatsword",
+    "desc": "A coarse iron lump of an ultra greatsword.\nMows down foes by utilizing its incredible weight.\n\nThough handling it likely requires the wielder to have surpassed the realm of the merely human, it is precisely for this reason the weapon is use to slaughter even inhuman foes.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "require": {
+      "str": 31,
+      "dex": 12
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 23.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Watchdog's Greatsword",
+    "desc": "Stone greatsword wielded by Erdtree Burial Watchdogs.\n\nThough decorated with the watchman's eye, the pupil was taken by graverobbers and is now hollow, leaving this sword a mere lump of stone.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "require": {
+      "str": 30,
+      "dex": 10
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "5 (- 8)",
+    "wgt": 22.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "stamp (upward cut)"
+  },
+  {
+    "id": "",
+    "name": "Troll's Golden Sword",
+    "desc": "Sword given to the lesser giants who fought for the Erdtree during the War against the Giants long ago.\n\nThough the giants have lost their minds, they stay insseparable from their swords that are in sad shape - such that the gold plating had flakes away.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 29,
+      "dex": 10
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "22",
+    "wgt": 19.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "troll's roar"
+  },
+  {
+    "id": "",
+    "name": "Troll Knight's Sword",
+    "desc": "Greatsword embedded with a blue glintstone.\nWeapon of the trolls in service to the royal family of Caria.\n\nCalled into service when the Queen invoked an oath they swore, the trolls are treated as true knights of Caria, and fight arm in arm with their human comrades.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "D"
+    },
+    "require": {
+      "str": 20,
+      "dex": 14,
+      "int": 18
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "22",
+    "wgt": 18.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "troll's roar"
+  },
+  {
+    "id": "",
+    "name": "Royal Greatsword",
+    "desc": "Greatsword decorated in royal Carian Style. Favored weapon of Blaidd the Half-Wolf.\n\nIn defiance of the fate he was born to, Blaidd swore to serve no master but Ranni. As proof, the sword was imbued with a cold magic at the moment oath was sworn.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 26,
+      "dex": 18,
+      "int": 22
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "20",
+    "wgt": 20.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "wolf's assault"
+  },
+  {
+    "id": "",
+    "name": "Grafted Blade Greatsword",
+    "desc": "The storie dsword of Castle Morne. A revenger's weapon, it is burdened with oceans of anger and regret.\nOne of the legendary armaments.\n\nA lone surviving champion from a country now vanished was so determined to continue fighting that he claimed the swords of an entire clan of warriors.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "require": {
+      "str": 40,
+      "dex": 14
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "20",
+    "wgt": 21.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "oath of vengeance"
+  },
+  {
+    "id": "",
+    "name": "Starscourge Greatsword",
+    "desc": "Curved greatsword of black steel wielded by General Radahn. A pair of weapons decorated with a lion mane motif.\n\nRadahn earned considerable renown as the Starscourge in his youth, and it is said that it was during this time he engraved the gravity crest upon these blades.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "int": "E"
+    },
+    "require": {
+      "str": 38,
+      "dex": 12,
+      "int": 15
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "20 (- 20)",
+    "wgt": 20.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "starcaller cry"
+  },
+  {
+    "id": "",
+    "name": "Ruins Greatsword",
+    "desc": "Originally rubble from a ruin which fell from the sky, this surviving fragment was honed into a weapon.\nOne of the legendary armaments.\n\nThe ruin it came from crumbled when struck by a meteorite, as such this weapon harbors its destructive power.",
+    "scaling": {
+      "str": "B",
+      "int": "E"
+    },
+    "require": {
+      "str": 50,
+      "int": 16
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "25 (- 25)",
+    "wgt": 23.0,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "wave of desctuction"
+  },
+  {
+    "id": "",
+    "name": "Godslayer's Greatsword",
+    "desc": "Sacred sword of the Gloam-Eyed Queen who controlled the Godskin Apostles before her defeat at the hands of Maliketh.\n\nThe black flames wielded by the apostles are channeled from this sword.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 20,
+      "dex": 22,
+      "fai": 20
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "15 (- 15)",
+    "wgt": 17.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "the queen's black flame"
+  },
+  {
+    "id": "",
+    "name": "Maliketh's Black Blade",
+    "desc": "Maliketh's black blade which once harbored the power of the Rune of Death. A sad shadow of its former glory.\n\nAfter a fragment of Death was stolen on that fateful night, Maliketh bound the blade within his own flesh, such that none might ever rob Death again.",
+    "scaling": {
+      "str": "C",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 34,
+      "dex": 12,
+      "int": 20
+    },
+    "type": "colossal sword",
+    "dmg_type": ["standard"],
+    "fp_cost": "40",
+    "wgt": 22.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "destined death"
+  },
+  {
+    "id": "",
+    "name": "Rapier",
+    "desc": "A piercing sword with a sharp, slender blade.\nIn addition to this weapon's thrusting attack prowess, it also boasts the ability to be used while guarding with a shield.\n\nAs one of the smaller piercing sword, quick successive thrust area easy to perform, but without a cutting edge, it cannot be used for slashing attacks.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "require": {
+      "str": 7,
+      "dex": 12
+    },
+    "type": "thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "14",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 1000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "impaling thrust"
+  },
+  {
+    "id": "",
+    "name": "Estoc",
+    "desc": "Large piercing sword with a long, hard bladed edge which is also capable of slashing attacks.\n\nFor its large size, it can be wielded rather nimbly, leaving little opportunity for the enemy to counter.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "require": {
+      "str": 11,
+      "dex": 13
+    },
+    "type": "thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "14",
+    "wgt": 4.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 3000,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "impaling thrust"
+  },
+  {
+    "id": "",
+    "name": "Noble's Estoc",
+    "desc": "Estoc carried by wandering nobles. Made to be easy to wield.\n\nDaubed with gold from tip to tail, it should fetch a good sum.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 9,
+      "dex": 10
+    },
+    "type": "thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "9",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "impaling thrust"
+  },
+  {
+    "id": "",
+    "name": "Cleanrot Knight's Sword",
+    "desc": "Piercing sword of the Cleanrot Knights who fought alongside Malenia, Blade of Miquella.\n\nMAinly used as a backup weapon, in combination with a long-handled armament.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 11,
+      "dex": 13
+    },
+    "type": "thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "14",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "impaling thrust"
+  },
+  {
+    "id": "",
+    "name": "Rogier's Rapier",
+    "desc": "Piercing sword of superior quality, featuring intricate ornamentation.\nSignature weapon of the sorcerer Rogier.\n\nHigh dexterity is required to wield the blade to its full potential, but mastery is a sight to behold, characterized by a flowing style which excels in successive attacks.",
+    "scaling": {
+      "str": "E",
+      "dex": "C"
+    },
+    "require": {
+      "str": 8,
+      "dex": 17
+    },
+    "type": "thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "10",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "repeating thrust"
+  },
+  {
+    "id": "",
+    "name": "Antspur Rapier",
+    "desc": "Spur of a giant ant which has been fashioned into a rapier. The blade drips with scarlet rot.\n\nScarlet rot is an old legend, of which Maleigh Marais of the Shaded Castle was a private believer. And indeed, he eventually found his own personal goddess.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 10,
+      "dex": 20
+    },
+    "type": "thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "14",
+    "wgt": 3.0,
+    "passive": "scarlet rot (55)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "impaling thrust"
+  },
+  {
+    "id": "",
+    "name": "Frozen Needle",
+    "desc": "A razor-thin piercing blade of ice.\nForged by Ijii, the carian Royal Blackmith.\n\nCan inflict frost upon enemies, and launch its blade with a strong attack. The blade immediately regenerates.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "require": {
+      "str": 11,
+      "dex": 18
+    },
+    "type": "thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "14",
+    "wgt": 2.5,
+    "passive": "frostbite (60)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "impaling thrust"
+  },
+  {
+    "id": "",
+    "name": "Godskin Stitcher",
+    "desc": "Elegant piercing sword with a celadon colored blade wielded by Godskin Nobles.\n\nThe nobles possess skill with the sword unmatched by any lowborn. Despite its size, successive attacks from this weapon are swifter than the eye can follow.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 14,
+      "dex": 17
+    },
+    "type": "heavy thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "9",
+    "wgt": 7.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "impaling thrust"
+  },
+  {
+    "id": "",
+    "name": "Bloody Helice",
+    "desc": "Ominous piercing sword with a winding blade. Carried by the noble servants of the Lord of Blood.\n\nDesigned to bore into flesh, causing severe blood loss at the wound. The extracted blood trickles gracefully down the length of the blade.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "arc": "D"
+    },
+    "require": {
+      "str": 16,
+      "dex": 19,
+      "arc": 17
+    },
+    "type": "heavy thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "5 (- 7)",
+    "wgt": 8.0,
+    "passive": "hemorrhage (55)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "dynast's finesse"
+  },
+  {
+    "id": "",
+    "name": "Dragon King's Cragblade",
+    "desc": "Piercing Gravel Stone sword containing primeval lightning.\nA portion of the Dragonlord's power, gained from a remembrance.\n\nThis weapon commands great power over the paltry, mortal dragons of today.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "require": {
+      "str": 18,
+      "dex": 37
+    },
+    "type": "heavy thrusting sword",
+    "dmg_type": ["standard", "pierce"],
+    "fp_cost": "35",
+    "wgt": 8.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "thundercloud form"
+  },
+  {
+    "id": "",
+    "name": "Scimitar",
+    "desc": "A curved sword with a single-sided blade.\nDelivers slashing attacks with its sharp blade, but is ineffective against armor and hides covered in tough scales.\nSmaller in size than most curved swords, it carves into enemies with quick, sharp cuts.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 7,
+      "dex": 13
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 10,
+    "cost": 600,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Falchio",
+    "desc": "A curved sword with a single-sided blade.\nDelivers slashing attacks with its sharp blade, but is ineffective against thick armor and hides covered in tough scales.\n\nWielders of the weapon employ a unique style that enchances attacks with spinning motions..",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 9,
+      "dex": 13
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 3.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Shamshir",
+    "desc": "Curved sword with a thin blade of ample length. Light of weight despite its larger size, its slicing attacks come in rapid succession.\n\nA devastatingly powerful weapon in the hands of a skilled swordsman.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 7,
+      "dex": 13
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Grossmesser",
+    "desc": "Curved sword boasting a large blade.\nThis weapon is designed to make use of its weight in combination with its sharp cutting edge.\n\nA thorougly reliable choice of weapon for those who can master its particulars.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 14,
+      "dex": 12
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 4.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Bandit's Curved Sword",
+    "desc": "Curved sword with a light, crescent-shaped blade.\nUsed by the bandits who ran rampant in the wake of the Shattering.\n\nMost of the blade is now darkened and covered in rust, but with enough dexterity this weapon may still stand up to some use.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 11,
+      "dex": 13
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 5.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Shotel",
+    "desc": "Curved sword with a severely hooked blade. Its attacks can slip through an enemy's guard.\n\nMade to hunt down humans, this weapon requires high dexterity to wield efficiently.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "require": {
+      "str": 9,
+      "dex": 19
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 2.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": 2500,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Scavenger's Curved Sword",
+    "desc": "Unique curved sword, notched like shark's teeth.\nWeapon carried by corpse pillagers who prowl the sites of old battles.\n\nThe blade is tacky with blood and covered in hefty nicks making it totally uneven. Life can be sinister indeed.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 9,
+      "dex": 14
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 3.5,
+    "passive": "hemorrhage (45)",
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Mantis Blade",
+    "desc": "A curved sword with a blade at both ends wielded by the Cemetery Shades, the insect-ridden grave keepers.\n\nThe blade is thin and sharp, and strong attack unleashes a far-reaching slash.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 10,
+      "dex": 12
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Beastman's Curved Sword",
+    "desc": "Curved sword forged of dull iron wielded by the beastmen of Farum Azula.\n\nThe blade is heavy but well-balanced. Comparatively easy to wield for the damage it delivers.",
+    "scaling": {
+      "str": "C",
+      "dex": "E"
+    },
+    "require": {
+      "str": 13,
+      "dex": 11
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Flowing Curved Sword",
+    "desc": "Legends speak of a master of the sword garbed in blue, and his curved blade that was patterned after flowing water.\nStrong attack unleashes a series of strikes akin to a dance, offering a glimpse into the legend.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 9,
+      "dex": 17
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Serpent-God's Curved Sword",
+    "desc": "Curved sword faschioned in the image of an ancient serpent deity and tool of a forgotten religion practiced on Mt. Gelmir.\n\nFormerly ised to offer up sacrifices, this sword restores HP upon slaying an enemy.",
+    "scaling": {
+      "str": "D",
+      "dex": "E"
+    },
+    "require": {
+      "str": 13,
+      "dex": 9
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Magma Blade",
+    "desc": "Curved sword with a blade fashioned from the lava of Mt. Gelmir.\nAn armament of the man-serpents, impossible for a human to have made.\n\nDeals fire damage.",
+    "scaling": {
+      "str": "D",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 9,
+      "dex": 15,
+      "fai": 16
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "12",
+    "wgt": 4.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "magma shower"
+  },
+  {
+    "id": "",
+    "name": "Nox Flowing Sword",
+    "desc": "A grim weapon wielded by swordsman of the Eternal City, this shotel has a blade as fine as a needle.\n\nForged from the liquid metal of a Silver Tear, it is throughly tempered until hardened.",
+    "scaling": {
+      "str": "E",
+      "dex": "D"
+    },
+    "require": {
+      "str": 8,
+      "dex": 15
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "9",
+    "wgt": 3.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "flowing form"
+  },
+  {
+    "id": "",
+    "name": "Wing of Astel",
+    "desc": "CuSword faschioned form a delicate wing, suffused with the magic of the stars.\nStrong attack unleashes a wave of enchanted light.\n\nCrafted from a relic of the Naturalborn of the Void who is said to have assailed the Eternal City.",
+    "scaling": {
+      "str": "E",
+      "dex": "D",
+      "int": "D"
+    },
+    "require": {
+      "str": 7,
+      "dex": 17,
+      "int": 20
+    },
+    "type": "curved sword",
+    "dmg_type": ["slash"],
+    "fp_cost": "20",
+    "wgt": 2.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "nebula"
+  },
+  {
+    "id": "",
+    "name": "Dismounter",
+    "desc": "This curved greatsword wielded by the brawny sellswords of Kaiden combines the blades of a schimitar with the heft of a hatchet.\n\nA difficult to handle weapon that demands much of the wielder's strength and dexterity, but with practice and ability, it can serve as a versatile weapon even on horseback.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 19,
+      "dex": 16
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 10.0,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Dismounter",
+    "desc": "Heavy.bladed curved sword of colossal size awarded to Omen as a tool of war. This weapon is made to take advantage of brute strength.\n\nThe pattern etched upon the blade is the remnant of a deteriorating malediction. Indeed, when bestowing a weapon, preparations must be made for taking it away.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 19,
+      "dex": 16
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Monk's Flameblade",
+    "desc": "Curved sword with a flickering flame motif.\nWielded by the Fire Monks who came from the Mountaintops of the Giants.\n\nThe monks came to the land of Liurnia in pursuit of a fugitive who stole their fire.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 18,
+      "dex": 18
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 9.0,
+    "passive": null,
+    "sell_value": 200,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Beastman's Cleaver",
+    "desc": "Curved greatsword of colossal size forged of dull iron and wielded by the beastmen of Farum Azula.\n\nThe blade is incredibly heavy, but well-balanced. Comparatively easy to wield for the damage it delivers. It's clear the beastmen possess knowledge beyond human ken.",
+    "scaling": {
+      "str": "C",
+      "dex": null
+    },
+    "require": {
+      "str": 25,
+      "dex": 14
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "6 (- 12)",
+    "wgt": 16.5,
+    "passive": null,
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "spinning slash"
+  },
+  {
+    "id": "",
+    "name": "Bloodhound's Fang",
+    "desc": "Curved greatsword with a gently undulating blade wielded by Bloodhound Knights.\n\nA fearsome blade capable of brutal airborne attacks.",
+    "scaling": {
+      "str": "D",
+      "dex": "C"
+    },
+    "require": {
+      "str": 18,
+      "dex": 17
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "8 (- 12)",
+    "wgt": 11.5,
+    "passive": "hemorrhage (55)",
+    "sell_value": 100,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "bloodhoung's finesse"
+  },
+  {
+    "id": "",
+    "name": "Onix Lord's Greatsword",
+    "desc": "Greatsword forged from golden-hued meteoric ore.\nThe blade conceals gravity-manipulating magic.\n\nA weapon unique to the Onyx Lords, a race of ancients with skin of stone who were said to have risen to life when a meteor struck long ago.",
+    "scaling": {
+      "str": "D",
+      "dex": "E",
+      "int": "D"
+    },
+    "require": {
+      "str": 20,
+      "dex": 16,
+      "int": 16
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "27",
+    "wgt": 11.5,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "onyx lord's repulsion"
+  },
+  {
+    "id": "",
+    "name": "Zamor Curved Sword",
+    "desc": "Weapoon wielded by the knights of Zamor who earned great renown during the War against the Giants.\n\nIn apparent devotion to winter, the curved blade is stled after an icy wind and imbued with a powerful frost effect.",
+    "scaling": {
+      "str": "D",
+      "dex": "D"
+    },
+    "require": {
+      "str": 16,
+      "dex": 18
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "15",
+    "wgt": 9.0,
+    "passive": "frostibite (65)",
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "zamor ice storm"
+  },
+  {
+    "id": "",
+    "name": "Magma Wyrm's Scalesword",
+    "desc": "Curved greatsword wielded by Magma Wyrms. The shape resembles a dragon's jaw and is covered in hard scales.\n\nIt's said these land-bound dragons were once humans heroes who partook in dragon communion, a grave trasgression for which they were cursed to crawl the earth upon their bellies, shadows of their former selves.",
+    "scaling": {
+      "str": "C",
+      "dex": "D",
+      "fai": "D"
+    },
+    "require": {
+      "str": 24,
+      "dex": 15,
+      "fai": 18
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "20 (- 10)",
+    "wgt": 15.0,
+    "passive": null,
+    "sell_value": 500,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "magma guillotine"
+  },
+  {
+    "id": "",
+    "name": "Morgott's Cursed Sword",
+    "desc": "Warped blade of shifting hue used by Morgott, the Omen King.\n\nThe accused blood that Morgott recanted and sealed away reformed into this blade.",
+    "scaling": {
+      "str": "E",
+      "dex": "C",
+      "arc": "D"
+    },
+    "require": {
+      "str": 14,
+      "dex": 35,
+      "arc": 17
+    },
+    "type": "curved greatsword",
+    "dmg_type": ["slash"],
+    "fp_cost": "20 (- 20)",
+    "wgt": 7.5,
+    "passive": "hemorrhage (60)",
+    "sell_value": 1000,
+    "cost": null,
+    "position": "",
+    "id_stat_att": "",
+    "id_stat_def": "",
+    "skill_name": "cursed-blood slice"
+  }
+]

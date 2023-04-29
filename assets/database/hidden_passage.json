@@ -1,0 +1,260 @@
+[
+    {
+        "type": "hidden area",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 308.125,
+            "lng": 644.7525145620241
+        }
+    },
+    {
+        "type": "magic barrier",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 278.34375,
+            "lng": 599.4210274502616
+        }
+    },
+    {
+        "type": "magic barrier",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 282.96875,
+            "lng": 594.9550005266034
+        }
+    },
+    {
+        "type": "ruins cellar entrance",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 197.75,
+            "lng": 451.0581956025861
+        }
+    },
+    {
+        "type": "unmarked cave (seaside ruins)",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 172.78125,
+            "lng": 406.4437654563819
+        }
+    },
+    {
+        "type": "ruins cellar entrance",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 122.84375,
+            "lng": 422.00691290110655
+        }
+    },
+    {
+        "type": "ruins cellar entrance",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 116.1875,
+            "lng": 389.232670538126
+        }
+    },
+    {
+        "type": "ruins hidden cellar",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 224.75,
+            "lng": 402.4208941528183
+        }
+    },
+    {
+        "type": "locked door",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 253.625,
+            "lng": 323.64731827705424
+        }
+    },
+    {
+        "type": "rooftop access",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 256.4375,
+            "lng": 321.83592274158445
+        }
+    },
+    {
+        "type": "cellar passage",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 261.53125,
+            "lng": 326.55179732530746
+        }
+    },
+    {
+        "type": "underground crypt passage",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 270.84375,
+            "lng": 320.52422252624433
+        }
+    },
+    {
+        "type": "hidden passage",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 277.625,
+            "lng": 329.0502739259554
+        }
+    },
+    {
+        "type": "ruins cellar entrance",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 355.1875,
+            "lng": 262.02313710420594
+        }
+    },
+    {
+        "type": "illusionary floor (above village)",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 344.5,
+            "lng": 211.12326633899272
+        }
+    },
+    {
+        "type": "debate hall 2nd floor access",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 454,
+            "lng": 204.99588602750512
+        }
+    },
+    {
+        "type": "illusory wall",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 454.46875,
+            "lng": 203.87157155721354
+        }
+    },
+    {
+        "type": "illusory wall",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 463.96875,
+            "lng": 181.57266789643066
+        }
+    },
+    {
+        "type": "rooftops access",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 458.375,
+            "lng": 197.3130704805127
+        }
+    },
+    {
+        "type": "hidden cellar",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 550.375,
+            "lng": 175.5068735453318
+        }
+    },
+    {
+        "type": "false wall",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 557.875,
+            "lng": 175.2972652122351
+        }
+    },
+    {
+        "type": "hidden cellar",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 608.71875,
+            "lng": 174.37846621007253
+        }
+    },
+    {
+        "type": "path to subterranean inquisition chamber",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 674.21875,
+            "lng": 226.13958702534254
+        }
+    },
+    {
+        "type": "altus cave",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 634.84375,
+            "lng": 335.86584103794235
+        }
+    },
+    {
+        "type": "sewer grate to subterranean shunning grounds",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 620.125,
+            "lng": 459.67481817694073
+        }
+    },
+    {
+        "type": "hidden path",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 632.3125,
+            "lng": 491.6063578769758
+        }
+    },
+    {
+        "type": "invisible bridge",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 702.4375,
+            "lng": 572.6038061830611
+        }
+    },
+    {
+        "type": "path to dragonlord placidusax arena",
+        "position": {
+            "marker": "circle",
+            "color": "grey",
+            "lat": 525.96875,
+            "lng": 906.254323122208
+        }
+    },
+    {
+        "position": {
+            "marker": "circle",
+            "color": "grey"
+        }
+    }
+]
